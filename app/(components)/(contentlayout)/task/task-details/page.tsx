@@ -20,7 +20,7 @@ const Taskdetails = () => {
                         </div>
                         <div className="box-body">
                             <h5 className="font-semibold mb-4 task-title text-[1.25rem]">
-                                Update ynex new project design.
+                                Update Dharwin Business Solutions new project design.
                             </h5>
                             <div className="text-[.9375rem] font-semibold mb-2">Task Description :</div>
                             <p className="text-[#8c9097] dark:text-white/50 task-description">The current website design needs a refresh to improve user experience and enhance visual appeal. The goal is to create a modern and responsive design that aligns with the latest web design trends. The updated design should ensure seamless navigation, easy readability, and a cohesive visual identity.</p>
@@ -221,7 +221,7 @@ const Taskdetails = () => {
                                         <tr className="border-b border-defaultborder">
                                             <td><span className="font-semibold">Project Name :</span></td>
                                             <td>
-                                                Ynex admin &amp; dashboard template
+                                                Dharwin Business Solutions admin &amp; dashboard template
                                             </td>
                                         </tr>
                                         <tr className="border-b border-defaultborder">

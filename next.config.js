@@ -5,8 +5,8 @@ const nextConfig = {
   output: "export",
   reactStrictMode: true,
   trailingSlash: true,
-  basePath: isProd ? "/tailwind/app/ynex-ts/preview" : undefined,
-	assetPrefix : isProd ? "/tailwind/app/ynex-ts/preview" : undefined,
+  basePath: isProd ? "/tailwind/app/dharwin-business-solutions/preview" : undefined,
+	assetPrefix : isProd ? "/tailwind/app/dharwin-business-solutions/preview" : undefined,
   images: {
     loader: "imgix",
     path: "/",

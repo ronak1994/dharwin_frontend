@@ -43181,10 +43181,6 @@ h5 {
   height: 1.25rem;
 }
 
-.h-\[1\.375rem\] {
-  height: 1.375rem;
-}
-
 .h-\[1\.75rem\] {
   height: 1.75rem;
 }
@@ -43199,10 +43195,6 @@ h5 {
 
 .h-\[14\.7px\] {
   height: 14.7px;
-}
-
-.h-\[1rem\] {
-  height: 1rem;
 }
 
 .h-\[2\.313rem\] {
@@ -43501,10 +43493,6 @@ h5 {
   width: 1.25rem;
 }
 
-.w-\[1\.375rem\] {
-  width: 1.375rem;
-}
-
 .w-\[1\.75rem\] {
   width: 1.75rem;
 }
@@ -43549,10 +43537,6 @@ h5 {
   width: 18%;
 }
 
-.w-\[1rem\] {
-  width: 1rem;
-}
-
 .w-\[2\.313rem\] {
   width: 2.313rem;
 }
@@ -43575,10 +43559,6 @@ h5 {
 
 .w-\[22\%\] {
   width: 22%;
-}
-
-.w-\[22rem\] {
-  width: 22rem;
 }
 
 .w-\[24\%\] {
@@ -43807,10 +43787,6 @@ h5 {
 
 .min-w-8 {
   min-width: 2rem;
-}
-
-.min-w-\[10rem\] {
-  min-width: 10rem;
 }
 
 .min-w-\[120px\] {
@@ -44633,10 +44609,6 @@ h5 {
 
 .rounded-\[0\.375rem\] {
   border-radius: .375rem;
-}
-
-.rounded-\[50\%\] {
-  border-radius: 50%;
 }
 
 .rounded-full {
@@ -46583,11 +46555,6 @@ h5 {
   padding-bottom: .18rem;
 }
 
-.py-\[0\.25\/2rem\] {
-  padding-top: .25 / 2rem;
-  padding-bottom: .25 / 2rem;
-}
-
 .py-\[0\.25rem\/2\] {
   padding-top: .25rem / 2;
   padding-bottom: .25rem / 2;
@@ -46943,10 +46910,6 @@ h5 {
   font-family: .7rem;
 }
 
-.font-inter {
-  font-family: Inter, sans-serif;
-}
-
 .\!text-\[\.625rem\] {
   font-size: .625rem !important;
 }
@@ -47017,10 +46980,6 @@ h5 {
 
 .\!text-\[0\.95rem\] {
   font-size: .95rem !important;
-}
-
-.\!text-\[1\.0625rem\] {
-  font-size: 1.0625rem !important;
 }
 
 .\!text-\[1\.125rem\] {
@@ -47355,10 +47314,6 @@ h5 {
   line-height: 1.25rem;
 }
 
-.leading-\[1\.75\] {
-  line-height: 1.75;
-}
-
 .leading-\[1\.75rem\] {
   line-height: 1.75rem;
 }
@@ -47369,10 +47324,6 @@ h5 {
 
 .leading-none {
   line-height: 1;
-}
-
-.leading-normal {
-  line-height: 1.5;
 }
 
 .\!text-\[\#8c9097\] {
@@ -47436,10 +47387,6 @@ h5 {
 .text-\[\#8c9097\] {
   --tw-text-opacity: 1;
   color: rgb(140 144 151 / var(--tw-text-opacity));
-}
-
-.text-\[0\.813\] {
-  color: .813;
 }
 
 .text-black {
@@ -47751,12 +47698,6 @@ h5 {
 .shadow {
   --tw-shadow: 0 1px 3px 0 #0000001a, 0 1px 2px -1px #0000001a;
   --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-}
-
-.shadow-\[0_0_0\.4rem_rgba\(0\,0\,0\,0\.1\)\] {
-  --tw-shadow: 0 0 .4rem #0000001a;
-  --tw-shadow-colored: 0 0 .4rem var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
@@ -54150,7 +54091,7 @@ label {
   touch-action: none;
 }
 
-.ynex-kanban-board {
+.dharwin-kanban-board {
   align-items: stretch;
   margin-bottom: .75rem;
   padding-bottom: 1rem;
@@ -54158,84 +54099,84 @@ label {
   overflow-x: auto;
 }
 
-.ynex-kanban-board .kanban-tasks-type {
+.dharwin-kanban-board .kanban-tasks-type {
   width: 100%;
   min-width: 20rem;
   margin-inline-end: 1.5rem;
 }
 
-.ynex-kanban-board .kanban-tasks-type:last-child {
+.dharwin-kanban-board .kanban-tasks-type:last-child {
   margin-inline-end: 0;
 }
 
-.ynex-kanban-board .kanban-tasks-type .kanban-tasks {
+.dharwin-kanban-board .kanban-tasks-type .kanban-tasks {
   touch-action: none;
 }
 
-.ynex-kanban-board .task-image .kanban-image {
+.dharwin-kanban-board .task-image .kanban-image {
   border-radius: .5rem;
   width: 100%;
   height: 150px;
 }
 
-.ynex-kanban-board .kanban-content {
+.dharwin-kanban-board .kanban-content {
   margin-top: .75rem;
 }
 
-.ynex-kanban-board .kanban-task-description {
+.dharwin-kanban-board .kanban-task-description {
   color: rgb(var(--text-muted));
   font-size: .82rem;
 }
 
-.ynex-kanban-board .kanban-tasks-type.new .kanban-tasks.box {
+.dharwin-kanban-board .kanban-tasks-type.new .kanban-tasks.box {
   border-style: solid;
   border-top-width: 3px;
   border-color: rgb(var(--primary) / .3);
 }
 
-.ynex-kanban-board .kanban-tasks-type.todo .kanban-tasks.box {
+.dharwin-kanban-board .kanban-tasks-type.todo .kanban-tasks.box {
   border-style: solid;
   border-top-width: 3px;
   border-color: rgb(var(--warning) / .3);
 }
 
-.ynex-kanban-board .kanban-tasks-type.in-progress .kanban-tasks.box {
+.dharwin-kanban-board .kanban-tasks-type.in-progress .kanban-tasks.box {
   border-style: solid;
   border-top-width: 3px;
   border-color: rgb(var(--info) / .3);
 }
 
-.ynex-kanban-board .kanban-tasks-type.inreview .kanban-tasks.box {
+.dharwin-kanban-board .kanban-tasks-type.inreview .kanban-tasks.box {
   border-style: solid;
   border-top-width: 3px;
   border-color: rgb(var(--danger) / .3);
 }
 
-.ynex-kanban-board .kanban-tasks-type.completed .kanban-tasks.box {
+.dharwin-kanban-board .kanban-tasks-type.completed .kanban-tasks.box {
   border-style: solid;
   border-top-width: 3px;
   border-color: rgb(var(--success) / .3);
 }
 
-.ynex-kanban-board #new-tasks .box:last-child, .ynex-kanban-board #todo-tasks .box:last-child, .ynex-kanban-board #inprogress-tasks .box:last-child, .ynex-kanban-board #inreview-tasks .box:last-child, .ynex-kanban-board #completed-tasks .box:last-child {
+.dharwin-kanban-board #new-tasks .box:last-child, .dharwin-kanban-board #todo-tasks .box:last-child, .dharwin-kanban-board #inprogress-tasks .box:last-child, .dharwin-kanban-board #inreview-tasks .box:last-child, .dharwin-kanban-board #completed-tasks .box:last-child {
   margin-bottom: 0;
 }
 
-.ynex-kanban-board #new-tasks, .ynex-kanban-board #todo-tasks, .ynex-kanban-board #inprogress-tasks, .ynex-kanban-board #inreview-tasks, .ynex-kanban-board #completed-tasks {
+.dharwin-kanban-board #new-tasks, .dharwin-kanban-board #todo-tasks, .dharwin-kanban-board #inprogress-tasks, .dharwin-kanban-board #inreview-tasks, .dharwin-kanban-board #completed-tasks {
   max-height: 35rem;
   position: relative;
 }
 
-.ynex-kanban-board #new-tasks .simplebar-content, .ynex-kanban-board #todo-tasks .simplebar-content, .ynex-kanban-board #inprogress-tasks .simplebar-content, .ynex-kanban-board #inreview-tasks .simplebar-content, .ynex-kanban-board #completed-tasks .simplebar-content {
+.dharwin-kanban-board #new-tasks .simplebar-content, .dharwin-kanban-board #todo-tasks .simplebar-content, .dharwin-kanban-board #inprogress-tasks .simplebar-content, .dharwin-kanban-board #inreview-tasks .simplebar-content, .dharwin-kanban-board #completed-tasks .simplebar-content {
   padding: 0 0 1rem;
 }
 
-.ynex-kanban-board .task-Null {
+.dharwin-kanban-board .task-Null {
   min-height: 12.5rem;
   position: relative;
 }
 
-.ynex-kanban-board .task-Null:before {
+.dharwin-kanban-board .task-Null:before {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
   content: var(--tw-content);
@@ -54250,7 +54191,7 @@ label {
   inset: 0;
 }
 
-.ynex-kanban-board .task-Null:is(.dark *):before {
+.dharwin-kanban-board .task-Null:is(.dark *):before {
   content: var(--tw-content);
   background-color: rgb(var(--body-bg));
 }
@@ -75041,6 +74982,51 @@ button.swiper-pagination-bullet {
   }
 }
 
+.app-sidebar .side-menu__item.active {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  background-color: #ffffff0d;
+}
+
+.app-sidebar .side-menu__item.active:before {
+  content: var(--tw-content);
+  --tw-border-opacity: 1;
+  border-color: rgb(255 255 255 / var(--tw-border-opacity));
+}
+
+.app-sidebar .side-menu__item.active {
+  color: #fff !important;
+  background-color: #ffffff0d !important;
+}
+
+.app-sidebar .side-menu__item.active .side-menu__label, .app-sidebar .side-menu__item.active .side-menu__angle {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  color: #fff !important;
+}
+
+.app-sidebar .side-menu__item.active .side-menu__icon {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  fill: #fff !important;
+  color: #fff !important;
+}
+
+.app-sidebar .slide-menu.child1 .side-menu__item.active, .app-sidebar .slide-menu.child2 .side-menu__item.active, .app-sidebar .slide-menu.child3 .side-menu__item.active, .app-sidebar .slide-menu.child1 .side-menu__item.active .side-menu__angle, .app-sidebar .slide-menu.child2 .side-menu__item.active .side-menu__angle, .app-sidebar .slide-menu.child3 .side-menu__item.active .side-menu__angle {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  color: #fff !important;
+}
+
+.app-sidebar .slide-menu.child1 .side-menu__item.active:before, .app-sidebar .slide-menu.child2 .side-menu__item.active:before, .app-sidebar .slide-menu.child3 .side-menu__item.active:before {
+  opacity: 1 !important;
+  border-color: #fff !important;
+}
+
+.header-logo-container, .header-logo-container .horizontal-logo, .header-logo-container .header-logo, .main-sidebar-header {
+  background-color: #fff !important;
+}
+
 .rtl\:dir-rtl:where([dir="rtl"], [dir="rtl"] *) {
   direction: rtl;
 }
@@ -75439,10 +75425,6 @@ button.swiper-pagination-bullet {
 .last\:rounded-e-sm:last-child {
   border-start-end-radius: .25rem;
   border-end-end-radius: .25rem;
-}
-
-.last\:pb-0:last-child {
-  padding-bottom: 0;
 }
 
 .last\:after\:hidden:last-child:after {
@@ -77885,10 +77867,6 @@ button.swiper-pagination-bullet {
   color: rgb(var(--default-text-color));
 }
 
-.dark\:text-defaulttextcolor\/50:is(.dark *) {
-  color: rgb(var(--default-text-color) / .5);
-}
-
 .dark\:text-defaulttextcolor\/70:is(.dark *) {
   color: rgb(var(--default-text-color) / .7);
 }
@@ -79478,11 +79456,6 @@ button.swiper-pagination-bullet {
     padding-right: .325rem;
   }
 
-  .md\:px-\[0\.48rem\] {
-    padding-left: .48rem;
-    padding-right: .48rem;
-  }
-
   .md\:px-\[0\.65rem\] {
     padding-left: .65rem;
     padding-right: .65rem;
@@ -79827,10 +79800,6 @@ button.swiper-pagination-bullet {
 
   .xl\:ps-0 {
     padding-inline-start: 0;
-  }
-
-  .xl\:ps-\[15rem\] {
-    padding-inline-start: 15rem;
   }
 
   .xl\:shadow-sm {

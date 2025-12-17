@@ -22,7 +22,7 @@ const Projectoverview = () => {
                         </div>
                         <div className="box-body">
                             <h5 className="font-semibold mb-4 task-title">
-                                Ynex new angular project.
+                                Dharwin Business Solutions new angular project.
                             </h5>
                             <div className="text-[.9375rem] font-semibold mb-2">Project Description :</div>
                             <p className="text-[#8c9097] dark:text-white/50 task-description">The current website design needs a refresh to improve user experience and enhance visual appeal. The goal is to create a modern and responsive design that aligns with the latest web design trends. The updated design should ensure seamless navigation, easy readability, and a cohesive visual identity.</p>

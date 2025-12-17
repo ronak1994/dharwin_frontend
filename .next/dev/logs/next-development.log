@@ -1,11 +1,27 @@
-[00:00:00.779] Server  LOG      ✓ Ready in 567ms
-[00:00:03.807] Server  LOG      ○ Compiling /authentication/sign-in/signin-basic ...
-[00:00:08.893] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:09.006] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:09.295] Browser ERROR   uncaughtError: Error: Tiptap Error: SSR has been detected, please set `immediatelyRender` explicitly to `false` to avoid hydration mismatches.
-[00:01:59.198] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:01:59.202] Server  LOG      ✓ Compiled in 3.6s
-[00:01:59.846] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:00.181] Browser WARN    [tiptap warn]: Duplicate extension names found: ['link', 'underline']. This can lead to issues.
-[00:02:00.181] Browser WARN    [tiptap warn]: Duplicate extension names found: ['link', 'underline']. This can lead to issues.
-[00:09:05.838] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:00:00.976] Server  LOG      ✓ Ready in 652ms
+[00:00:04.895] Server  LOG      ○ Compiling /ats/recruiters ...
+[00:00:12.653] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:24.695] Server  LOG      ✓ Compiled in 5.7s
+[00:00:30.448] Server  LOG      ✓ Compiled in 5.4s
+[00:00:34.711] Server  LOG      ✓ Compiled in 3.6s
+[00:00:38.134] Server  LOG      ✓ Compiled in 3.3s
+[00:00:41.418] Server  LOG      ✓ Compiled in 3s
+[00:00:44.867] Server  LOG      ✓ Compiled in 3.2s
+[00:00:48.350] Server  LOG      ✓ Compiled in 3.2s
+[00:01:00.632] Server  LOG      ✓ Compiled in 5.2s
+[00:01:32.482] Server  LOG      ✓ Compiled in 7.8s
+[00:01:44.518] Server  LOG      ✓ Compiled in 6.2s
+[00:02:31.064] Server  LOG      ✓ Compiled in 5.8s
+[00:02:58.223] Server  LOG      ✓ Compiled in 10s
+[00:03:00.644] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:07.387] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:05:03.866] Server  LOG      ✓ Compiled in 5.8s
+[00:05:10.077] Server  LOG      ✓ Compiled in 4.9s
+[00:06:40.408] Server  LOG      ✓ Compiled in 13s
+[00:06:47.111] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:44.730] Server  LOG      ✓ Compiled in 20.9s
+[00:13:11.112] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:43.980] Server  LOG      ✓ Compiled in 5.8s
+[00:15:53.991] Server  LOG      ✓ Compiled in 0ms
+[00:15:55.521] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:33.971] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

@@ -43,3 +43,58 @@
         display: block !important;
     }
 }
+
+// Ensure active menu items have the same highlight as hover
+.app-sidebar .side-menu__item.active {
+  @apply text-white bg-white/[0.05] before:border-white;
+  color: white !important;
+  background-color: rgba(255, 255, 255, 0.05) !important;
+  
+  .side-menu__label,
+  .side-menu__angle {
+    @apply text-white;
+    color: white !important;
+  }
+  
+  .side-menu__icon {
+    @apply fill-white text-white;
+    fill: white !important;
+    color: white !important;
+  }
+}
+
+// Ensure nested menu items (child menus) also have the same highlight
+.app-sidebar .slide-menu.child1 .side-menu__item.active,
+.app-sidebar .slide-menu.child2 .side-menu__item.active,
+.app-sidebar .slide-menu.child3 .side-menu__item.active {
+  @apply text-white;
+  color: white !important;
+  
+  .side-menu__angle {
+    @apply text-white;
+    color: white !important;
+  }
+  
+  &:before {
+    border-color: white !important;
+    opacity: 1 !important;
+  }
+}
+
+// White background for logo area in header
+.header-logo-container {
+  background-color: white !important;
+  
+  .horizontal-logo {
+    background-color: white !important;
+  }
+  
+  .header-logo {
+    background-color: white !important;
+  }
+}
+
+// White background for sidebar header
+.main-sidebar-header {
+  background-color: white !important;
+}

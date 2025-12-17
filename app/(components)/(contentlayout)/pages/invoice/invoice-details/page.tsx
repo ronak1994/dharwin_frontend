@@ -49,7 +49,7 @@ const Invoicedetails = () => {
                                                 Georgetown,Washington D.C,USA,200071
                                             </p>
                                             <p className="mb-1 text-[#8c9097] dark:text-white/50">
-                                                sprukotrust.ynex@gmail.com
+                                                sprukotrust.dharwin@gmail.com
                                             </p>
                                             <p className="mb-1 text-[#8c9097] dark:text-white/50">
                                                 (555) 555-1234

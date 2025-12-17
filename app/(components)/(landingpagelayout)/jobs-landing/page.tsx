@@ -28,7 +28,7 @@ const Jobslanding = ({ local_varaiable, ThemeChanger }:any) => {
             ...theme,
             "dataNavStyle": "",
             "dataVerticalStyle": "",
-            "dataNavLayout": `${localStorage.ynexlayout == "horizontal" ? "horizontal" : "vertical"}`,
+            "dataNavLayout": `${localStorage.dharwinlayout == "horizontal" ? "horizontal" : "vertical"}`,
             "body":""
           });
         };
@@ -1212,7 +1212,7 @@ const Jobslanding = ({ local_varaiable, ThemeChanger }:any) => {
                             <div className="flex flex-wrap gap-2 items-center justify-between">
                                 <div>
                                     <span className="text-white opacity-[0.7] text-[0.875rem]"> © Copyright 2024 <span id="year"></span> <Link
-                                        href="#!" scroll={false} className="text-primary text-[0.9375rem] font-semibold">Ynex</Link>.
+                                        href="#!" scroll={false} className="text-primary text-[0.9375rem] font-semibold">Dharwin Business Solutions</Link>.
                                     </span>
                                 </div>
                                 <div>

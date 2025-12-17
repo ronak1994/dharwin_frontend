@@ -537,19 +537,19 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
         return null;
     }
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "jsx-d562e1a60d8ccc4c" + " " + `tiptap-editor ${className}`,
+        className: "jsx-4012803d2c47f44f" + " " + `tiptap-editor ${className}`,
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "jsx-d562e1a60d8ccc4c" + " " + "tiptap-toolbar border-b dark:border-defaultborder/10 p-2 flex flex-wrap gap-1",
+                className: "jsx-4012803d2c47f44f" + " " + "tiptap-toolbar border-b dark:border-defaultborder/10 p-2 flex flex-wrap gap-1",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                         type: "button",
                         onClick: ()=>editor.chain().focus().toggleBold().run(),
                         disabled: !editor.can().chain().focus().toggleBold().run(),
                         title: "Bold",
-                        className: "jsx-d562e1a60d8ccc4c" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('bold') ? '!bg-primary !text-white' : ''}`,
+                        className: "jsx-4012803d2c47f44f" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('bold') ? '!bg-primary !text-white' : ''}`,
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                            className: "jsx-d562e1a60d8ccc4c" + " " + "ri-bold"
+                            className: "jsx-4012803d2c47f44f" + " " + "ri-bold"
                         }, void 0, false, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                             lineNumber: 78,
@@ -565,9 +565,9 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                         onClick: ()=>editor.chain().focus().toggleItalic().run(),
                         disabled: !editor.can().chain().focus().toggleItalic().run(),
                         title: "Italic",
-                        className: "jsx-d562e1a60d8ccc4c" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('italic') ? '!bg-primary !text-white' : ''}`,
+                        className: "jsx-4012803d2c47f44f" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('italic') ? '!bg-primary !text-white' : ''}`,
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                            className: "jsx-d562e1a60d8ccc4c" + " " + "ri-italic"
+                            className: "jsx-4012803d2c47f44f" + " " + "ri-italic"
                         }, void 0, false, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                             lineNumber: 87,
@@ -582,9 +582,9 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                         type: "button",
                         onClick: ()=>editor.chain().focus().toggleUnderline().run(),
                         title: "Underline",
-                        className: "jsx-d562e1a60d8ccc4c" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('underline') ? '!bg-primary !text-white' : ''}`,
+                        className: "jsx-4012803d2c47f44f" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('underline') ? '!bg-primary !text-white' : ''}`,
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                            className: "jsx-d562e1a60d8ccc4c" + " " + "ri-underline"
+                            className: "jsx-4012803d2c47f44f" + " " + "ri-underline"
                         }, void 0, false, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                             lineNumber: 95,
@@ -600,9 +600,9 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                         onClick: ()=>editor.chain().focus().toggleStrike().run(),
                         disabled: !editor.can().chain().focus().toggleStrike().run(),
                         title: "Strikethrough",
-                        className: "jsx-d562e1a60d8ccc4c" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('strike') ? '!bg-primary !text-white' : ''}`,
+                        className: "jsx-4012803d2c47f44f" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('strike') ? '!bg-primary !text-white' : ''}`,
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                            className: "jsx-d562e1a60d8ccc4c" + " " + "ri-strikethrough"
+                            className: "jsx-4012803d2c47f44f" + " " + "ri-strikethrough"
                         }, void 0, false, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                             lineNumber: 104,
@@ -614,7 +614,7 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "jsx-d562e1a60d8ccc4c" + " " + "border-l dark:border-defaultborder/10 mx-1"
+                        className: "jsx-4012803d2c47f44f" + " " + "border-l dark:border-defaultborder/10 mx-1"
                     }, void 0, false, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                         lineNumber: 106,
@@ -626,7 +626,7 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                                 level: 1
                             }).run(),
                         title: "Heading 1",
-                        className: "jsx-d562e1a60d8ccc4c" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('heading', {
+                        className: "jsx-4012803d2c47f44f" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('heading', {
                             level: 1
                         }) ? '!bg-primary !text-white' : ''}`,
                         children: "H1"
@@ -641,7 +641,7 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                                 level: 2
                             }).run(),
                         title: "Heading 2",
-                        className: "jsx-d562e1a60d8ccc4c" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('heading', {
+                        className: "jsx-4012803d2c47f44f" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('heading', {
                             level: 2
                         }) ? '!bg-primary !text-white' : ''}`,
                         children: "H2"
@@ -651,7 +651,7 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "jsx-d562e1a60d8ccc4c" + " " + "border-l dark:border-defaultborder/10 mx-1"
+                        className: "jsx-4012803d2c47f44f" + " " + "border-l dark:border-defaultborder/10 mx-1"
                     }, void 0, false, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                         lineNumber: 123,
@@ -661,9 +661,9 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                         type: "button",
                         onClick: ()=>editor.chain().focus().toggleBulletList().run(),
                         title: "Bullet List",
-                        className: "jsx-d562e1a60d8ccc4c" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('bulletList') ? '!bg-primary !text-white' : ''}`,
+                        className: "jsx-4012803d2c47f44f" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('bulletList') ? '!bg-primary !text-white' : ''}`,
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                            className: "jsx-d562e1a60d8ccc4c" + " " + "ri-list-unordered"
+                            className: "jsx-4012803d2c47f44f" + " " + "ri-list-unordered"
                         }, void 0, false, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                             lineNumber: 130,
@@ -678,9 +678,9 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                         type: "button",
                         onClick: ()=>editor.chain().focus().toggleOrderedList().run(),
                         title: "Numbered List",
-                        className: "jsx-d562e1a60d8ccc4c" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('orderedList') ? '!bg-primary !text-white' : ''}`,
+                        className: "jsx-4012803d2c47f44f" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('orderedList') ? '!bg-primary !text-white' : ''}`,
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                            className: "jsx-d562e1a60d8ccc4c" + " " + "ri-list-ordered"
+                            className: "jsx-4012803d2c47f44f" + " " + "ri-list-ordered"
                         }, void 0, false, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                             lineNumber: 138,
@@ -695,9 +695,9 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                         type: "button",
                         onClick: ()=>editor.chain().focus().toggleBlockquote().run(),
                         title: "Blockquote",
-                        className: "jsx-d562e1a60d8ccc4c" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('blockquote') ? '!bg-primary !text-white' : ''}`,
+                        className: "jsx-4012803d2c47f44f" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('blockquote') ? '!bg-primary !text-white' : ''}`,
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                            className: "jsx-d562e1a60d8ccc4c" + " " + "ri-double-quotes-l"
+                            className: "jsx-4012803d2c47f44f" + " " + "ri-double-quotes-l"
                         }, void 0, false, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                             lineNumber: 146,
@@ -709,7 +709,7 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "jsx-d562e1a60d8ccc4c" + " " + "border-l dark:border-defaultborder/10 mx-1"
+                        className: "jsx-4012803d2c47f44f" + " " + "border-l dark:border-defaultborder/10 mx-1"
                     }, void 0, false, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                         lineNumber: 148,
@@ -726,9 +726,9 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                             }
                         },
                         title: "Link",
-                        className: "jsx-d562e1a60d8ccc4c" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('link') ? '!bg-primary !text-white' : ''}`,
+                        className: "jsx-4012803d2c47f44f" + " " + `ti-btn ti-btn-sm ti-btn-light ${editor.isActive('link') ? '!bg-primary !text-white' : ''}`,
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                            className: "jsx-d562e1a60d8ccc4c" + " " + "ri-links-line"
+                            className: "jsx-4012803d2c47f44f" + " " + "ri-links-line"
                         }, void 0, false, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                             lineNumber: 160,
@@ -750,9 +750,9 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                             }
                         },
                         title: "Image",
-                        className: "jsx-d562e1a60d8ccc4c" + " " + "ti-btn ti-btn-sm ti-btn-light",
+                        className: "jsx-4012803d2c47f44f" + " " + "ti-btn ti-btn-sm ti-btn-light",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                            className: "jsx-d562e1a60d8ccc4c" + " " + "ri-image-line"
+                            className: "jsx-4012803d2c47f44f" + " " + "ri-image-line"
                         }, void 0, false, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                             lineNumber: 173,
@@ -764,7 +764,7 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "jsx-d562e1a60d8ccc4c" + " " + "border-l dark:border-defaultborder/10 mx-1"
+                        className: "jsx-4012803d2c47f44f" + " " + "border-l dark:border-defaultborder/10 mx-1"
                     }, void 0, false, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                         lineNumber: 175,
@@ -775,9 +775,9 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                         onClick: ()=>editor.chain().focus().undo().run(),
                         disabled: !editor.can().chain().focus().undo().run(),
                         title: "Undo",
-                        className: "jsx-d562e1a60d8ccc4c" + " " + "ti-btn ti-btn-sm ti-btn-light",
+                        className: "jsx-4012803d2c47f44f" + " " + "ti-btn ti-btn-sm ti-btn-light",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                            className: "jsx-d562e1a60d8ccc4c" + " " + "ri-arrow-go-back-line"
+                            className: "jsx-4012803d2c47f44f" + " " + "ri-arrow-go-back-line"
                         }, void 0, false, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                             lineNumber: 183,
@@ -793,9 +793,9 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                         onClick: ()=>editor.chain().focus().redo().run(),
                         disabled: !editor.can().chain().focus().redo().run(),
                         title: "Redo",
-                        className: "jsx-d562e1a60d8ccc4c" + " " + "ti-btn ti-btn-sm ti-btn-light",
+                        className: "jsx-4012803d2c47f44f" + " " + "ti-btn ti-btn-sm ti-btn-light",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                            className: "jsx-d562e1a60d8ccc4c" + " " + "ri-arrow-go-forward-line"
+                            className: "jsx-4012803d2c47f44f" + " " + "ri-arrow-go-forward-line"
                         }, void 0, false, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/shared/data/forms/form-editors/tiptapeditor.tsx",
                             lineNumber: 192,
@@ -813,7 +813,7 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "jsx-d562e1a60d8ccc4c" + " " + "tiptap-content border dark:border-defaultborder/10 rounded-b-md p-4 min-h-[200px] prose dark:prose-invert max-w-none",
+                className: "jsx-4012803d2c47f44f" + " " + "tiptap-content border dark:border-defaultborder/10 rounded-b-md p-4 min-h-[200px] prose dark:prose-invert max-w-none",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f40$tiptap$2f$react$2f$dist$2f$index$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__["EditorContent"], {
                     editor: editor
                 }, void 0, false, {
@@ -827,7 +827,7 @@ const TiptapEditor = ({ content = '', placeholder = 'Start typing...', onChange,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                id: "d562e1a60d8ccc4c",
+                id: "4012803d2c47f44f",
                 children: ".tiptap-editor .ProseMirror{outline:none;min-height:200px}.tiptap-editor .ProseMirror p{margin:.5rem 0}.tiptap-editor .ProseMirror p.is-editor-empty:first-child:before{content:attr(data-placeholder);float:left;color:#8c9097;pointer-events:none;height:0}.tiptap-editor .ProseMirror h1{margin:1rem 0;font-size:2rem;font-weight:700}.tiptap-editor .ProseMirror h2{margin:.75rem 0;font-size:1.5rem;font-weight:600}.tiptap-editor .ProseMirror ul,.tiptap-editor .ProseMirror ol{margin:.5rem 0;padding-left:1.5rem}.tiptap-editor .ProseMirror blockquote{border-left:3px solid #e5e7eb;margin:.5rem 0;padding-left:1rem;font-style:italic}.tiptap-editor .ProseMirror a{color:#3b82f6;text-decoration:underline}.tiptap-editor .ProseMirror img{max-width:100%;height:auto;margin:1rem 0}"
             }, void 0, false, void 0, ("TURBOPACK compile-time value", void 0))
         ]
@@ -3130,7 +3130,7 @@ const Mailapp = ()=>{
                                                             className: "hs-tooltip ti-main-tooltip",
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                                                 type: "button",
-                                                                className: "hs-tooltip-toggle !w-[2.75rem] !h-[2.75rem] ti-btn-icon ti-btn-outline-light dark:hover:!bg-light    flex items-center justify-center !rounded-md dark:!border-defaultborder/10 !ms-2 !text-[1.2rem] !text-defaulttextcolor    dark:!text-defaulttextcolor/70 border",
+                                                                className: "hs-tooltip-toggle !w-[2.75rem] !h-[2.75rem] ti-btn-icon ti-btn-outline-light dark:hover:!bg-light  flex items-center justify-center !rounded-md dark:!border-defaultborder/10 !ms-2 !text-[1.2rem] !text-defaulttextcolor  dark:!text-defaulttextcolor/70 border",
                                                                 children: [
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                         className: "ri-attachment-2"

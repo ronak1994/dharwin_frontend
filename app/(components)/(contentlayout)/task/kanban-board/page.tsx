@@ -161,7 +161,7 @@ const Kanbanboard = () => {
                     </div>
                 </div>
             </div>
-            <div className="ynex-kanban-board text-defaulttextcolor dark:text-defaulttextcolor/70 text-defaultsize">
+            <div className="dharwin-kanban-board text-defaulttextcolor dark:text-defaulttextcolor/70 text-defaultsize">
                 <div className="kanban-tasks-type new">
                     <div className="mb-4">
                         <div className="flex justify-between items-center">

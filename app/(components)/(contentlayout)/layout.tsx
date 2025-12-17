@@ -4,7 +4,6 @@ import Backtotop from "@/shared/layout-components/backtotop/backtotop"
 import Footer from "@/shared/layout-components/footer/footer"
 import Header from "@/shared/layout-components/header/header"
 import Sidebar from "@/shared/layout-components/sidebar/sidebar"
-import Switcher from "@/shared/layout-components/switcher/switcher"
 import { ThemeChanger } from "@/shared/redux/action"
 import store from "@/shared/redux/store"
 import { Fragment,  useState } from "react"
@@ -16,7 +15,7 @@ const Layout = ({children,}:any) => {
 
   const Bodyclickk = () => {
     const theme = store.getState();
-    if (localStorage.getItem("ynexverticalstyles") == "icontext") {
+    if (localStorage.getItem("dharwinverticalstyles") == "icontext") {
       setMyClass("");
     }
     if (window.innerWidth > 992) {
@@ -31,7 +30,6 @@ const Layout = ({children,}:any) => {
 
       
     <Fragment>
-        <Switcher/>
       <div className='page'>
         <Header/>
         <Sidebar/>

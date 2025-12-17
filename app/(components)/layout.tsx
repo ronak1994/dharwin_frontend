@@ -4,6 +4,7 @@ import { connect } from 'react-redux';
 import  * as switcherdata from '../../shared/data/switcherdata/switcherdata';
 import { ThemeChanger } from '@/shared/redux/action';
 import { Initialload } from '@/shared/contextapi';
+import { basePath } from '@/next.config';
 
 function Layout({children, local_varaiable, ThemeChanger}:any) {
   const customstyles :any= {
@@ -48,6 +49,7 @@ function Layout({children, local_varaiable, ThemeChanger}:any) {
             //Styles
             style={customstyles}>
               <head>
+              <link rel="icon" href={`${process.env.NODE_ENV === "production" ? basePath : ""}/assets/images/icon.png`} type="image/png" />
               <link href="https://cdn.jsdelivr.net/npm/dragula@3.7.3/dist/dragula.min.css" rel="stylesheet"/>
               <meta name="keywords" content=" nextjs app router, nextjs template, tailwind nextjs, next js themes, next js tailwind,  tailwind, admin, tailwindcss nextjs, nextjs admin templates, tailwind admin template, nextjs admin template, nextjs typescript, admin template, tailwind dashboard, tailwind css dashboard" />
               </head>

@@ -37,7 +37,7 @@ const Landing = ({ local_varaiable, ThemeChanger }: any) => {
             ...theme,
             "dataNavStyle": "",
             "dataVerticalStyle": "",
-            "dataNavLayout": `${localStorage.ynexlayout == "horizontal" ? "horizontal" : "vertical"}`,
+            "dataNavLayout": `${localStorage.dharwinlayout == "horizontal" ? "horizontal" : "vertical"}`,
             "body":""
           });
         };
@@ -303,8 +303,8 @@ const Landing = ({ local_varaiable, ThemeChanger }: any) => {
                                             <div className="mb-4">
                                                 <h5 className="font-semibold text-white opacity-[0.9] text-[1.25rem]">BRILLIANCE IN EXECUTION</h5>
                                             </div>
-                                            <p className="landing-banner-heading mb-4 opacity-[0.9]">Your sure stop place for best theme ends here with <span className="text-secondary">YNEX !</span></p>
-                                            <div className="text-[1rem] mb-[3rem] text-white opacity-[0.9]">ynex - Now you can use this admin template to design stunning dashboards that will wow your target viewers or users to no end.</div>
+                                            <p className="landing-banner-heading mb-4 opacity-[0.9]">Your sure stop place for best theme ends here with <span className="text-secondary">Dharwin Business Solutions!</span></p>
+                                            <div className="text-[1rem] mb-[3rem] text-white opacity-[0.9]">Dharwin Business Solutions - Now you can use this admin template to design stunning dashboards that will wow your target viewers or users to no end.</div>
                                             <Link href="/dashboards/crm/" className="m-1 ti-btn ti-btn-primary-full">
                                                 View Demos
                                                 <i className="ri-eye-line ms-2 align-middle"></i>
@@ -394,7 +394,7 @@ const Landing = ({ local_varaiable, ThemeChanger }: any) => {
                             <h3 className="font-semibold mb-2 dark:text-defaulttextcolor dark:text-defaulttextcolor/70710">Designed with precision and well documented</h3>
                             <div className="grid grid-cols-12 justify-center max-w-xl mx-auto">
                                 <div className="col-span-12">
-                                    <p className="text-[#8c9097] dark:text-white/50 text-[0.9375rem] mb-4 font-normal">ynex comes with multiple customization options that are very easy to implement.</p>
+                                    <p className="text-[#8c9097] dark:text-white/50 text-[0.9375rem] mb-4 font-normal">Dharwin Business Solutions comes with multiple customization options that are very easy to implement.</p>
                                 </div>
                             </div>
                             <div className="grid grid-cols-8 justify-center align-center">
@@ -613,7 +613,7 @@ const Landing = ({ local_varaiable, ThemeChanger }: any) => {
                     <section className="section landing-Features text-defaulttextcolor dark:text-defaulttextcolor/70 text-[0.813rem]" id="features">
                         <div className="container text-center">
                             <p className="text-[0.75rem] font-semibold text-success mb-1"><span className="landing-section-heading">Features</span></p>
-                            <h3 className="font-semibold mb-2 !text-white">Features Used in YNEX</h3>
+                            <h3 className="font-semibold mb-2 !text-white">Features Used in Dharwin Business Solutions</h3>
                             <div>
                                 <div className="xl:col-span-7 col-span-12">
                                     <p className="text-white opacity-[0.8] text-[0.9375rem] mb-4 font-normal">Some of the reviews our clients gave which brings motivation to work for future projects.</p>
@@ -1054,7 +1054,7 @@ const Landing = ({ local_varaiable, ThemeChanger }: any) => {
                     <section className="section text-defaulttextcolor dark:text-defaulttextcolor/70 text-[0.813rem] " id="pricing">
                         <div className="container text-center">
                             <p className="text-[0.75rem] font-semibold text-success mb-1"><span className="landing-section-heading">PRICING</span></p>
-                            <h3 className="font-semibold mb-2">ynex comes with most affordable pricing range.</h3>
+                            <h3 className="font-semibold mb-2">Dharwin Business Solutions comes with most affordable pricing range.</h3>
                             <div className="grid grid-cols-12 justify-center">
                                 <div className="col-span-12">
                                     <p className="text-[#8c9097] dark:text-white/50 text-[0.9375rem] mb-12 font-normal">Our plans are most affordable and are mainly placed by focussing every category in the sector even basic plan helps better.</p>
@@ -1953,7 +1953,7 @@ const Landing = ({ local_varaiable, ThemeChanger }: any) => {
                     </section>
                     <div className="text-center landing-main-footer py-4 opacity-[0.87]">
                         <span className="text-[#8c9097] dark:text-white/50 text-[0.9375rem]"> Copyright © 2024<span id="year"></span> <Link
-                            href="#!" scroll={false} className="!text-primary font-semibold"><u>ynex</u></Link>.
+                            href="#!" scroll={false} className="!text-primary font-semibold"><u>Dharwin Business Solutions</u></Link>.
                             Designed with <span className="fa fa-heart text-danger"></span> by <Link href="#!" scroll={false} className="!text-primary font-semibold"><u>
                                 Spruko</u>
                             </Link> All

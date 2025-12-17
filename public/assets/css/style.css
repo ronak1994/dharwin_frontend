@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*------------------------------------------------------------------
 [Master Stylesheet]
-Project                        :   Ynex - Next-Js(App router) Typesscript Tailwind Css Admin & Dashboard Template
+Project                        :   Dharwin Business Solutions - Next-Js(App router) Typesscript Tailwind Css Admin & Dashboard Template
 
 Created Date                   :   01/06/2024
 
@@ -3762,52 +3762,52 @@ label {
 
 /* End:: Ratings */
 /* Start::task-kanboard-board */
-.ynex-kanban-board {
+.dharwin-kanban-board {
   @apply flex overflow-x-auto items-stretch mb-3 pb-4;
 }
-.ynex-kanban-board .kanban-tasks-type {
+.dharwin-kanban-board .kanban-tasks-type {
   @apply min-w-[20rem] me-6 w-full;
 }
-.ynex-kanban-board .kanban-tasks-type:last-child {
+.dharwin-kanban-board .kanban-tasks-type:last-child {
   @apply me-0;
 }
-.ynex-kanban-board .kanban-tasks-type .kanban-tasks {
+.dharwin-kanban-board .kanban-tasks-type .kanban-tasks {
   @apply touch-none;
 }
-.ynex-kanban-board .task-image .kanban-image {
+.dharwin-kanban-board .task-image .kanban-image {
   @apply h-[150px] w-full rounded-md;
 }
-.ynex-kanban-board .kanban-content {
+.dharwin-kanban-board .kanban-content {
   @apply mt-3;
 }
-.ynex-kanban-board .kanban-task-description {
+.dharwin-kanban-board .kanban-task-description {
   @apply text-textmuted text-[0.82rem];
 }
-.ynex-kanban-board .kanban-tasks-type.new .kanban-tasks.box {
+.dharwin-kanban-board .kanban-tasks-type.new .kanban-tasks.box {
   @apply border-t-[3px] border-solid border-primary/30;
 }
-.ynex-kanban-board .kanban-tasks-type.todo .kanban-tasks.box {
+.dharwin-kanban-board .kanban-tasks-type.todo .kanban-tasks.box {
   @apply border-t-[3px] border-solid border-warning/30;
 }
-.ynex-kanban-board .kanban-tasks-type.in-progress .kanban-tasks.box {
+.dharwin-kanban-board .kanban-tasks-type.in-progress .kanban-tasks.box {
   @apply border-t-[3px] border-solid border-info/30;
 }
-.ynex-kanban-board .kanban-tasks-type.inreview .kanban-tasks.box {
+.dharwin-kanban-board .kanban-tasks-type.inreview .kanban-tasks.box {
   @apply border-t-[3px] border-solid border-danger/30;
 }
-.ynex-kanban-board .kanban-tasks-type.completed .kanban-tasks.box {
+.dharwin-kanban-board .kanban-tasks-type.completed .kanban-tasks.box {
   @apply border-t-[3px] border-solid border-success/30;
 }
-.ynex-kanban-board #new-tasks .box:last-child, .ynex-kanban-board #todo-tasks .box:last-child, .ynex-kanban-board #inprogress-tasks .box:last-child, .ynex-kanban-board #inreview-tasks .box:last-child, .ynex-kanban-board #completed-tasks .box:last-child {
+.dharwin-kanban-board #new-tasks .box:last-child, .dharwin-kanban-board #todo-tasks .box:last-child, .dharwin-kanban-board #inprogress-tasks .box:last-child, .dharwin-kanban-board #inreview-tasks .box:last-child, .dharwin-kanban-board #completed-tasks .box:last-child {
   @apply mb-0;
 }
-.ynex-kanban-board #new-tasks, .ynex-kanban-board #todo-tasks, .ynex-kanban-board #inprogress-tasks, .ynex-kanban-board #inreview-tasks, .ynex-kanban-board #completed-tasks {
+.dharwin-kanban-board #new-tasks, .dharwin-kanban-board #todo-tasks, .dharwin-kanban-board #inprogress-tasks, .dharwin-kanban-board #inreview-tasks, .dharwin-kanban-board #completed-tasks {
   @apply relative max-h-[35rem];
 }
-.ynex-kanban-board #new-tasks .simplebar-content, .ynex-kanban-board #todo-tasks .simplebar-content, .ynex-kanban-board #inprogress-tasks .simplebar-content, .ynex-kanban-board #inreview-tasks .simplebar-content, .ynex-kanban-board #completed-tasks .simplebar-content {
+.dharwin-kanban-board #new-tasks .simplebar-content, .dharwin-kanban-board #todo-tasks .simplebar-content, .dharwin-kanban-board #inprogress-tasks .simplebar-content, .dharwin-kanban-board #inreview-tasks .simplebar-content, .dharwin-kanban-board #completed-tasks .simplebar-content {
   @apply pt-0 pb-4 px-0;
 }
-.ynex-kanban-board .task-Null {
+.dharwin-kanban-board .task-Null {
   @apply relative min-h-[12.5rem] before:absolute before:inset-0 before:bg-white dark:before:bg-bodybg before:rounded-md before:bg-[url("../public/assets/images/media/media-83.svg")] before:bg-cover before:bg-center before:h-[12.5rem]
         before:w-full before:my-0 before:mx-auto;
 }

@@ -688,7 +688,7 @@ const Sales = () => {
                                                             <input className="form-check-input" type="checkbox" id="check19" defaultValue="" aria-label="..." />
                                                         </span>
                                                     </td>
-                                                    <td>Update color theme of ynex template</td>
+                                                    <td>Update color theme of Dharwin Business Solutions template</td>
                                                     <td className="text-[#8c9097] dark:text-white/50">8 Dec 2022</td>
                                                     <td><span className="badge bg-success text-white">Yesterday</span></td>
                                                     <td>

@@ -32,7 +32,7 @@ const Termsconditions = () => {
                                     <span className="avatar avatar-md me-4">
                                         <img src="../../assets/images/media/media-67.png" alt="" />
                                     </span>
-                                    <span>YNEX - Terms &amp; Conditions </span>
+                                    <span>Dharwin Business Solutions - Terms &amp; Conditions </span>
                                     <Link aria-label="anchor" href="#!" scroll={false} className="ms-auto text-white terms-fullscreen" onClick={handleFullscreenClick} >
                                         <i className="ri-fullscreen-line"></i>
                                     </Link>
@@ -41,10 +41,10 @@ const Termsconditions = () => {
                                     <div className="p-6 text-muted terms-conditions overflow-y-scroll" id="terms-scroll">
                                         <div className="mb-[3rem]">
                                             <p className="mb-4 opacity-[0.7]">
-                                                <span className="font-bold text-default opacity-[0.8]">If you stay in the USA </span>the ynex <Link className="text-primary" href="#!" scroll={false}><u>Terms and Conditions</u></Link> consists of below rules and <Link className="text-primary" href="#!" scroll={false}><u>User Agreements</u></Link> consists of below policies <Link className="text-primary" href="#!" scroll={false}><u>Ynex Rules &amp; Privacy Policies</u></Link> incorporated with the below conditions.
+                                                <span className="font-bold text-default opacity-[0.8]">If you stay in the USA </span>the Dharwin Business Solutions <Link className="text-primary" href="#!" scroll={false}><u>Terms and Conditions</u></Link> consists of below rules and <Link className="text-primary" href="#!" scroll={false}><u>User Agreements</u></Link> consists of below policies <Link className="text-primary" href="#!" scroll={false}><u>Dharwin Business Solutions Rules &amp; Privacy Policies</u></Link> incorporated with the below conditions.
                                             </p>
                                             <p className="mb-0 opacity-[0.7]">
-                                                <span className="font-bold text-default opacity-[0.8]">If you stay any where in the world other than USA </span>the ynex <Link className="text-primary" href="#!" scroll={false}><u>Terms and Conditions</u></Link> consists of below rules and <Link className="text-primary" href="#!" scroll={false}><u>User Agreements</u></Link> consists of below policies <Link className="text-primary" href="#!" scroll={false}><u>Ynex Rules &amp; Privacy Policies</u></Link> incorporated with the below conditions.
+                                                <span className="font-bold text-default opacity-[0.8]">If you stay any where in the world other than USA </span>the Dharwin Business Solutions <Link className="text-primary" href="#!" scroll={false}><u>Terms and Conditions</u></Link> consists of below rules and <Link className="text-primary" href="#!" scroll={false}><u>User Agreements</u></Link> consists of below policies <Link className="text-primary" href="#!" scroll={false}><u>Dharwin Business Solutions Rules &amp; Privacy Policies</u></Link> incorporated with the below conditions.
                                             </p>
                                         </div>
                                         <h6 className="font-bold pb-3 text-default opacity-[0.7]"><span className="terms-heading">Terms &amp; Services :</span></h6>

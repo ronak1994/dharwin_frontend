@@ -433,7 +433,7 @@ const Filemanager = () => {
                                 <li className="list-group-item">
                                     <div>
                                         <p className="font-semibold mb-0">File Description : </p>
-                                        <span className="text-[.75rem] text-[#8c9097] dark:text-white/50">This file contains 3 folder ynex.main &amp; ynex.premium &amp; ynex.featured and 42 images and layout styles are added in this update.</span>
+                                        <span className="text-[.75rem] text-[#8c9097] dark:text-white/50">This file contains 3 folder dharwin.main &amp; dharwin.premium &amp; dharwin.featured and 42 images and layout styles are added in this update.</span>
                                     </div>
                                 </li>
                                 <li className="list-group-item">
