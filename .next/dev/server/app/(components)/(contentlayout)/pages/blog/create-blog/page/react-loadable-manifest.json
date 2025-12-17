@@ -1,0 +1,16 @@
+{
+  "[project]/Desktop/dharwin_boilerplate/node_modules/react-quill/lib/index.js [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/Desktop/dharwin_boilerplate/node_modules/react-quill/lib/index.js [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/39735_4b390b0e._.js",
+      "static/chunks/39735_react-quill_lib_index_a465cbbd.js"
+    ]
+  },
+  "[project]/Desktop/dharwin_boilerplate/node_modules/react-select/dist/react-select.esm.js [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/Desktop/dharwin_boilerplate/node_modules/react-select/dist/react-select.esm.js [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/39735_247e6238._.js",
+      "static/chunks/39735_react-select_dist_react-select_esm_aabda93c.js"
+    ]
+  }
+}

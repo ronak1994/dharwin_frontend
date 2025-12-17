@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[797556,["/tailwind/app/ynex-ts/preview/_next/static/chunks/89d9f839fa0bafe7.js","/tailwind/app/ynex-ts/preview/_next/static/chunks/d14720a7b44d5fe2.js"],"ClientSegmentRoot"]
+3:I[560179,["/tailwind/app/ynex-ts/preview/_next/static/chunks/80dec1d6f4b1c2fa.js","/tailwind/app/ynex-ts/preview/_next/static/chunks/f9586e15b09e6bff.js","/tailwind/app/ynex-ts/preview/_next/static/chunks/0c0126fea9379a52.js","/tailwind/app/ynex-ts/preview/_next/static/chunks/392b14652a70fcd4.js"],"default"]
+4:I[19529,["/tailwind/app/ynex-ts/preview/_next/static/chunks/89d9f839fa0bafe7.js","/tailwind/app/ynex-ts/preview/_next/static/chunks/d14720a7b44d5fe2.js"],"default"]
+5:I[599990,["/tailwind/app/ynex-ts/preview/_next/static/chunks/89d9f839fa0bafe7.js","/tailwind/app/ynex-ts/preview/_next/static/chunks/d14720a7b44d5fe2.js"],"default"]
+0:{"buildId":"1HpDjFZm6YM5zMCtAQpw3","rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/tailwind/app/ynex-ts/preview/_next/static/chunks/392b14652a70fcd4.js","async":true}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]},"serverProvidedParams":{"params":{},"promises":["$@6"]}}]]}],"loading":null,"isPartial":false}
+6:{}

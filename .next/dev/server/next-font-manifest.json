@@ -1,0 +1,17 @@
+{
+  "app": {
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(authenticationlayout)/authentication/sign-in/signin-basic/page": [],
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(authenticationlayout)/error/error-401/page": [],
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/charts/apexcharts/line-charts/page": [],
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/dashboards/crm/page": [],
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-app/page": [],
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/team/page": [],
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/timeline/page": [],
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/task/kanban-board/page": [],
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/task/list-view/page": [],
+    "[project]/Desktop/dharwin_boilerplate/app/_not-found/page": []
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

@@ -1,0 +1,11 @@
+[00:00:00.779] Server  LOG      ✓ Ready in 567ms
+[00:00:03.807] Server  LOG      ○ Compiling /authentication/sign-in/signin-basic ...
+[00:00:08.893] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:09.006] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:09.295] Browser ERROR   uncaughtError: Error: Tiptap Error: SSR has been detected, please set `immediatelyRender` explicitly to `false` to avoid hydration mismatches.
+[00:01:59.198] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:59.202] Server  LOG      ✓ Compiled in 3.6s
+[00:01:59.846] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:00.181] Browser WARN    [tiptap warn]: Duplicate extension names found: ['link', 'underline']. This can lead to issues.
+[00:02:00.181] Browser WARN    [tiptap warn]: Duplicate extension names found: ['link', 'underline']. This can lead to issues.
+[00:09:05.838] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
