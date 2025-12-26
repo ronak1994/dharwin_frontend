@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,691665,t=>{"use strict";var e=t.i(616309),c=t.i(639146);t.s(["default",0,({title:t})=>((0,c.useEffect)(()=>{document.title=`Ynex - ${t}`},[]),(0,e.jsx)(e.Fragment,{}))])}]);

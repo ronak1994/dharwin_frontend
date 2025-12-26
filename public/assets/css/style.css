@@ -14153,4 +14153,11 @@ h6 {
   @apply w-20 min-h-[44px] !important;
 }
 
+.main-content{
+  padding: 5px 10px;
+}
+
+.box{
+  border-radius: 0px;
+}
 /*# sourceMappingURL=style.css.map */

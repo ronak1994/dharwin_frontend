@@ -1,8 +1,6 @@
 {
   "app": {
-    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/candidates/page": [],
-    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/recruiters/page": [],
-    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/dashboards/projects/page": []
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page": []
   },
   "appUsingSizeAdjust": true,
   "pages": {},

@@ -1,27 +1,31 @@
-[00:00:00.976] Server  LOG      ✓ Ready in 652ms
-[00:00:04.895] Server  LOG      ○ Compiling /ats/recruiters ...
-[00:00:12.653] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:24.695] Server  LOG      ✓ Compiled in 5.7s
-[00:00:30.448] Server  LOG      ✓ Compiled in 5.4s
-[00:00:34.711] Server  LOG      ✓ Compiled in 3.6s
-[00:00:38.134] Server  LOG      ✓ Compiled in 3.3s
-[00:00:41.418] Server  LOG      ✓ Compiled in 3s
-[00:00:44.867] Server  LOG      ✓ Compiled in 3.2s
-[00:00:48.350] Server  LOG      ✓ Compiled in 3.2s
-[00:01:00.632] Server  LOG      ✓ Compiled in 5.2s
-[00:01:32.482] Server  LOG      ✓ Compiled in 7.8s
-[00:01:44.518] Server  LOG      ✓ Compiled in 6.2s
-[00:02:31.064] Server  LOG      ✓ Compiled in 5.8s
-[00:02:58.223] Server  LOG      ✓ Compiled in 10s
-[00:03:00.644] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:07.387] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[00:05:03.866] Server  LOG      ✓ Compiled in 5.8s
-[00:05:10.077] Server  LOG      ✓ Compiled in 4.9s
-[00:06:40.408] Server  LOG      ✓ Compiled in 13s
-[00:06:47.111] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:10:44.730] Server  LOG      ✓ Compiled in 20.9s
-[00:13:11.112] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:15:43.980] Server  LOG      ✓ Compiled in 5.8s
-[00:15:53.991] Server  LOG      ✓ Compiled in 0ms
-[00:15:55.521] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:17:33.971] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:00.971] Server  LOG      ✓ Ready in 733ms
+[00:00:04.059] Server  LOG      ○ Compiling /ats/jobs ...
+[00:00:09.079] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:02.084] Server  LOG      ✓ Compiled in 4.2s
+[00:03:06.884] Server  LOG      ✓ Compiled in 3.7s
+[00:03:12.597] Server  LOG      ✓ Compiled in 3.9s
+[00:03:49.777] Server  LOG      ✓ Compiled in 4.7s
+[00:05:05.353] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:16.440] Server  LOG      ✓ Compiled in 5.4s
+[00:06:25.917] Server  LOG      ✓ Compiled in 5s
+[00:08:51.776] Server  LOG      ✓ Compiled in 5.4s
+[00:08:57.410] Server  LOG      ✓ Compiled in 4.2s
+[00:09:27.407] Server  LOG      ✓ Compiled in 4.3s
+[00:11:01.008] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:23.869] Server  LOG      ✓ Compiled in 4.5s
+[00:12:35.829] Server  LOG      ✓ Compiled in 5.1s
+[00:12:45.112] Server  LOG      ✓ Compiled in 4.4s
+[00:13:20.690] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:16.862] Server  LOG      ✓ Compiled in 4.8s
+[00:32:23.981] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:19.404] Server  LOG      ✓ Compiled in 4.1s
+[00:33:26.788] Server  LOG      ✓ Compiled in 3.9s
+[00:33:45.238] Server  LOG      ✓ Compiled in 4.6s
+[00:34:03.913] Server  LOG      ✓ Compiled in 4.6s
+[00:34:27.559] Server  LOG      ✓ Compiled in 5.1s
+[00:35:15.908] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:10.028] Server  LOG      ✓ Compiled in 4.2s
+[00:36:21.766] Server  LOG      ✓ Compiled in 4.5s
+[00:37:47.829] Server  LOG      ✓ Compiled in 4.4s
+[00:38:08.156] Server  LOG      ✓ Compiled in 4.9s
+[00:38:36.447] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

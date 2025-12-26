@@ -1,6 +1,6 @@
 const RUNTIME_PUBLIC_PATH = "server/chunks/ssr/[turbopack]_runtime.js";
 const RELATIVE_ROOT_PATH = "../../..";
-const ASSET_PREFIX = "/tailwind/app/ynex-ts/preview/_next/";
+const ASSET_PREFIX = "/tailwind/app/dharwin-business-solutions/preview/_next/";
 /**
  * This file contains runtime types and functions that are shared between all
  * TurboPack ECMAScript runtimes.

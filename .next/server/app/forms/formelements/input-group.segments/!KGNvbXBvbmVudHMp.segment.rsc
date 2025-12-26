@@ -1,8 +1,0 @@
-1:"$Sreact.fragment"
-2:I[797556,["/tailwind/app/ynex-ts/preview/_next/static/chunks/89d9f839fa0bafe7.js","/tailwind/app/ynex-ts/preview/_next/static/chunks/d14720a7b44d5fe2.js"],"ClientSegmentRoot"]
-3:I[701418,["/tailwind/app/ynex-ts/preview/_next/static/chunks/80dec1d6f4b1c2fa.js","/tailwind/app/ynex-ts/preview/_next/static/chunks/f9586e15b09e6bff.js","/tailwind/app/ynex-ts/preview/_next/static/chunks/0c0126fea9379a52.js"],"default"]
-4:I[19529,["/tailwind/app/ynex-ts/preview/_next/static/chunks/89d9f839fa0bafe7.js","/tailwind/app/ynex-ts/preview/_next/static/chunks/d14720a7b44d5fe2.js"],"default"]
-5:I[599990,["/tailwind/app/ynex-ts/preview/_next/static/chunks/89d9f839fa0bafe7.js","/tailwind/app/ynex-ts/preview/_next/static/chunks/d14720a7b44d5fe2.js"],"default"]
-6:I[747315,["/tailwind/app/ynex-ts/preview/_next/static/chunks/80dec1d6f4b1c2fa.js","/tailwind/app/ynex-ts/preview/_next/static/chunks/f9586e15b09e6bff.js","/tailwind/app/ynex-ts/preview/_next/static/chunks/14e7ba79a0054d13.js"],""]
-0:{"buildId":"1HpDjFZm6YM5zMCtAQpw3","rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/tailwind/app/ynex-ts/preview/_next/static/chunks/0c0126fea9379a52.js","async":true}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","html",null,{"children":["$","body",null,{"children":[["$","p",null,{"children":"The Above Url Cannot Found"}],["$","$L6",null,{"href":"/dashboards/crm","className":"btn btn-primary","children":"Return Home"}]]}]}],[]]}]},"serverProvidedParams":{"params":{},"promises":["$@7"]}}]]}],"loading":null,"isPartial":false}
-7:{}
