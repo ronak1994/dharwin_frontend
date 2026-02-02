@@ -315,7 +315,7 @@ const Mailsettings = ()=>{
                 title: "Mail Settings"
             }, void 0, false, {
                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                lineNumber: 39,
+                lineNumber: 40,
                 columnNumber: 13
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$shared$2f$layout$2d$components$2f$page$2d$header$2f$pageheader$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -324,7 +324,7 @@ const Mailsettings = ()=>{
                 mainpage: "Mail Settings"
             }, void 0, false, {
                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                lineNumber: 40,
+                lineNumber: 41,
                 columnNumber: 13
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -347,89 +347,115 @@ const Mailsettings = ()=>{
                                                 href: "#!",
                                                 scroll: false,
                                                 className: "m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 flex-grow  text-[0.75rem] font-medium rounded-md hover:text-primary active",
+                                                id: "user-roles-item",
+                                                "data-hs-tab": "#user-roles",
+                                                "aria-controls": "user-roles",
+                                                children: "User Roles"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                lineNumber: 48,
+                                                columnNumber: 37
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                                href: "#!",
+                                                scroll: false,
+                                                className: "m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary ",
+                                                id: "users-item",
+                                                "data-hs-tab": "#users",
+                                                "aria-controls": "users",
+                                                children: "Users"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                lineNumber: 51,
+                                                columnNumber: 37
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                                href: "#!",
+                                                scroll: false,
+                                                className: "m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 flex-grow  text-[0.75rem] font-medium rounded-md hover:text-primary ",
                                                 id: "Personal-item",
                                                 "data-hs-tab": "#personal-info",
                                                 "aria-controls": "#personal-info",
                                                 children: "Personal Information"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                lineNumber: 47,
+                                                lineNumber: 54,
                                                 columnNumber: 37
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 href: "#!",
                                                 scroll: false,
-                                                className: "m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary ",
+                                                className: "m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary hidden",
                                                 id: "account-item",
                                                 "data-hs-tab": "#account-settings",
                                                 "aria-controls": "account-settings",
                                                 children: "Account Settings"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                lineNumber: 50,
+                                                lineNumber: 57,
                                                 columnNumber: 37
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 href: "#!",
                                                 scroll: false,
-                                                className: "m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary ",
+                                                className: "m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary hidden",
                                                 id: "email-item",
                                                 "data-hs-tab": "#email-settings",
                                                 "aria-controls": "email-settings",
                                                 children: "Email"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                lineNumber: 53,
+                                                lineNumber: 60,
                                                 columnNumber: 37
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 href: "#!",
                                                 scroll: false,
-                                                className: "m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary ",
+                                                className: "m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary hidden",
                                                 id: "labels-item",
                                                 "data-hs-tab": "#labels",
                                                 "aria-controls": "labels",
                                                 children: "Labels"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                lineNumber: 56,
+                                                lineNumber: 63,
                                                 columnNumber: 37
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 href: "#!",
                                                 scroll: false,
-                                                className: "m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary ",
+                                                className: "m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary hidden",
                                                 id: "notifications-item",
                                                 "data-hs-tab": "#notification-settings",
                                                 "aria-controls": "notification-settings",
                                                 children: "Notifications"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                lineNumber: 59,
+                                                lineNumber: 66,
                                                 columnNumber: 37
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 href: "#!",
                                                 scroll: false,
-                                                className: "m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary ",
+                                                className: "m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary hidden",
                                                 id: "security-item",
                                                 "data-hs-tab": "#security",
                                                 "aria-controls": "security",
                                                 children: "Security"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                lineNumber: 62,
+                                                lineNumber: 69,
                                                 columnNumber: 37
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                        lineNumber: 46,
+                                        lineNumber: 47,
                                         columnNumber: 33
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                    lineNumber: 45,
+                                    lineNumber: 46,
                                     columnNumber: 29
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -439,8 +465,73 @@ const Mailsettings = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "tab-pane show active dark:border-defaultborder/10",
+                                                id: "user-roles",
+                                                "aria-labelledby": "user-roles-item",
+                                                role: "tabpanel",
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "sm:p-4 p-0",
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "text-center py-8",
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                            className: "text-muted",
+                                                            children: "User Roles section coming soon..."
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                            lineNumber: 79,
+                                                            columnNumber: 49
+                                                        }, ("TURBOPACK compile-time value", void 0))
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                        lineNumber: 78,
+                                                        columnNumber: 45
+                                                    }, ("TURBOPACK compile-time value", void 0))
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                    lineNumber: 77,
+                                                    columnNumber: 41
+                                                }, ("TURBOPACK compile-time value", void 0))
+                                            }, void 0, false, {
+                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                lineNumber: 76,
+                                                columnNumber: 37
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "tab-pane dark:border-defaultborder/10 hidden",
+                                                id: "users",
+                                                "aria-labelledby": "users-item",
+                                                role: "tabpanel",
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "sm:p-4 p-0",
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "text-center py-8",
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                            className: "text-muted",
+                                                            children: "Users section coming soon..."
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                            lineNumber: 86,
+                                                            columnNumber: 49
+                                                        }, ("TURBOPACK compile-time value", void 0))
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                        lineNumber: 85,
+                                                        columnNumber: 45
+                                                    }, ("TURBOPACK compile-time value", void 0))
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                    lineNumber: 84,
+                                                    columnNumber: 41
+                                                }, ("TURBOPACK compile-time value", void 0))
+                                            }, void 0, false, {
+                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                lineNumber: 83,
+                                                columnNumber: 37
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "tab-pane dark:border-defaultborder/10 hidden",
                                                 id: "personal-info",
                                                 "aria-labelledby": "Personal-item",
+                                                role: "tabpanel",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     className: "sm:p-4 p-0",
                                                     children: [
@@ -449,7 +540,7 @@ const Mailsettings = ()=>{
                                                             children: "Photo :"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 71,
+                                                            lineNumber: 92,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -466,7 +557,7 @@ const Mailsettings = ()=>{
                                                                                 id: "profile-img"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 77,
+                                                                                lineNumber: 98,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -487,31 +578,31 @@ const Mailsettings = ()=>{
                                                                                         id: "profile-image"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 79,
+                                                                                        lineNumber: 100,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                                         className: "fe fe-camera !text-[0.65rem] !text-white"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 82,
+                                                                                        lineNumber: 103,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 78,
+                                                                                lineNumber: 99,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 76,
+                                                                        lineNumber: 97,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 75,
+                                                                    lineNumber: 96,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -523,7 +614,7 @@ const Mailsettings = ()=>{
                                                                             children: "Change"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 87,
+                                                                            lineNumber: 108,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -532,19 +623,19 @@ const Mailsettings = ()=>{
                                                                             children: "Remove"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 88,
+                                                                            lineNumber: 109,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 86,
+                                                                    lineNumber: 107,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 74,
+                                                            lineNumber: 95,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
@@ -552,7 +643,7 @@ const Mailsettings = ()=>{
                                                             children: "Profile :"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 91,
+                                                            lineNumber: 112,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -567,7 +658,7 @@ const Mailsettings = ()=>{
                                                                             children: "First Name"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 96,
+                                                                            lineNumber: 117,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -577,13 +668,13 @@ const Mailsettings = ()=>{
                                                                             placeholder: "First Name"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 97,
+                                                                            lineNumber: 118,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 95,
+                                                                    lineNumber: 116,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -595,7 +686,7 @@ const Mailsettings = ()=>{
                                                                             children: "Last Name"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 100,
+                                                                            lineNumber: 121,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -605,13 +696,13 @@ const Mailsettings = ()=>{
                                                                             placeholder: "Last Name"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 101,
+                                                                            lineNumber: 122,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 99,
+                                                                    lineNumber: 120,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -622,7 +713,7 @@ const Mailsettings = ()=>{
                                                                             children: "User Name"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 104,
+                                                                            lineNumber: 125,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -634,7 +725,7 @@ const Mailsettings = ()=>{
                                                                                     children: "user2413@gmail.com"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 106,
+                                                                                    lineNumber: 127,
                                                                                     columnNumber: 57
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -644,25 +735,25 @@ const Mailsettings = ()=>{
                                                                                     "aria-describedby": "basic-addon3"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 107,
+                                                                                    lineNumber: 128,
                                                                                     columnNumber: 57
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 105,
+                                                                            lineNumber: 126,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 103,
+                                                                    lineNumber: 124,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 94,
+                                                            lineNumber: 115,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
@@ -670,7 +761,7 @@ const Mailsettings = ()=>{
                                                             children: "Personal information :"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 111,
+                                                            lineNumber: 132,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -685,7 +776,7 @@ const Mailsettings = ()=>{
                                                                             children: "Email Address :"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 116,
+                                                                            lineNumber: 137,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -695,13 +786,13 @@ const Mailsettings = ()=>{
                                                                             placeholder: "xyz@gmail.com"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 117,
+                                                                            lineNumber: 138,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 115,
+                                                                    lineNumber: 136,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -713,7 +804,7 @@ const Mailsettings = ()=>{
                                                                             children: "Contact Details :"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 120,
+                                                                            lineNumber: 141,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -723,13 +814,13 @@ const Mailsettings = ()=>{
                                                                             placeholder: "contact details"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 121,
+                                                                            lineNumber: 142,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 119,
+                                                                    lineNumber: 140,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -740,7 +831,7 @@ const Mailsettings = ()=>{
                                                                             children: "Language :"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 124,
+                                                                            lineNumber: 145,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Select, {
@@ -755,13 +846,13 @@ const Mailsettings = ()=>{
                                                                             ]
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 125,
+                                                                            lineNumber: 146,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 123,
+                                                                    lineNumber: 144,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -772,7 +863,7 @@ const Mailsettings = ()=>{
                                                                             children: "Country :"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 130,
+                                                                            lineNumber: 151,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Select, {
@@ -786,13 +877,13 @@ const Mailsettings = ()=>{
                                                                             ]
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 131,
+                                                                            lineNumber: 152,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 129,
+                                                                    lineNumber: 150,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -804,7 +895,7 @@ const Mailsettings = ()=>{
                                                                             children: "Bio :"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 136,
+                                                                            lineNumber: 157,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -814,30 +905,30 @@ const Mailsettings = ()=>{
                                                                             defaultValue: "Lorem ipsum dolor sit amet consectetur adipisicing elit. At sit impedit, officiis non minima saepe voluptates a magnam enim sequi porro veniam ea suscipit dolorum vel mollitia voluptate iste nemo!"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 137,
+                                                                            lineNumber: 158,
                                                                             columnNumber: 53
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 135,
+                                                                    lineNumber: 156,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 114,
+                                                            lineNumber: 135,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                    lineNumber: 70,
+                                                    lineNumber: 91,
                                                     columnNumber: 41
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                lineNumber: 69,
+                                                lineNumber: 90,
                                                 columnNumber: 37
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -865,7 +956,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Two Step Verification"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 154,
+                                                                                            lineNumber: 175,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -873,13 +964,13 @@ const Mailsettings = ()=>{
                                                                                             children: "Two step verificatoin is very secured and restricts in happening faulty practices."
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 155,
+                                                                                            lineNumber: 176,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 153,
+                                                                                    lineNumber: 174,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -892,7 +983,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 158,
+                                                                                            lineNumber: 179,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -900,19 +991,19 @@ const Mailsettings = ()=>{
                                                                                             className: "label-primary mb-1"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 159,
+                                                                                            lineNumber: 180,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 157,
+                                                                                    lineNumber: 178,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 152,
+                                                                            lineNumber: 173,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -926,7 +1017,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Authentication"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 164,
+                                                                                            lineNumber: 185,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -944,7 +1035,7 @@ const Mailsettings = ()=>{
                                                                                                         defaultChecked: true
                                                                                                     }, void 0, false, {
                                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                        lineNumber: 167,
+                                                                                                        lineNumber: 188,
                                                                                                         columnNumber: 73
                                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -955,14 +1046,14 @@ const Mailsettings = ()=>{
                                                                                                                 className: "ri-lock-unlock-line me-1 align-middle inline-block"
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                                lineNumber: 168,
+                                                                                                                lineNumber: 189,
                                                                                                                 columnNumber: 170
                                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                                             "Pin"
                                                                                                         ]
                                                                                                     }, void 0, true, {
                                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                        lineNumber: 168,
+                                                                                                        lineNumber: 189,
                                                                                                         columnNumber: 73
                                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -972,7 +1063,7 @@ const Mailsettings = ()=>{
                                                                                                         id: "btnradio2"
                                                                                                     }, void 0, false, {
                                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                        lineNumber: 169,
+                                                                                                        lineNumber: 190,
                                                                                                         columnNumber: 73
                                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -983,14 +1074,14 @@ const Mailsettings = ()=>{
                                                                                                                 className: "ri-lock-password-line me-1 align-middle inline-block"
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                                lineNumber: 170,
+                                                                                                                lineNumber: 191,
                                                                                                                 columnNumber: 168
                                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                                             "Password"
                                                                                                         ]
                                                                                                     }, void 0, true, {
                                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                        lineNumber: 170,
+                                                                                                        lineNumber: 191,
                                                                                                         columnNumber: 73
                                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -1000,7 +1091,7 @@ const Mailsettings = ()=>{
                                                                                                         id: "btnradio3"
                                                                                                     }, void 0, false, {
                                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                        lineNumber: 171,
+                                                                                                        lineNumber: 192,
                                                                                                         columnNumber: 73
                                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1011,31 +1102,31 @@ const Mailsettings = ()=>{
                                                                                                                 className: "ri-fingerprint-line me-1 align-middle inline-block"
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                                lineNumber: 172,
+                                                                                                                lineNumber: 193,
                                                                                                                 columnNumber: 158
                                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                                             "Finger Print"
                                                                                                         ]
                                                                                                     }, void 0, true, {
                                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                        lineNumber: 172,
+                                                                                                        lineNumber: 193,
                                                                                                         columnNumber: 73
                                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                                 ]
                                                                                             }, void 0, true, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 166,
+                                                                                                lineNumber: 187,
                                                                                                 columnNumber: 69
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 165,
+                                                                                            lineNumber: 186,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 163,
+                                                                                    lineNumber: 184,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1048,7 +1139,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 177,
+                                                                                            lineNumber: 198,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1056,19 +1147,19 @@ const Mailsettings = ()=>{
                                                                                             className: "label-primary mb-1"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 178,
+                                                                                            lineNumber: 199,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 176,
+                                                                                    lineNumber: 197,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 162,
+                                                                            lineNumber: 183,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1081,7 +1172,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Recovery Mail"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 183,
+                                                                                            lineNumber: 204,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1089,13 +1180,13 @@ const Mailsettings = ()=>{
                                                                                             children: "Incase of forgetting password mails are sent to  heifo@gmail.com"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 184,
+                                                                                            lineNumber: 205,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 182,
+                                                                                    lineNumber: 203,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1108,7 +1199,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 187,
+                                                                                            lineNumber: 208,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1116,19 +1207,19 @@ const Mailsettings = ()=>{
                                                                                             className: "label-primary mb-1"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 188,
+                                                                                            lineNumber: 209,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 186,
+                                                                                    lineNumber: 207,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 181,
+                                                                            lineNumber: 202,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1141,7 +1232,7 @@ const Mailsettings = ()=>{
                                                                                             children: "SMS Recovery"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 193,
+                                                                                            lineNumber: 214,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1149,13 +1240,13 @@ const Mailsettings = ()=>{
                                                                                             children: "SMS are sent to 9102312xx in case of recovery"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 194,
+                                                                                            lineNumber: 215,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 192,
+                                                                                    lineNumber: 213,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1168,7 +1259,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 197,
+                                                                                            lineNumber: 218,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1176,19 +1267,19 @@ const Mailsettings = ()=>{
                                                                                             className: "label-primary mb-1"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 198,
+                                                                                            lineNumber: 219,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 196,
+                                                                                    lineNumber: 217,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 191,
+                                                                            lineNumber: 212,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1200,7 +1291,7 @@ const Mailsettings = ()=>{
                                                                                         children: "Reset Password"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 203,
+                                                                                        lineNumber: 224,
                                                                                         columnNumber: 65
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1215,13 +1306,13 @@ const Mailsettings = ()=>{
                                                                                                         children: "*"
                                                                                                     }, void 0, false, {
                                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                        lineNumber: 204,
+                                                                                                        lineNumber: 225,
                                                                                                         columnNumber: 191
                                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                                 ]
                                                                                             }, void 0, true, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 204,
+                                                                                                lineNumber: 225,
                                                                                                 columnNumber: 155
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             ",atleast ",
@@ -1233,13 +1324,13 @@ const Mailsettings = ()=>{
                                                                                                         children: "*"
                                                                                                     }, void 0, false, {
                                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                        lineNumber: 204,
+                                                                                                        lineNumber: 225,
                                                                                                         columnNumber: 262
                                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                                 ]
                                                                                             }, void 0, true, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 204,
+                                                                                                lineNumber: 225,
                                                                                                 columnNumber: 216
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             " and ",
@@ -1251,20 +1342,20 @@ const Mailsettings = ()=>{
                                                                                                         children: "*"
                                                                                                     }, void 0, false, {
                                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                        lineNumber: 204,
+                                                                                                        lineNumber: 225,
                                                                                                         columnNumber: 332
                                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                                 ]
                                                                                             }, void 0, true, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 204,
+                                                                                                lineNumber: 225,
                                                                                                 columnNumber: 283
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             " included."
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 204,
+                                                                                        lineNumber: 225,
                                                                                         columnNumber: 65
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1276,7 +1367,7 @@ const Mailsettings = ()=>{
                                                                                                 children: "Current Password"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 206,
+                                                                                                lineNumber: 227,
                                                                                                 columnNumber: 69
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -1286,13 +1377,13 @@ const Mailsettings = ()=>{
                                                                                                 placeholder: "Current Password"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 207,
+                                                                                                lineNumber: 228,
                                                                                                 columnNumber: 69
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 205,
+                                                                                        lineNumber: 226,
                                                                                         columnNumber: 65
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1304,7 +1395,7 @@ const Mailsettings = ()=>{
                                                                                                 children: "New Password"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 210,
+                                                                                                lineNumber: 231,
                                                                                                 columnNumber: 69
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -1314,13 +1405,13 @@ const Mailsettings = ()=>{
                                                                                                 placeholder: "New Password"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 211,
+                                                                                                lineNumber: 232,
                                                                                                 columnNumber: 69
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 209,
+                                                                                        lineNumber: 230,
                                                                                         columnNumber: 65
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1332,7 +1423,7 @@ const Mailsettings = ()=>{
                                                                                                 children: "Confirm Password"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 214,
+                                                                                                lineNumber: 235,
                                                                                                 columnNumber: 69
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -1342,47 +1433,47 @@ const Mailsettings = ()=>{
                                                                                                 placeholder: "Confirm Password"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 215,
+                                                                                                lineNumber: 236,
                                                                                                 columnNumber: 69
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 213,
+                                                                                        lineNumber: 234,
                                                                                         columnNumber: 65
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 202,
+                                                                                lineNumber: 223,
                                                                                 columnNumber: 61
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 201,
+                                                                            lineNumber: 222,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 151,
+                                                                    lineNumber: 172,
                                                                     columnNumber: 53
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 150,
+                                                                lineNumber: 171,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 149,
+                                                            lineNumber: 170,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "xl:col-span-1 col-span-12"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 222,
+                                                            lineNumber: 243,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1398,7 +1489,7 @@ const Mailsettings = ()=>{
                                                                                 children: "Registered Devices"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 226,
+                                                                                lineNumber: 247,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1409,18 +1500,18 @@ const Mailsettings = ()=>{
                                                                                     children: "Signout from all devices"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 228,
+                                                                                    lineNumber: 249,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 227,
+                                                                                lineNumber: 248,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 225,
+                                                                        lineNumber: 246,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1438,12 +1529,12 @@ const Mailsettings = ()=>{
                                                                                                     className: `${idx.class} text-[#8c9097] dark:text-white/50`
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 237,
+                                                                                                    lineNumber: 258,
                                                                                                     columnNumber: 108
                                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 237,
+                                                                                                lineNumber: 258,
                                                                                                 columnNumber: 73
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1456,12 +1547,12 @@ const Mailsettings = ()=>{
                                                                                                             children: idx.text1
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                            lineNumber: 240,
+                                                                                                            lineNumber: 261,
                                                                                                             columnNumber: 81
                                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                                     }, void 0, false, {
                                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                        lineNumber: 239,
+                                                                                                        lineNumber: 260,
                                                                                                         columnNumber: 77
                                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1471,18 +1562,18 @@ const Mailsettings = ()=>{
                                                                                                             children: idx.text2
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                            lineNumber: 243,
+                                                                                                            lineNumber: 264,
                                                                                                             columnNumber: 81
                                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                                     }, void 0, false, {
                                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                        lineNumber: 242,
+                                                                                                        lineNumber: 263,
                                                                                                         columnNumber: 77
                                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                                 ]
                                                                                             }, void 0, true, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 238,
+                                                                                                lineNumber: 259,
                                                                                                 columnNumber: 73
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1497,12 +1588,12 @@ const Mailsettings = ()=>{
                                                                                                             className: "fe fe-more-vertical text-[0.8rem]"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                            lineNumber: 248,
+                                                                                                            lineNumber: 269,
                                                                                                             columnNumber: 81
                                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                                     }, void 0, false, {
                                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                        lineNumber: 247,
+                                                                                                        lineNumber: 268,
                                                                                                         columnNumber: 77
                                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -1515,12 +1606,12 @@ const Mailsettings = ()=>{
                                                                                                                     children: "Action"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                                    lineNumber: 251,
+                                                                                                                    lineNumber: 272,
                                                                                                                     columnNumber: 85
                                                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                                lineNumber: 251,
+                                                                                                                lineNumber: 272,
                                                                                                                 columnNumber: 81
                                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1530,12 +1621,12 @@ const Mailsettings = ()=>{
                                                                                                                     children: "Another action"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                                    lineNumber: 252,
+                                                                                                                    lineNumber: 273,
                                                                                                                     columnNumber: 85
                                                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                                lineNumber: 252,
+                                                                                                                lineNumber: 273,
                                                                                                                 columnNumber: 81
                                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1545,67 +1636,67 @@ const Mailsettings = ()=>{
                                                                                                                     children: "Something else here"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                                    lineNumber: 253,
+                                                                                                                    lineNumber: 274,
                                                                                                                     columnNumber: 85
                                                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                                lineNumber: 253,
+                                                                                                                lineNumber: 274,
                                                                                                                 columnNumber: 81
                                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                                         ]
                                                                                                     }, void 0, true, {
                                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                        lineNumber: 250,
+                                                                                                        lineNumber: 271,
                                                                                                         columnNumber: 77
                                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                                 ]
                                                                                             }, void 0, true, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 246,
+                                                                                                lineNumber: 267,
                                                                                                 columnNumber: 73
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 236,
+                                                                                        lineNumber: 257,
                                                                                         columnNumber: 69
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 }, Math.random(), false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 235,
+                                                                                    lineNumber: 256,
                                                                                     columnNumber: 65
                                                                                 }, ("TURBOPACK compile-time value", void 0)))
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 232,
+                                                                            lineNumber: 253,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 231,
+                                                                        lineNumber: 252,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 224,
+                                                                lineNumber: 245,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 223,
+                                                            lineNumber: 244,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                    lineNumber: 148,
+                                                    lineNumber: 169,
                                                     columnNumber: 41
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                lineNumber: 147,
+                                                lineNumber: 168,
                                                 columnNumber: 37
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1628,12 +1719,12 @@ const Mailsettings = ()=>{
                                                                             children: "Menu View :"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 270,
+                                                                            lineNumber: 291,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 269,
+                                                                        lineNumber: 290,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1649,7 +1740,7 @@ const Mailsettings = ()=>{
                                                                                         id: "flexRadioDefault1"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 274,
+                                                                                        lineNumber: 295,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1658,13 +1749,13 @@ const Mailsettings = ()=>{
                                                                                         children: "Default View"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 275,
+                                                                                        lineNumber: 296,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 273,
+                                                                                lineNumber: 294,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1678,7 +1769,7 @@ const Mailsettings = ()=>{
                                                                                         defaultChecked: true
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 280,
+                                                                                        lineNumber: 301,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1687,19 +1778,19 @@ const Mailsettings = ()=>{
                                                                                         children: "Advanced View"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 281,
+                                                                                        lineNumber: 302,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 279,
+                                                                                lineNumber: 300,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 272,
+                                                                        lineNumber: 293,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1714,7 +1805,7 @@ const Mailsettings = ()=>{
                                                                                     defaultChecked: true
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 288,
+                                                                                    lineNumber: 309,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1722,29 +1813,29 @@ const Mailsettings = ()=>{
                                                                                     className: "label-danger mb-1"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 289,
+                                                                                    lineNumber: 310,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 287,
+                                                                            lineNumber: 308,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 286,
+                                                                        lineNumber: 307,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 268,
+                                                                lineNumber: 289,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 267,
+                                                            lineNumber: 288,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1759,12 +1850,12 @@ const Mailsettings = ()=>{
                                                                             children: "Language :"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 297,
+                                                                            lineNumber: 318,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 296,
+                                                                        lineNumber: 317,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1775,7 +1866,7 @@ const Mailsettings = ()=>{
                                                                                 children: "Languages :"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 300,
+                                                                                lineNumber: 321,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Select, {
@@ -1791,13 +1882,13 @@ const Mailsettings = ()=>{
                                                                                 ]
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 301,
+                                                                                lineNumber: 322,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 299,
+                                                                        lineNumber: 320,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1811,7 +1902,7 @@ const Mailsettings = ()=>{
                                                                                     type: "checkbox"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 307,
+                                                                                    lineNumber: 328,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1819,29 +1910,29 @@ const Mailsettings = ()=>{
                                                                                     className: "label-danger mb-1"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 308,
+                                                                                    lineNumber: 329,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 306,
+                                                                            lineNumber: 327,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 305,
+                                                                        lineNumber: 326,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 295,
+                                                                lineNumber: 316,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 294,
+                                                            lineNumber: 315,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1856,12 +1947,12 @@ const Mailsettings = ()=>{
                                                                             children: "Images :"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 316,
+                                                                            lineNumber: 337,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 315,
+                                                                        lineNumber: 336,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1877,7 +1968,7 @@ const Mailsettings = ()=>{
                                                                                         id: "images-open1"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 320,
+                                                                                        lineNumber: 341,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1886,13 +1977,13 @@ const Mailsettings = ()=>{
                                                                                         children: "Always Open Images"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 321,
+                                                                                        lineNumber: 342,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 319,
+                                                                                lineNumber: 340,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1906,7 +1997,7 @@ const Mailsettings = ()=>{
                                                                                         defaultChecked: true
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 326,
+                                                                                        lineNumber: 347,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1915,19 +2006,19 @@ const Mailsettings = ()=>{
                                                                                         children: "Ask For Permission"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 327,
+                                                                                        lineNumber: 348,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 325,
+                                                                                lineNumber: 346,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 318,
+                                                                        lineNumber: 339,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1941,7 +2032,7 @@ const Mailsettings = ()=>{
                                                                                     type: "checkbox"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 334,
+                                                                                    lineNumber: 355,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -1949,29 +2040,29 @@ const Mailsettings = ()=>{
                                                                                     className: "label-danger mb-1"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 335,
+                                                                                    lineNumber: 356,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 333,
+                                                                            lineNumber: 354,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 332,
+                                                                        lineNumber: 353,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 314,
+                                                                lineNumber: 335,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 313,
+                                                            lineNumber: 334,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1986,12 +2077,12 @@ const Mailsettings = ()=>{
                                                                             children: "Keyboard Shortcuts :"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 343,
+                                                                            lineNumber: 364,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 342,
+                                                                        lineNumber: 363,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2007,7 +2098,7 @@ const Mailsettings = ()=>{
                                                                                         id: "keyboard-enable1"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 347,
+                                                                                        lineNumber: 368,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2016,13 +2107,13 @@ const Mailsettings = ()=>{
                                                                                         children: "Keyboard Shortcuts Enable"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 348,
+                                                                                        lineNumber: 369,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 346,
+                                                                                lineNumber: 367,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2036,7 +2127,7 @@ const Mailsettings = ()=>{
                                                                                         defaultChecked: true
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 353,
+                                                                                        lineNumber: 374,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2045,19 +2136,19 @@ const Mailsettings = ()=>{
                                                                                         children: "Keyboard Shortcuts Disable"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 354,
+                                                                                        lineNumber: 375,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 352,
+                                                                                lineNumber: 373,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 345,
+                                                                        lineNumber: 366,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2071,7 +2162,7 @@ const Mailsettings = ()=>{
                                                                                     type: "checkbox"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 361,
+                                                                                    lineNumber: 382,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2079,29 +2170,29 @@ const Mailsettings = ()=>{
                                                                                     className: "label-danger mb-1"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 362,
+                                                                                    lineNumber: 383,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 360,
+                                                                            lineNumber: 381,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 359,
+                                                                        lineNumber: 380,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 341,
+                                                                lineNumber: 362,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 340,
+                                                            lineNumber: 361,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -2116,12 +2207,12 @@ const Mailsettings = ()=>{
                                                                             children: "Notifications :"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 370,
+                                                                            lineNumber: 391,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 369,
+                                                                        lineNumber: 390,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2138,7 +2229,7 @@ const Mailsettings = ()=>{
                                                                                         defaultChecked: true
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 374,
+                                                                                        lineNumber: 395,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2147,13 +2238,13 @@ const Mailsettings = ()=>{
                                                                                         children: "Desktop Notifications"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 375,
+                                                                                        lineNumber: 396,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 373,
+                                                                                lineNumber: 394,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2166,7 +2257,7 @@ const Mailsettings = ()=>{
                                                                                         id: "mobile-notifications"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 380,
+                                                                                        lineNumber: 401,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2175,19 +2266,19 @@ const Mailsettings = ()=>{
                                                                                         children: "Mobile Notifications"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 381,
+                                                                                        lineNumber: 402,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 379,
+                                                                                lineNumber: 400,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 372,
+                                                                        lineNumber: 393,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2201,28 +2292,28 @@ const Mailsettings = ()=>{
                                                                                 children: "Learn-more"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 388,
+                                                                                lineNumber: 409,
                                                                                 columnNumber: 61
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 387,
+                                                                            lineNumber: 408,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 386,
+                                                                        lineNumber: 407,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 368,
+                                                                lineNumber: 389,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 367,
+                                                            lineNumber: 388,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -2237,12 +2328,12 @@ const Mailsettings = ()=>{
                                                                             children: "Maximum Mails Per Page :"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 396,
+                                                                            lineNumber: 417,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 395,
+                                                                        lineNumber: 416,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2258,12 +2349,12 @@ const Mailsettings = ()=>{
                                                                             ]
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 399,
+                                                                            lineNumber: 420,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 398,
+                                                                        lineNumber: 419,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2277,7 +2368,7 @@ const Mailsettings = ()=>{
                                                                                     type: "checkbox"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 405,
+                                                                                    lineNumber: 426,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2285,29 +2376,29 @@ const Mailsettings = ()=>{
                                                                                     className: "label-danger mb-1"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 406,
+                                                                                    lineNumber: 427,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 404,
+                                                                            lineNumber: 425,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 403,
+                                                                        lineNumber: 424,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 394,
+                                                                lineNumber: 415,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 393,
+                                                            lineNumber: 414,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -2322,12 +2413,12 @@ const Mailsettings = ()=>{
                                                                             children: "Mail Composer :"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 414,
+                                                                            lineNumber: 435,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 413,
+                                                                        lineNumber: 434,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2343,7 +2434,7 @@ const Mailsettings = ()=>{
                                                                                         id: "mail-composeron1"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 418,
+                                                                                        lineNumber: 439,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2352,13 +2443,13 @@ const Mailsettings = ()=>{
                                                                                         children: "Mail Composer On"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 419,
+                                                                                        lineNumber: 440,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 417,
+                                                                                lineNumber: 438,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2372,7 +2463,7 @@ const Mailsettings = ()=>{
                                                                                         defaultChecked: true
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 424,
+                                                                                        lineNumber: 445,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2381,19 +2472,19 @@ const Mailsettings = ()=>{
                                                                                         children: "Mail Composer Off"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 425,
+                                                                                        lineNumber: 446,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 423,
+                                                                                lineNumber: 444,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 416,
+                                                                        lineNumber: 437,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2407,7 +2498,7 @@ const Mailsettings = ()=>{
                                                                                     type: "checkbox"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 432,
+                                                                                    lineNumber: 453,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2415,29 +2506,29 @@ const Mailsettings = ()=>{
                                                                                     className: "label-danger mb-1"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 433,
+                                                                                    lineNumber: 454,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 431,
+                                                                            lineNumber: 452,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 430,
+                                                                        lineNumber: 451,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 412,
+                                                                lineNumber: 433,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 411,
+                                                            lineNumber: 432,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -2452,12 +2543,12 @@ const Mailsettings = ()=>{
                                                                             children: "Auto Correct :"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 441,
+                                                                            lineNumber: 462,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 440,
+                                                                        lineNumber: 461,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2473,7 +2564,7 @@ const Mailsettings = ()=>{
                                                                                         id: "auto-correcton1"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 445,
+                                                                                        lineNumber: 466,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2482,13 +2573,13 @@ const Mailsettings = ()=>{
                                                                                         children: "Auto Correct On"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 446,
+                                                                                        lineNumber: 467,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 444,
+                                                                                lineNumber: 465,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2502,7 +2593,7 @@ const Mailsettings = ()=>{
                                                                                         defaultChecked: true
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 451,
+                                                                                        lineNumber: 472,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2511,19 +2602,19 @@ const Mailsettings = ()=>{
                                                                                         children: "Auto Correct Off"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 452,
+                                                                                        lineNumber: 473,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 450,
+                                                                                lineNumber: 471,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 443,
+                                                                        lineNumber: 464,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2537,7 +2628,7 @@ const Mailsettings = ()=>{
                                                                                     type: "checkbox"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 459,
+                                                                                    lineNumber: 480,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2545,29 +2636,29 @@ const Mailsettings = ()=>{
                                                                                     className: "label-danger mb-1"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 460,
+                                                                                    lineNumber: 481,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 458,
+                                                                            lineNumber: 479,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 457,
+                                                                        lineNumber: 478,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 439,
+                                                                lineNumber: 460,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 438,
+                                                            lineNumber: 459,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -2582,12 +2673,12 @@ const Mailsettings = ()=>{
                                                                             children: "Mail Send Action :"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 468,
+                                                                            lineNumber: 489,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 467,
+                                                                        lineNumber: 488,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2604,7 +2695,7 @@ const Mailsettings = ()=>{
                                                                                         defaultChecked: true
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 472,
+                                                                                        lineNumber: 493,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2613,13 +2704,13 @@ const Mailsettings = ()=>{
                                                                                         children: "On Keyboard Action"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 473,
+                                                                                        lineNumber: 494,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 471,
+                                                                                lineNumber: 492,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2632,7 +2723,7 @@ const Mailsettings = ()=>{
                                                                                         id: "on-buttonclick"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 478,
+                                                                                        lineNumber: 499,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2641,19 +2732,19 @@ const Mailsettings = ()=>{
                                                                                         children: "On Button Click"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 479,
+                                                                                        lineNumber: 500,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 477,
+                                                                                lineNumber: 498,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 470,
+                                                                        lineNumber: 491,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2667,39 +2758,39 @@ const Mailsettings = ()=>{
                                                                                 children: "Learn-more"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 486,
+                                                                                lineNumber: 507,
                                                                                 columnNumber: 61
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 485,
+                                                                            lineNumber: 506,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 484,
+                                                                        lineNumber: 505,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 466,
+                                                                lineNumber: 487,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 465,
+                                                            lineNumber: 486,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                    lineNumber: 266,
+                                                    lineNumber: 287,
                                                     columnNumber: 41
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                lineNumber: 265,
+                                                lineNumber: 286,
                                                 columnNumber: 37
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2713,7 +2804,7 @@ const Mailsettings = ()=>{
                                                         children: "Mail Labels :"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                        lineNumber: 494,
+                                                        lineNumber: 515,
                                                         columnNumber: 41
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2733,12 +2824,12 @@ const Mailsettings = ()=>{
                                                                                     children: "All Mails"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 500,
+                                                                                    lineNumber: 521,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 499,
+                                                                                lineNumber: 520,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2755,7 +2846,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 504,
+                                                                                            lineNumber: 525,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2764,7 +2855,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Enable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 505,
+                                                                                            lineNumber: 526,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2774,7 +2865,7 @@ const Mailsettings = ()=>{
                                                                                             id: "all-mails-disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 506,
+                                                                                            lineNumber: 527,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2783,34 +2874,34 @@ const Mailsettings = ()=>{
                                                                                             children: "Disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 507,
+                                                                                            lineNumber: 528,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 503,
+                                                                                    lineNumber: 524,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 502,
+                                                                                lineNumber: 523,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 498,
+                                                                        lineNumber: 519,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 497,
+                                                                    lineNumber: 518,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 496,
+                                                                lineNumber: 517,
                                                                 columnNumber: 45
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2827,12 +2918,12 @@ const Mailsettings = ()=>{
                                                                                     children: "Inbox"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 517,
+                                                                                    lineNumber: 538,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 516,
+                                                                                lineNumber: 537,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2849,7 +2940,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 521,
+                                                                                            lineNumber: 542,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2858,7 +2949,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Enable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 522,
+                                                                                            lineNumber: 543,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2868,7 +2959,7 @@ const Mailsettings = ()=>{
                                                                                             id: "inbox-disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 523,
+                                                                                            lineNumber: 544,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2877,34 +2968,34 @@ const Mailsettings = ()=>{
                                                                                             children: "Disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 524,
+                                                                                            lineNumber: 545,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 520,
+                                                                                    lineNumber: 541,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 519,
+                                                                                lineNumber: 540,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 515,
+                                                                        lineNumber: 536,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 514,
+                                                                    lineNumber: 535,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 513,
+                                                                lineNumber: 534,
                                                                 columnNumber: 45
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2921,12 +3012,12 @@ const Mailsettings = ()=>{
                                                                                     children: "Sent"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 534,
+                                                                                    lineNumber: 555,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 533,
+                                                                                lineNumber: 554,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2943,7 +3034,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 538,
+                                                                                            lineNumber: 559,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2952,7 +3043,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Enable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 539,
+                                                                                            lineNumber: 560,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -2962,7 +3053,7 @@ const Mailsettings = ()=>{
                                                                                             id: "sent-disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 540,
+                                                                                            lineNumber: 561,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2971,34 +3062,34 @@ const Mailsettings = ()=>{
                                                                                             children: "Disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 541,
+                                                                                            lineNumber: 562,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 537,
+                                                                                    lineNumber: 558,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 536,
+                                                                                lineNumber: 557,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 532,
+                                                                        lineNumber: 553,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 531,
+                                                                    lineNumber: 552,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 530,
+                                                                lineNumber: 551,
                                                                 columnNumber: 45
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3015,12 +3106,12 @@ const Mailsettings = ()=>{
                                                                                     children: "Drafts"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 551,
+                                                                                    lineNumber: 572,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 550,
+                                                                                lineNumber: 571,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3037,7 +3128,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 555,
+                                                                                            lineNumber: 576,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3046,7 +3137,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Enable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 556,
+                                                                                            lineNumber: 577,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3056,7 +3147,7 @@ const Mailsettings = ()=>{
                                                                                             id: "drafts-disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 557,
+                                                                                            lineNumber: 578,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3065,34 +3156,34 @@ const Mailsettings = ()=>{
                                                                                             children: "Disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 558,
+                                                                                            lineNumber: 579,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 554,
+                                                                                    lineNumber: 575,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 553,
+                                                                                lineNumber: 574,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 549,
+                                                                        lineNumber: 570,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 548,
+                                                                    lineNumber: 569,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 547,
+                                                                lineNumber: 568,
                                                                 columnNumber: 45
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3109,12 +3200,12 @@ const Mailsettings = ()=>{
                                                                                     children: "Spam"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 568,
+                                                                                    lineNumber: 589,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 567,
+                                                                                lineNumber: 588,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3131,7 +3222,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 572,
+                                                                                            lineNumber: 593,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3140,7 +3231,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Enable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 573,
+                                                                                            lineNumber: 594,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3150,7 +3241,7 @@ const Mailsettings = ()=>{
                                                                                             id: "spam-disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 574,
+                                                                                            lineNumber: 595,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3159,34 +3250,34 @@ const Mailsettings = ()=>{
                                                                                             children: "Disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 575,
+                                                                                            lineNumber: 596,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 571,
+                                                                                    lineNumber: 592,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 570,
+                                                                                lineNumber: 591,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 566,
+                                                                        lineNumber: 587,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 565,
+                                                                    lineNumber: 586,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 564,
+                                                                lineNumber: 585,
                                                                 columnNumber: 45
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3203,12 +3294,12 @@ const Mailsettings = ()=>{
                                                                                     children: "Important"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 585,
+                                                                                    lineNumber: 606,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 584,
+                                                                                lineNumber: 605,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3225,7 +3316,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 589,
+                                                                                            lineNumber: 610,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3234,7 +3325,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Enable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 590,
+                                                                                            lineNumber: 611,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3244,7 +3335,7 @@ const Mailsettings = ()=>{
                                                                                             id: "important-disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 591,
+                                                                                            lineNumber: 612,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3253,34 +3344,34 @@ const Mailsettings = ()=>{
                                                                                             children: "Disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 592,
+                                                                                            lineNumber: 613,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 588,
+                                                                                    lineNumber: 609,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 587,
+                                                                                lineNumber: 608,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 583,
+                                                                        lineNumber: 604,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 582,
+                                                                    lineNumber: 603,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 581,
+                                                                lineNumber: 602,
                                                                 columnNumber: 45
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3297,12 +3388,12 @@ const Mailsettings = ()=>{
                                                                                     children: "Trash"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 602,
+                                                                                    lineNumber: 623,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 601,
+                                                                                lineNumber: 622,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3319,7 +3410,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 606,
+                                                                                            lineNumber: 627,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3328,7 +3419,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Enable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 607,
+                                                                                            lineNumber: 628,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3338,7 +3429,7 @@ const Mailsettings = ()=>{
                                                                                             id: "trash-disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 608,
+                                                                                            lineNumber: 629,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3347,34 +3438,34 @@ const Mailsettings = ()=>{
                                                                                             children: "Disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 609,
+                                                                                            lineNumber: 630,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 605,
+                                                                                    lineNumber: 626,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 604,
+                                                                                lineNumber: 625,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 600,
+                                                                        lineNumber: 621,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 599,
+                                                                    lineNumber: 620,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 598,
+                                                                lineNumber: 619,
                                                                 columnNumber: 45
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3391,12 +3482,12 @@ const Mailsettings = ()=>{
                                                                                     children: "Archive"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 619,
+                                                                                    lineNumber: 640,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 618,
+                                                                                lineNumber: 639,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3413,7 +3504,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 623,
+                                                                                            lineNumber: 644,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3422,7 +3513,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Enable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 624,
+                                                                                            lineNumber: 645,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3432,7 +3523,7 @@ const Mailsettings = ()=>{
                                                                                             id: "archive-disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 625,
+                                                                                            lineNumber: 646,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3441,34 +3532,34 @@ const Mailsettings = ()=>{
                                                                                             children: "Disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 626,
+                                                                                            lineNumber: 647,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 622,
+                                                                                    lineNumber: 643,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 621,
+                                                                                lineNumber: 642,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 617,
+                                                                        lineNumber: 638,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 616,
+                                                                    lineNumber: 637,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 615,
+                                                                lineNumber: 636,
                                                                 columnNumber: 45
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3485,12 +3576,12 @@ const Mailsettings = ()=>{
                                                                                     children: "Starred"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 636,
+                                                                                    lineNumber: 657,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 635,
+                                                                                lineNumber: 656,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3507,7 +3598,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 640,
+                                                                                            lineNumber: 661,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3516,7 +3607,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Enable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 641,
+                                                                                            lineNumber: 662,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3526,7 +3617,7 @@ const Mailsettings = ()=>{
                                                                                             id: "starred-disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 642,
+                                                                                            lineNumber: 663,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3535,40 +3626,40 @@ const Mailsettings = ()=>{
                                                                                             children: "Disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 643,
+                                                                                            lineNumber: 664,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 639,
+                                                                                    lineNumber: 660,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 638,
+                                                                                lineNumber: 659,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 634,
+                                                                        lineNumber: 655,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 633,
+                                                                    lineNumber: 654,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 632,
+                                                                lineNumber: 653,
                                                                 columnNumber: 45
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                        lineNumber: 495,
+                                                        lineNumber: 516,
                                                         columnNumber: 41
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3576,7 +3667,7 @@ const Mailsettings = ()=>{
                                                         children: "Settings :"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                        lineNumber: 650,
+                                                        lineNumber: 671,
                                                         columnNumber: 41
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3595,12 +3686,12 @@ const Mailsettings = ()=>{
                                                                                 children: "Settings"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 656,
+                                                                                lineNumber: 677,
                                                                                 columnNumber: 61
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 655,
+                                                                            lineNumber: 676,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3617,7 +3708,7 @@ const Mailsettings = ()=>{
                                                                                         defaultChecked: true
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 660,
+                                                                                        lineNumber: 681,
                                                                                         columnNumber: 65
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3626,7 +3717,7 @@ const Mailsettings = ()=>{
                                                                                         children: "Enable"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 661,
+                                                                                        lineNumber: 682,
                                                                                         columnNumber: 65
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3636,7 +3727,7 @@ const Mailsettings = ()=>{
                                                                                         id: "settings-disable"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 662,
+                                                                                        lineNumber: 683,
                                                                                         columnNumber: 65
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3645,39 +3736,39 @@ const Mailsettings = ()=>{
                                                                                         children: "Disable"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 663,
+                                                                                        lineNumber: 684,
                                                                                         columnNumber: 65
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 659,
+                                                                                lineNumber: 680,
                                                                                 columnNumber: 61
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 658,
+                                                                            lineNumber: 679,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 654,
+                                                                    lineNumber: 675,
                                                                     columnNumber: 53
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 653,
+                                                                lineNumber: 674,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 652,
+                                                            lineNumber: 673,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                        lineNumber: 651,
+                                                        lineNumber: 672,
                                                         columnNumber: 41
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3685,7 +3776,7 @@ const Mailsettings = ()=>{
                                                         children: "Custom Labels :"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                        lineNumber: 670,
+                                                        lineNumber: 691,
                                                         columnNumber: 41
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3705,12 +3796,12 @@ const Mailsettings = ()=>{
                                                                                     children: "Mail"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 676,
+                                                                                    lineNumber: 697,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 675,
+                                                                                lineNumber: 696,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3727,7 +3818,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 680,
+                                                                                            lineNumber: 701,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3736,7 +3827,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Enable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 681,
+                                                                                            lineNumber: 702,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3746,7 +3837,7 @@ const Mailsettings = ()=>{
                                                                                             id: "custom-mail-disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 682,
+                                                                                            lineNumber: 703,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3755,34 +3846,34 @@ const Mailsettings = ()=>{
                                                                                             children: "Disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 683,
+                                                                                            lineNumber: 704,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 679,
+                                                                                    lineNumber: 700,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 678,
+                                                                                lineNumber: 699,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 674,
+                                                                        lineNumber: 695,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 673,
+                                                                    lineNumber: 694,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 672,
+                                                                lineNumber: 693,
                                                                 columnNumber: 45
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3799,12 +3890,12 @@ const Mailsettings = ()=>{
                                                                                     children: "Home"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 693,
+                                                                                    lineNumber: 714,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 692,
+                                                                                lineNumber: 713,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3821,7 +3912,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 697,
+                                                                                            lineNumber: 718,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3830,7 +3921,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Enable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 698,
+                                                                                            lineNumber: 719,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3840,7 +3931,7 @@ const Mailsettings = ()=>{
                                                                                             id: "home-disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 699,
+                                                                                            lineNumber: 720,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3849,34 +3940,34 @@ const Mailsettings = ()=>{
                                                                                             children: "Disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 700,
+                                                                                            lineNumber: 721,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 696,
+                                                                                    lineNumber: 717,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 695,
+                                                                                lineNumber: 716,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 691,
+                                                                        lineNumber: 712,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 690,
+                                                                    lineNumber: 711,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 689,
+                                                                lineNumber: 710,
                                                                 columnNumber: 45
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3893,12 +3984,12 @@ const Mailsettings = ()=>{
                                                                                     children: "Work"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 710,
+                                                                                    lineNumber: 731,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 709,
+                                                                                lineNumber: 730,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3915,7 +4006,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 714,
+                                                                                            lineNumber: 735,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3924,7 +4015,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Enable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 715,
+                                                                                            lineNumber: 736,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3934,7 +4025,7 @@ const Mailsettings = ()=>{
                                                                                             id: "work-disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 716,
+                                                                                            lineNumber: 737,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -3943,34 +4034,34 @@ const Mailsettings = ()=>{
                                                                                             children: "Disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 717,
+                                                                                            lineNumber: 738,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 713,
+                                                                                    lineNumber: 734,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 712,
+                                                                                lineNumber: 733,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 708,
+                                                                        lineNumber: 729,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 707,
+                                                                    lineNumber: 728,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 706,
+                                                                lineNumber: 727,
                                                                 columnNumber: 45
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3987,12 +4078,12 @@ const Mailsettings = ()=>{
                                                                                     children: "Friends"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 727,
+                                                                                    lineNumber: 748,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 726,
+                                                                                lineNumber: 747,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4009,7 +4100,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 731,
+                                                                                            lineNumber: 752,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -4018,7 +4109,7 @@ const Mailsettings = ()=>{
                                                                                             children: "Enable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 732,
+                                                                                            lineNumber: 753,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -4028,7 +4119,7 @@ const Mailsettings = ()=>{
                                                                                             id: "friends-disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 733,
+                                                                                            lineNumber: 754,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -4037,46 +4128,46 @@ const Mailsettings = ()=>{
                                                                                             children: "Disable"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 734,
+                                                                                            lineNumber: 755,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 730,
+                                                                                    lineNumber: 751,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 729,
+                                                                                lineNumber: 750,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 725,
+                                                                        lineNumber: 746,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                    lineNumber: 724,
+                                                                    lineNumber: 745,
                                                                     columnNumber: 49
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 723,
+                                                                lineNumber: 744,
                                                                 columnNumber: 45
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                        lineNumber: 671,
+                                                        lineNumber: 692,
                                                         columnNumber: 41
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                lineNumber: 493,
+                                                lineNumber: 514,
                                                 columnNumber: 37
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4100,7 +4191,7 @@ const Mailsettings = ()=>{
                                                                                 children: "Email Notifications"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 747,
+                                                                                lineNumber: 768,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4108,13 +4199,13 @@ const Mailsettings = ()=>{
                                                                                 children: "Email notifications are the notifications you will receeive when you are offline, you can customize them by enabling or disabling them."
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 748,
+                                                                                lineNumber: 769,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 746,
+                                                                        lineNumber: 767,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4131,7 +4222,7 @@ const Mailsettings = ()=>{
                                                                                                 children: "Updates & Features"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 753,
+                                                                                                lineNumber: 774,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4139,13 +4230,13 @@ const Mailsettings = ()=>{
                                                                                                 children: "Notifications about new updates and their features."
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 754,
+                                                                                                lineNumber: 775,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 752,
+                                                                                        lineNumber: 773,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4159,7 +4250,7 @@ const Mailsettings = ()=>{
                                                                                                     defaultChecked: true
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 758,
+                                                                                                    lineNumber: 779,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -4167,24 +4258,24 @@ const Mailsettings = ()=>{
                                                                                                     className: "label-success mb-1"
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 759,
+                                                                                                    lineNumber: 780,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                                             ]
                                                                                         }, void 0, true, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 757,
+                                                                                            lineNumber: 778,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 756,
+                                                                                        lineNumber: 777,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 751,
+                                                                                lineNumber: 772,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4198,7 +4289,7 @@ const Mailsettings = ()=>{
                                                                                                 children: "Early Access"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 765,
+                                                                                                lineNumber: 786,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4206,13 +4297,13 @@ const Mailsettings = ()=>{
                                                                                                 children: "Users are selected for beta testing of new update,notifications relating or participate in any of paid product promotion."
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 766,
+                                                                                                lineNumber: 787,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 764,
+                                                                                        lineNumber: 785,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4225,7 +4316,7 @@ const Mailsettings = ()=>{
                                                                                                     type: "checkbox"
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 770,
+                                                                                                    lineNumber: 791,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -4233,24 +4324,24 @@ const Mailsettings = ()=>{
                                                                                                     className: "label-success mb-1"
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 771,
+                                                                                                    lineNumber: 792,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                                             ]
                                                                                         }, void 0, true, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 769,
+                                                                                            lineNumber: 790,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 768,
+                                                                                        lineNumber: 789,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 763,
+                                                                                lineNumber: 784,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4264,7 +4355,7 @@ const Mailsettings = ()=>{
                                                                                                 children: "Email Shortcuts"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 777,
+                                                                                                lineNumber: 798,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4272,13 +4363,13 @@ const Mailsettings = ()=>{
                                                                                                 children: "Shortcut notifications for email."
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 778,
+                                                                                                lineNumber: 799,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 776,
+                                                                                        lineNumber: 797,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4292,7 +4383,7 @@ const Mailsettings = ()=>{
                                                                                                     defaultChecked: true
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 782,
+                                                                                                    lineNumber: 803,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -4300,24 +4391,24 @@ const Mailsettings = ()=>{
                                                                                                     className: "label-success mb-1"
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 783,
+                                                                                                    lineNumber: 804,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                                             ]
                                                                                         }, void 0, true, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 781,
+                                                                                            lineNumber: 802,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 780,
+                                                                                        lineNumber: 801,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 775,
+                                                                                lineNumber: 796,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4331,7 +4422,7 @@ const Mailsettings = ()=>{
                                                                                                 children: "New Mails"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 789,
+                                                                                                lineNumber: 810,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4339,13 +4430,13 @@ const Mailsettings = ()=>{
                                                                                                 children: "Notifications related to new mails received."
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 790,
+                                                                                                lineNumber: 811,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 788,
+                                                                                        lineNumber: 809,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4359,7 +4450,7 @@ const Mailsettings = ()=>{
                                                                                                     defaultChecked: true
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 794,
+                                                                                                    lineNumber: 815,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -4367,24 +4458,24 @@ const Mailsettings = ()=>{
                                                                                                     className: "label-success mb-1"
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 795,
+                                                                                                    lineNumber: 816,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                                             ]
                                                                                         }, void 0, true, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 793,
+                                                                                            lineNumber: 814,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 792,
+                                                                                        lineNumber: 813,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 787,
+                                                                                lineNumber: 808,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4398,7 +4489,7 @@ const Mailsettings = ()=>{
                                                                                                 children: "Mail Chat Messages"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 801,
+                                                                                                lineNumber: 822,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4406,13 +4497,13 @@ const Mailsettings = ()=>{
                                                                                                 children: "Any of new messages are received will be updated through notifications."
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 802,
+                                                                                                lineNumber: 823,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 800,
+                                                                                        lineNumber: 821,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4426,7 +4517,7 @@ const Mailsettings = ()=>{
                                                                                                     defaultChecked: true
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 806,
+                                                                                                    lineNumber: 827,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -4434,41 +4525,41 @@ const Mailsettings = ()=>{
                                                                                                     className: "label-success mb-1"
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 807,
+                                                                                                    lineNumber: 828,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                                             ]
                                                                                         }, void 0, true, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 805,
+                                                                                            lineNumber: 826,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 804,
+                                                                                        lineNumber: 825,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 799,
+                                                                                lineNumber: 820,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 750,
+                                                                        lineNumber: 771,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 745,
+                                                                lineNumber: 766,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 744,
+                                                            lineNumber: 765,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -4484,7 +4575,7 @@ const Mailsettings = ()=>{
                                                                                 children: "Push Notifications"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 817,
+                                                                                lineNumber: 838,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4492,13 +4583,13 @@ const Mailsettings = ()=>{
                                                                                 children: "Push notifications are recieved when you are online, you can customize them by enabling or disabling them."
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 818,
+                                                                                lineNumber: 839,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 816,
+                                                                        lineNumber: 837,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4515,7 +4606,7 @@ const Mailsettings = ()=>{
                                                                                                 children: "New Mails"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 823,
+                                                                                                lineNumber: 844,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4523,13 +4614,13 @@ const Mailsettings = ()=>{
                                                                                                 children: "Notifications related to new mails received."
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 824,
+                                                                                                lineNumber: 845,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 822,
+                                                                                        lineNumber: 843,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4543,7 +4634,7 @@ const Mailsettings = ()=>{
                                                                                                     defaultChecked: true
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 828,
+                                                                                                    lineNumber: 849,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -4551,24 +4642,24 @@ const Mailsettings = ()=>{
                                                                                                     className: "label-success mb-1"
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 829,
+                                                                                                    lineNumber: 850,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                                             ]
                                                                                         }, void 0, true, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 827,
+                                                                                            lineNumber: 848,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 826,
+                                                                                        lineNumber: 847,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 821,
+                                                                                lineNumber: 842,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4582,7 +4673,7 @@ const Mailsettings = ()=>{
                                                                                                 children: "Mail Chat Messages"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 835,
+                                                                                                lineNumber: 856,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4590,13 +4681,13 @@ const Mailsettings = ()=>{
                                                                                                 children: "Any of new messages are received will be updated through notifications."
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 836,
+                                                                                                lineNumber: 857,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 834,
+                                                                                        lineNumber: 855,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4610,7 +4701,7 @@ const Mailsettings = ()=>{
                                                                                                     defaultChecked: true
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 840,
+                                                                                                    lineNumber: 861,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -4618,24 +4709,24 @@ const Mailsettings = ()=>{
                                                                                                     className: "label-success mb-1"
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 841,
+                                                                                                    lineNumber: 862,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                                             ]
                                                                                         }, void 0, true, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 839,
+                                                                                            lineNumber: 860,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 838,
+                                                                                        lineNumber: 859,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 833,
+                                                                                lineNumber: 854,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4649,7 +4740,7 @@ const Mailsettings = ()=>{
                                                                                                 children: "Mail Extensions"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 847,
+                                                                                                lineNumber: 868,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4657,13 +4748,13 @@ const Mailsettings = ()=>{
                                                                                                 children: "Notifications related to the extensions received by new emails and thier propertied also been displayed."
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 848,
+                                                                                                lineNumber: 869,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 846,
+                                                                                        lineNumber: 867,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4676,7 +4767,7 @@ const Mailsettings = ()=>{
                                                                                                     type: "checkbox"
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 852,
+                                                                                                    lineNumber: 873,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -4684,52 +4775,52 @@ const Mailsettings = ()=>{
                                                                                                     className: "label-success mb-1"
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 853,
+                                                                                                    lineNumber: 874,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                                             ]
                                                                                         }, void 0, true, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 851,
+                                                                                            lineNumber: 872,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 850,
+                                                                                        lineNumber: 871,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 845,
+                                                                                lineNumber: 866,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 820,
+                                                                        lineNumber: 841,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 815,
+                                                                lineNumber: 836,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 814,
+                                                            lineNumber: 835,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                    lineNumber: 743,
+                                                    lineNumber: 764,
                                                     columnNumber: 41
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                lineNumber: 742,
+                                                lineNumber: 763,
                                                 columnNumber: 37
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4753,7 +4844,7 @@ const Mailsettings = ()=>{
                                                                                 children: "Logging In"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 867,
+                                                                                lineNumber: 888,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4761,13 +4852,13 @@ const Mailsettings = ()=>{
                                                                                 children: "Security settings related to logging into our email account and taking down account if any mischevious action happended."
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 868,
+                                                                                lineNumber: 889,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 866,
+                                                                        lineNumber: 887,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4784,7 +4875,7 @@ const Mailsettings = ()=>{
                                                                                                 children: "Max Limit for login attempts"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 873,
+                                                                                                lineNumber: 894,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4792,13 +4883,13 @@ const Mailsettings = ()=>{
                                                                                                 children: "Account will freeze for 24hrs while attempt to login with wrong credentials for selected number of times"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 874,
+                                                                                                lineNumber: 895,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 872,
+                                                                                        lineNumber: 893,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4813,18 +4904,18 @@ const Mailsettings = ()=>{
                                                                                             ]
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 877,
+                                                                                            lineNumber: 898,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 876,
+                                                                                        lineNumber: 897,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 871,
+                                                                                lineNumber: 892,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4838,7 +4929,7 @@ const Mailsettings = ()=>{
                                                                                                 children: "Account Freeze time management"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 884,
+                                                                                                lineNumber: 905,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4846,13 +4937,13 @@ const Mailsettings = ()=>{
                                                                                                 children: "You can change the time for the account freeze when attempts for "
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 885,
+                                                                                                lineNumber: 906,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 883,
+                                                                                        lineNumber: 904,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4867,35 +4958,35 @@ const Mailsettings = ()=>{
                                                                                             ]
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 888,
+                                                                                            lineNumber: 909,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 887,
+                                                                                        lineNumber: 908,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 882,
+                                                                                lineNumber: 903,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 870,
+                                                                        lineNumber: 891,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 865,
+                                                                lineNumber: 886,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 864,
+                                                            lineNumber: 885,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -4911,7 +5002,7 @@ const Mailsettings = ()=>{
                                                                                 children: "Password Requirements"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 899,
+                                                                                lineNumber: 920,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4919,13 +5010,13 @@ const Mailsettings = ()=>{
                                                                                 children: "Security settings related to password strength."
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 900,
+                                                                                lineNumber: 921,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 898,
+                                                                        lineNumber: 919,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4942,125 +5033,12 @@ const Mailsettings = ()=>{
                                                                                                 children: "Minimun number of characters in the password"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 905,
-                                                                                                columnNumber: 65
-                                                                                            }, ("TURBOPACK compile-time value", void 0)),
-                                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                                className: "text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50",
-                                                                                                children: "There should be a minimum number of characters for a password to be validated that shouls be set here."
-                                                                                            }, void 0, false, {
-                                                                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 906,
-                                                                                                columnNumber: 65
-                                                                                            }, ("TURBOPACK compile-time value", void 0))
-                                                                                        ]
-                                                                                    }, void 0, true, {
-                                                                                        fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 904,
-                                                                                        columnNumber: 61
-                                                                                    }, ("TURBOPACK compile-time value", void 0)),
-                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                                                                                            type: "text",
-                                                                                            className: "form-control !rounded-md",
-                                                                                            defaultValue: "8"
-                                                                                        }, void 0, false, {
-                                                                                            fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 909,
-                                                                                            columnNumber: 65
-                                                                                        }, ("TURBOPACK compile-time value", void 0))
-                                                                                    }, void 0, false, {
-                                                                                        fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 908,
-                                                                                        columnNumber: 61
-                                                                                    }, ("TURBOPACK compile-time value", void 0))
-                                                                                ]
-                                                                            }, void 0, true, {
-                                                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 903,
-                                                                                columnNumber: 57
-                                                                            }, ("TURBOPACK compile-time value", void 0)),
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                className: "sm:flex block items-center justify-between mt-4",
-                                                                                children: [
-                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                        children: [
-                                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                                className: "text-[0.875rem] mb-1 font-semibold",
-                                                                                                children: "Contain A Number"
-                                                                                            }, void 0, false, {
-                                                                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 914,
-                                                                                                columnNumber: 65
-                                                                                            }, ("TURBOPACK compile-time value", void 0)),
-                                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                                className: "text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50",
-                                                                                                children: "Password should contain a number."
-                                                                                            }, void 0, false, {
-                                                                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 915,
-                                                                                                columnNumber: 65
-                                                                                            }, ("TURBOPACK compile-time value", void 0))
-                                                                                        ]
-                                                                                    }, void 0, true, {
-                                                                                        fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 913,
-                                                                                        columnNumber: 61
-                                                                                    }, ("TURBOPACK compile-time value", void 0)),
-                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                            className: "custom-toggle-switch ltr:sm:float-right rtl:sm:float-left",
-                                                                                            children: [
-                                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                                                                                                    id: "password-number",
-                                                                                                    name: "toggleswitchsize19",
-                                                                                                    type: "checkbox"
-                                                                                                }, void 0, false, {
-                                                                                                    fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 919,
-                                                                                                    columnNumber: 69
-                                                                                                }, ("TURBOPACK compile-time value", void 0)),
-                                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
-                                                                                                    htmlFor: "password-number",
-                                                                                                    className: "label-success mb-1"
-                                                                                                }, void 0, false, {
-                                                                                                    fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 920,
-                                                                                                    columnNumber: 69
-                                                                                                }, ("TURBOPACK compile-time value", void 0))
-                                                                                            ]
-                                                                                        }, void 0, true, {
-                                                                                            fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 918,
-                                                                                            columnNumber: 65
-                                                                                        }, ("TURBOPACK compile-time value", void 0))
-                                                                                    }, void 0, false, {
-                                                                                        fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 917,
-                                                                                        columnNumber: 61
-                                                                                    }, ("TURBOPACK compile-time value", void 0))
-                                                                                ]
-                                                                            }, void 0, true, {
-                                                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 912,
-                                                                                columnNumber: 57
-                                                                            }, ("TURBOPACK compile-time value", void 0)),
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                className: "sm:flex block items-center justify-between mt-4",
-                                                                                children: [
-                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                        children: [
-                                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                                className: "text-[0.875rem] mb-1 font-semibold",
-                                                                                                children: "Contain A Special Character"
-                                                                                            }, void 0, false, {
-                                                                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
                                                                                                 lineNumber: 926,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                                                 className: "text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50",
-                                                                                                children: "Password should contain a special Character."
+                                                                                                children: "There should be a minimum number of characters for a password to be validated that shouls be set here."
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
                                                                                                 lineNumber: 927,
@@ -5073,29 +5051,11 @@ const Mailsettings = ()=>{
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                            className: "custom-toggle-switch ltr:sm:float-right rtl:sm:float-left",
-                                                                                            children: [
-                                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                                                                                                    id: "password-special-character",
-                                                                                                    name: "toggleswitchsize20",
-                                                                                                    type: "checkbox",
-                                                                                                    defaultChecked: true
-                                                                                                }, void 0, false, {
-                                                                                                    fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 931,
-                                                                                                    columnNumber: 69
-                                                                                                }, ("TURBOPACK compile-time value", void 0)),
-                                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
-                                                                                                    htmlFor: "password-special-character",
-                                                                                                    className: "label-success mb-1"
-                                                                                                }, void 0, false, {
-                                                                                                    fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 932,
-                                                                                                    columnNumber: 69
-                                                                                                }, ("TURBOPACK compile-time value", void 0))
-                                                                                            ]
-                                                                                        }, void 0, true, {
+                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                                                                                            type: "text",
+                                                                                            className: "form-control !rounded-md",
+                                                                                            defaultValue: "8"
+                                                                                        }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
                                                                                             lineNumber: 930,
                                                                                             columnNumber: 65
@@ -5118,10 +5078,141 @@ const Mailsettings = ()=>{
                                                                                         children: [
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                                                 className: "text-[0.875rem] mb-1 font-semibold",
+                                                                                                children: "Contain A Number"
+                                                                                            }, void 0, false, {
+                                                                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                                lineNumber: 935,
+                                                                                                columnNumber: 65
+                                                                                            }, ("TURBOPACK compile-time value", void 0)),
+                                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                                                className: "text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50",
+                                                                                                children: "Password should contain a number."
+                                                                                            }, void 0, false, {
+                                                                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                                lineNumber: 936,
+                                                                                                columnNumber: 65
+                                                                                            }, ("TURBOPACK compile-time value", void 0))
+                                                                                        ]
+                                                                                    }, void 0, true, {
+                                                                                        fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                        lineNumber: 934,
+                                                                                        columnNumber: 61
+                                                                                    }, ("TURBOPACK compile-time value", void 0)),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                            className: "custom-toggle-switch ltr:sm:float-right rtl:sm:float-left",
+                                                                                            children: [
+                                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                                                                                                    id: "password-number",
+                                                                                                    name: "toggleswitchsize19",
+                                                                                                    type: "checkbox"
+                                                                                                }, void 0, false, {
+                                                                                                    fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                                    lineNumber: 940,
+                                                                                                    columnNumber: 69
+                                                                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
+                                                                                                    htmlFor: "password-number",
+                                                                                                    className: "label-success mb-1"
+                                                                                                }, void 0, false, {
+                                                                                                    fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                                    lineNumber: 941,
+                                                                                                    columnNumber: 69
+                                                                                                }, ("TURBOPACK compile-time value", void 0))
+                                                                                            ]
+                                                                                        }, void 0, true, {
+                                                                                            fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                            lineNumber: 939,
+                                                                                            columnNumber: 65
+                                                                                        }, ("TURBOPACK compile-time value", void 0))
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                        lineNumber: 938,
+                                                                                        columnNumber: 61
+                                                                                    }, ("TURBOPACK compile-time value", void 0))
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                lineNumber: 933,
+                                                                                columnNumber: 57
+                                                                            }, ("TURBOPACK compile-time value", void 0)),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "sm:flex block items-center justify-between mt-4",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                        children: [
+                                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                                                className: "text-[0.875rem] mb-1 font-semibold",
+                                                                                                children: "Contain A Special Character"
+                                                                                            }, void 0, false, {
+                                                                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                                lineNumber: 947,
+                                                                                                columnNumber: 65
+                                                                                            }, ("TURBOPACK compile-time value", void 0)),
+                                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                                                className: "text-[0.75rem] mb-0 text-[#8c9097] dark:text-white/50",
+                                                                                                children: "Password should contain a special Character."
+                                                                                            }, void 0, false, {
+                                                                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                                lineNumber: 948,
+                                                                                                columnNumber: 65
+                                                                                            }, ("TURBOPACK compile-time value", void 0))
+                                                                                        ]
+                                                                                    }, void 0, true, {
+                                                                                        fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                        lineNumber: 946,
+                                                                                        columnNumber: 61
+                                                                                    }, ("TURBOPACK compile-time value", void 0)),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                            className: "custom-toggle-switch ltr:sm:float-right rtl:sm:float-left",
+                                                                                            children: [
+                                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                                                                                                    id: "password-special-character",
+                                                                                                    name: "toggleswitchsize20",
+                                                                                                    type: "checkbox",
+                                                                                                    defaultChecked: true
+                                                                                                }, void 0, false, {
+                                                                                                    fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                                    lineNumber: 952,
+                                                                                                    columnNumber: 69
+                                                                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
+                                                                                                    htmlFor: "password-special-character",
+                                                                                                    className: "label-success mb-1"
+                                                                                                }, void 0, false, {
+                                                                                                    fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                                    lineNumber: 953,
+                                                                                                    columnNumber: 69
+                                                                                                }, ("TURBOPACK compile-time value", void 0))
+                                                                                            ]
+                                                                                        }, void 0, true, {
+                                                                                            fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                            lineNumber: 951,
+                                                                                            columnNumber: 65
+                                                                                        }, ("TURBOPACK compile-time value", void 0))
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                        lineNumber: 950,
+                                                                                        columnNumber: 61
+                                                                                    }, ("TURBOPACK compile-time value", void 0))
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
+                                                                                lineNumber: 945,
+                                                                                columnNumber: 57
+                                                                            }, ("TURBOPACK compile-time value", void 0)),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "sm:flex block items-center justify-between mt-4",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                        children: [
+                                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                                                className: "text-[0.875rem] mb-1 font-semibold",
                                                                                                 children: "Atleast One Capital Letter"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 938,
+                                                                                                lineNumber: 959,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -5129,13 +5220,13 @@ const Mailsettings = ()=>{
                                                                                                 children: "Password should contain atleast one capital letter."
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 939,
+                                                                                                lineNumber: 960,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 937,
+                                                                                        lineNumber: 958,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5149,7 +5240,7 @@ const Mailsettings = ()=>{
                                                                                                     defaultChecked: true
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 943,
+                                                                                                    lineNumber: 964,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -5157,24 +5248,24 @@ const Mailsettings = ()=>{
                                                                                                     className: "label-success mb-1"
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                    lineNumber: 944,
+                                                                                                    lineNumber: 965,
                                                                                                     columnNumber: 69
                                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                                             ]
                                                                                         }, void 0, true, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 942,
+                                                                                            lineNumber: 963,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 941,
+                                                                                        lineNumber: 962,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 936,
+                                                                                lineNumber: 957,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5187,7 +5278,7 @@ const Mailsettings = ()=>{
                                                                                                 children: "Maximun Password Length"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 950,
+                                                                                                lineNumber: 971,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -5195,13 +5286,13 @@ const Mailsettings = ()=>{
                                                                                                 children: "Maximum password lenth should be selected here."
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                                lineNumber: 951,
+                                                                                                lineNumber: 972,
                                                                                                 columnNumber: 65
                                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 949,
+                                                                                        lineNumber: 970,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5211,35 +5302,35 @@ const Mailsettings = ()=>{
                                                                                             defaultValue: "16"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 954,
+                                                                                            lineNumber: 975,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                        lineNumber: 953,
+                                                                                        lineNumber: 974,
                                                                                         columnNumber: 61
                                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 948,
+                                                                                lineNumber: 969,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 902,
+                                                                        lineNumber: 923,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 897,
+                                                                lineNumber: 918,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 896,
+                                                            lineNumber: 917,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -5255,7 +5346,7 @@ const Mailsettings = ()=>{
                                                                                 children: "Unknown Chats"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 963,
+                                                                                lineNumber: 984,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -5263,13 +5354,13 @@ const Mailsettings = ()=>{
                                                                                 children: "Security settings related to unknown chats."
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                lineNumber: 964,
+                                                                                lineNumber: 985,
                                                                                 columnNumber: 57
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 962,
+                                                                        lineNumber: 983,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5286,7 +5377,7 @@ const Mailsettings = ()=>{
                                                                                             id: "unknown-messages-show1"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 969,
+                                                                                            lineNumber: 990,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -5295,13 +5386,13 @@ const Mailsettings = ()=>{
                                                                                             children: "Show"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 970,
+                                                                                            lineNumber: 991,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 968,
+                                                                                    lineNumber: 989,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5315,7 +5406,7 @@ const Mailsettings = ()=>{
                                                                                             defaultChecked: true
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 975,
+                                                                                            lineNumber: 996,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -5324,57 +5415,57 @@ const Mailsettings = ()=>{
                                                                                             children: "Hide"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                            lineNumber: 976,
+                                                                                            lineNumber: 997,
                                                                                             columnNumber: 65
                                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                                    lineNumber: 974,
+                                                                                    lineNumber: 995,
                                                                                     columnNumber: 61
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                            lineNumber: 967,
+                                                                            lineNumber: 988,
                                                                             columnNumber: 57
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                        lineNumber: 966,
+                                                                        lineNumber: 987,
                                                                         columnNumber: 53
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                                lineNumber: 961,
+                                                                lineNumber: 982,
                                                                 columnNumber: 49
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                            lineNumber: 960,
+                                                            lineNumber: 981,
                                                             columnNumber: 45
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                    lineNumber: 863,
+                                                    lineNumber: 884,
                                                     columnNumber: 41
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                lineNumber: 862,
+                                                lineNumber: 883,
                                                 columnNumber: 37
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                        lineNumber: 68,
+                                        lineNumber: 75,
                                         columnNumber: 33
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                    lineNumber: 67,
+                                    lineNumber: 74,
                                     columnNumber: 29
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5388,7 +5479,7 @@ const Mailsettings = ()=>{
                                                 children: "Restore Defaults"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                lineNumber: 990,
+                                                lineNumber: 1011,
                                                 columnNumber: 37
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -5397,45 +5488,45 @@ const Mailsettings = ()=>{
                                                 children: "Save Changes"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                                lineNumber: 993,
+                                                lineNumber: 1014,
                                                 columnNumber: 37
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                        lineNumber: 989,
+                                        lineNumber: 1010,
                                         columnNumber: 33
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                                    lineNumber: 988,
+                                    lineNumber: 1009,
                                     columnNumber: 29
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                            lineNumber: 44,
+                            lineNumber: 45,
                             columnNumber: 25
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                        lineNumber: 43,
+                        lineNumber: 44,
                         columnNumber: 21
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                    lineNumber: 42,
+                    lineNumber: 43,
                     columnNumber: 17
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-                lineNumber: 41,
+                lineNumber: 42,
                 columnNumber: 13
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page.tsx",
-        lineNumber: 38,
+        lineNumber: 39,
         columnNumber: 9
     }, ("TURBOPACK compile-time value", void 0));
 };

@@ -7,8 +7,10 @@ const nextConfig = {
     output: "export",
     reactStrictMode: true,
     trailingSlash: true,
-    basePath: ("TURBOPACK compile-time falsy", 0) ? "TURBOPACK unreachable" : undefined,
-    assetPrefix: ("TURBOPACK compile-time falsy", 0) ? "TURBOPACK unreachable" : undefined,
+    // basePath: isProd ? "/tailwind/app/dharwin-business-solutions/preview" : undefined,
+    // assetPrefix : isProd ? "/tailwind/app/dharwin-business-solutions/preview" : undefined,
+    basePath: "",
+    assetPrefix: "",
     images: {
         loader: "imgix",
         path: "/"
@@ -80,9 +82,15 @@ var _s = __turbopack_context__.k.signature();
 ;
 function Home() {
     _s();
+    const router = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRouter"])();
     (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
-        "Home.useEffect": ()=>{}
-    }["Home.useEffect"], []);
+        "Home.useEffect": ()=>{
+            // Redirect to dashboard by default
+            router.push('/dashboards/projects');
+        }
+    }["Home.useEffect"], [
+        router
+    ]);
     const [passwordshow1, setpasswordshow1] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
     const [err, setError] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])("");
     const [data, setData] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])({
@@ -117,7 +125,6 @@ function Home() {
             });
         }
     };
-    const router = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRouter"])();
     const RouteChange = ()=>{
         let path = "/dashboards/projects";
         router.push(path);
@@ -136,7 +143,7 @@ function Home() {
                                     className: "xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-3 sm:col-span-2"
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                    lineNumber: 56,
+                                    lineNumber: 58,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -153,7 +160,7 @@ function Home() {
                                                         className: "desktop-logo"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                        lineNumber: 60,
+                                                        lineNumber: 62,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
@@ -162,18 +169,18 @@ function Home() {
                                                         className: "desktop-dark"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                        lineNumber: 61,
+                                                        lineNumber: 63,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                lineNumber: 59,
+                                                lineNumber: 61,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                            lineNumber: 58,
+                                            lineNumber: 60,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -198,12 +205,12 @@ function Home() {
                                                                     className: "avatar avatar-sm w-6 h-6 rounded-full ring-0"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                    lineNumber: 70,
+                                                                    lineNumber: 72,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                lineNumber: 69,
+                                                                lineNumber: 71,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -218,23 +225,23 @@ function Home() {
                                                                     className: "avatar avatar-sm w-6 h-6 rounded-full ring-0"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                    lineNumber: 73,
+                                                                    lineNumber: 75,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                lineNumber: 72,
+                                                                lineNumber: 74,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                        lineNumber: 67,
+                                                        lineNumber: 69,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                    lineNumber: 66,
+                                                    lineNumber: 68,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -248,7 +255,7 @@ function Home() {
                                                             children: "Sign In"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                            lineNumber: 80,
+                                                            lineNumber: 82,
                                                             columnNumber: 19
                                                         }, this),
                                                         err && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -257,7 +264,7 @@ function Home() {
                                                             children: err
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                            lineNumber: 81,
+                                                            lineNumber: 83,
                                                             columnNumber: 27
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -265,7 +272,7 @@ function Home() {
                                                             children: "Welcome back Jhon !"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                            lineNumber: 85,
+                                                            lineNumber: 87,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -280,7 +287,7 @@ function Home() {
                                                                             children: "Email"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                            lineNumber: 88,
+                                                                            lineNumber: 90,
                                                                             columnNumber: 23
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -292,13 +299,13 @@ function Home() {
                                                                             value: email
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                            lineNumber: 89,
+                                                                            lineNumber: 91,
                                                                             columnNumber: 23
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                    lineNumber: 87,
+                                                                    lineNumber: 89,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -315,13 +322,13 @@ function Home() {
                                                                                     children: "Forget password ?"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                                    lineNumber: 92,
+                                                                                    lineNumber: 94,
                                                                                     columnNumber: 106
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                            lineNumber: 92,
+                                                                            lineNumber: 94,
                                                                             columnNumber: 23
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -337,7 +344,7 @@ function Home() {
                                                                                     placeholder: "password"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                                    lineNumber: 94,
+                                                                                    lineNumber: 96,
                                                                                     columnNumber: 25
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -350,18 +357,18 @@ function Home() {
                                                                                         className: `${passwordshow1 ? 'ri-eye-line' : 'ri-eye-off-line'} align-middle`
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                                        lineNumber: 95,
+                                                                                        lineNumber: 97,
                                                                                         columnNumber: 189
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                                    lineNumber: 95,
+                                                                                    lineNumber: 97,
                                                                                     columnNumber: 25
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                            lineNumber: 93,
+                                                                            lineNumber: 95,
                                                                             columnNumber: 23
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -376,7 +383,7 @@ function Home() {
                                                                                         id: "defaultCheck1"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                                        lineNumber: 99,
+                                                                                        lineNumber: 101,
                                                                                         columnNumber: 27
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -385,24 +392,24 @@ function Home() {
                                                                                         children: "Remember password ?"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                                        lineNumber: 100,
+                                                                                        lineNumber: 102,
                                                                                         columnNumber: 27
                                                                                     }, this)
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                                lineNumber: 98,
+                                                                                lineNumber: 100,
                                                                                 columnNumber: 25
                                                                             }, this)
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                            lineNumber: 97,
+                                                                            lineNumber: 99,
                                                                             columnNumber: 23
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                    lineNumber: 91,
+                                                                    lineNumber: 93,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -413,18 +420,18 @@ function Home() {
                                                                         children: "Sign In"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                        lineNumber: 107,
+                                                                        lineNumber: 109,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                    lineNumber: 106,
+                                                                    lineNumber: 108,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                            lineNumber: 86,
+                                                            lineNumber: 88,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -439,18 +446,18 @@ function Home() {
                                                                         children: "Sign Up"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                        lineNumber: 111,
+                                                                        lineNumber: 113,
                                                                         columnNumber: 112
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                lineNumber: 111,
+                                                                lineNumber: 113,
                                                                 columnNumber: 21
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                            lineNumber: 110,
+                                                            lineNumber: 112,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -459,12 +466,12 @@ function Home() {
                                                                 children: "OR"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                lineNumber: 114,
+                                                                lineNumber: 116,
                                                                 columnNumber: 21
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                            lineNumber: 113,
+                                                            lineNumber: 115,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -478,12 +485,12 @@ function Home() {
                                                                         className: "ri-facebook-line font-bold text-dark opacity-[0.7]"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                        lineNumber: 118,
+                                                                        lineNumber: 120,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                    lineNumber: 117,
+                                                                    lineNumber: 119,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -494,12 +501,12 @@ function Home() {
                                                                         className: "ri-google-line font-bold text-dark opacity-[0.7]"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                        lineNumber: 121,
+                                                                        lineNumber: 123,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                    lineNumber: 120,
+                                                                    lineNumber: 122,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -510,24 +517,24 @@ function Home() {
                                                                         className: "ri-twitter-x-line font-bold text-dark opacity-[0.7]"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                        lineNumber: 124,
+                                                                        lineNumber: 126,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                    lineNumber: 123,
+                                                                    lineNumber: 125,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                            lineNumber: 116,
+                                                            lineNumber: 118,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                    lineNumber: 78,
+                                                    lineNumber: 80,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -541,7 +548,7 @@ function Home() {
                                                             children: "Sign In"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                            lineNumber: 129,
+                                                            lineNumber: 131,
                                                             columnNumber: 19
                                                         }, this),
                                                         err && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -550,7 +557,7 @@ function Home() {
                                                             children: err
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                            lineNumber: 130,
+                                                            lineNumber: 132,
                                                             columnNumber: 27
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -558,7 +565,7 @@ function Home() {
                                                             children: "Welcome back Jhon !"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                            lineNumber: 133,
+                                                            lineNumber: 135,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -573,7 +580,7 @@ function Home() {
                                                                             children: "Email"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                            lineNumber: 136,
+                                                                            lineNumber: 138,
                                                                             columnNumber: 23
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -586,13 +593,13 @@ function Home() {
                                                                             placeholder: "Email"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                            lineNumber: 137,
+                                                                            lineNumber: 139,
                                                                             columnNumber: 23
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                    lineNumber: 135,
+                                                                    lineNumber: 137,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -609,13 +616,13 @@ function Home() {
                                                                                     children: "Forget password ?"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                                    lineNumber: 140,
+                                                                                    lineNumber: 142,
                                                                                     columnNumber: 106
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                            lineNumber: 140,
+                                                                            lineNumber: 142,
                                                                             columnNumber: 23
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -631,7 +638,7 @@ function Home() {
                                                                                     placeholder: "password"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                                    lineNumber: 142,
+                                                                                    lineNumber: 144,
                                                                                     columnNumber: 25
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -644,18 +651,18 @@ function Home() {
                                                                                         className: `${passwordshow1 ? 'ri-eye-line' : 'ri-eye-off-line'} align-middle`
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                                        lineNumber: 143,
+                                                                                        lineNumber: 145,
                                                                                         columnNumber: 189
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                                    lineNumber: 143,
+                                                                                    lineNumber: 145,
                                                                                     columnNumber: 25
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                            lineNumber: 141,
+                                                                            lineNumber: 143,
                                                                             columnNumber: 23
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -670,7 +677,7 @@ function Home() {
                                                                                         id: "defaultCheck1"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                                        lineNumber: 147,
+                                                                                        lineNumber: 149,
                                                                                         columnNumber: 27
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -679,24 +686,24 @@ function Home() {
                                                                                         children: "Remember password ?"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                                        lineNumber: 148,
+                                                                                        lineNumber: 150,
                                                                                         columnNumber: 27
                                                                                     }, this)
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                                lineNumber: 146,
+                                                                                lineNumber: 148,
                                                                                 columnNumber: 25
                                                                             }, this)
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                            lineNumber: 145,
+                                                                            lineNumber: 147,
                                                                             columnNumber: 23
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                    lineNumber: 139,
+                                                                    lineNumber: 141,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -707,18 +714,18 @@ function Home() {
                                                                         children: "Sign In"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                        lineNumber: 155,
+                                                                        lineNumber: 157,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                    lineNumber: 154,
+                                                                    lineNumber: 156,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                            lineNumber: 134,
+                                                            lineNumber: 136,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -733,18 +740,18 @@ function Home() {
                                                                         children: "Sign Up"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                        lineNumber: 159,
+                                                                        lineNumber: 161,
                                                                         columnNumber: 112
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                lineNumber: 159,
+                                                                lineNumber: 161,
                                                                 columnNumber: 21
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                            lineNumber: 158,
+                                                            lineNumber: 160,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -753,12 +760,12 @@ function Home() {
                                                                 children: "OR"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                lineNumber: 162,
+                                                                lineNumber: 164,
                                                                 columnNumber: 21
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                            lineNumber: 161,
+                                                            lineNumber: 163,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -772,12 +779,12 @@ function Home() {
                                                                         className: "ri-facebook-line font-bold text-dark opacity-[0.7]"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                        lineNumber: 166,
+                                                                        lineNumber: 168,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                    lineNumber: 165,
+                                                                    lineNumber: 167,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -788,12 +795,12 @@ function Home() {
                                                                         className: "ri-google-line font-bold text-dark opacity-[0.7]"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                        lineNumber: 169,
+                                                                        lineNumber: 171,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                    lineNumber: 168,
+                                                                    lineNumber: 170,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -804,74 +811,74 @@ function Home() {
                                                                         className: "ri-twitter-x-line font-bold text-dark opacity-[0.7]"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                        lineNumber: 172,
+                                                                        lineNumber: 174,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                                    lineNumber: 171,
+                                                                    lineNumber: 173,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                            lineNumber: 164,
+                                                            lineNumber: 166,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                                    lineNumber: 128,
+                                                    lineNumber: 130,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                            lineNumber: 65,
+                                            lineNumber: 67,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                    lineNumber: 57,
+                                    lineNumber: 59,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "xxl:col-span-4 xl:col-span-4 lg:col-span-4 md:col-span-3 sm:col-span-2"
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                                    lineNumber: 178,
+                                    lineNumber: 180,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                            lineNumber: 55,
+                            lineNumber: 57,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                        lineNumber: 54,
+                        lineNumber: 56,
                         columnNumber: 9
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                    lineNumber: 53,
+                    lineNumber: 55,
                     columnNumber: 7
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-                lineNumber: 52,
+                lineNumber: 54,
                 columnNumber: 7
             }, this)
         }, void 0, false, {
             fileName: "[project]/Desktop/dharwin_boilerplate/app/page.tsx",
-            lineNumber: 51,
+            lineNumber: 53,
             columnNumber: 5
         }, this)
     }, void 0, false);
 }
-_s(Home, "uCaq+gMG+0cgZNF+Tt20OVwslug=", false, function() {
+_s(Home, "VVPH3Qi5L4BQXEyL4P9ydA3OSGA=", false, function() {
     return [
         __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRouter"]
     ];

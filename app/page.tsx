@@ -6,9 +6,12 @@ import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 
 export default function Home() {
-  useEffect(() => {
+  const router = useRouter();
 
-  }, []);
+  useEffect(() => {
+    // Redirect to dashboard by default
+    router.push('/dashboards/projects');
+  }, [router]);
 
   const [passwordshow1, setpasswordshow1] = useState(false);
 
@@ -41,7 +44,6 @@ export default function Home() {
     }
   };
 
-  const router = useRouter();
   const RouteChange = () => {
     let path = "/dashboards/projects";
     router.push(path);

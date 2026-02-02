@@ -1120,10 +1120,8 @@ const Jobs = () => {
                   </ul>
                 </div>
                 <Link
-                  href="#!"
-                  scroll={false}
-                  className="hs-dropdown-toggle ti-btn ti-btn-primary-full !py-1 !px-2 !text-[0.75rem] me-2"
-                  data-hs-overlay="#create-job-modal"
+                  href="/ats/jobs/create"
+                  className="ti-btn ti-btn-primary-full !py-1 !px-2 !text-[0.75rem] me-2"
                 >
                   <i className="ri-add-line font-semibold align-middle"></i>Create Job
                 </Link>

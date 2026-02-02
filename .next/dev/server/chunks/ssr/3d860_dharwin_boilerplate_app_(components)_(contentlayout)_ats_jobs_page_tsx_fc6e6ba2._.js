@@ -1620,16 +1620,14 @@ const Jobs = ()=>{
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                href: "#!",
-                                                scroll: false,
-                                                className: "hs-dropdown-toggle ti-btn ti-btn-primary-full !py-1 !px-2 !text-[0.75rem] me-2",
-                                                "data-hs-overlay": "#create-job-modal",
+                                                href: "/ats/jobs/create",
+                                                className: "ti-btn ti-btn-primary-full !py-1 !px-2 !text-[0.75rem] me-2",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                         className: "ri-add-line font-semibold align-middle"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1128,
+                                                        lineNumber: 1126,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     "Create Job"
@@ -1652,7 +1650,7 @@ const Jobs = ()=>{
                                                                 className: "ri-file-excel-2-line font-semibold align-middle me-1"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 1137,
+                                                                lineNumber: 1135,
                                                                 columnNumber: 21
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             "Excel",
@@ -1660,13 +1658,13 @@ const Jobs = ()=>{
                                                                 className: "ri-arrow-down-s-line align-middle ms-1 inline-block"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 1138,
+                                                                lineNumber: 1136,
                                                                 columnNumber: 21
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1131,
+                                                        lineNumber: 1129,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -1682,19 +1680,19 @@ const Jobs = ()=>{
                                                                             className: "ri-upload-2-line me-2 align-middle inline-block"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 1146,
+                                                                            lineNumber: 1144,
                                                                             columnNumber: 25
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         "Import"
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 1142,
+                                                                    lineNumber: 1140,
                                                                     columnNumber: 23
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 1141,
+                                                                lineNumber: 1139,
                                                                 columnNumber: 21
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1706,19 +1704,19 @@ const Jobs = ()=>{
                                                                             className: "ri-file-excel-2-line me-2 align-middle inline-block"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 1154,
+                                                                            lineNumber: 1152,
                                                                             columnNumber: 25
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         "Export"
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 1150,
+                                                                    lineNumber: 1148,
                                                                     columnNumber: 23
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 1149,
+                                                                lineNumber: 1147,
                                                                 columnNumber: 21
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1730,31 +1728,31 @@ const Jobs = ()=>{
                                                                             className: "ri-download-line me-2 align-middle inline-block"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 1162,
+                                                                            lineNumber: 1160,
                                                                             columnNumber: 25
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         "Template"
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 1158,
+                                                                    lineNumber: 1156,
                                                                     columnNumber: 23
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 1157,
+                                                                lineNumber: 1155,
                                                                 columnNumber: 21
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1140,
+                                                        lineNumber: 1138,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 1130,
+                                                lineNumber: 1128,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1766,7 +1764,7 @@ const Jobs = ()=>{
                                                         className: "ri-search-line font-semibold align-middle me-1"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1172,
+                                                        lineNumber: 1170,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     "Search",
@@ -1775,13 +1773,13 @@ const Jobs = ()=>{
                                                         children: activeFilterCount
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1174,
+                                                        lineNumber: 1172,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 1167,
+                                                lineNumber: 1165,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1792,14 +1790,14 @@ const Jobs = ()=>{
                                                         className: "ri-delete-bin-line font-semibold align-middle me-1"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1184,
+                                                        lineNumber: 1182,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     "Delete"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 1180,
+                                                lineNumber: 1178,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
@@ -1832,7 +1830,7 @@ const Jobs = ()=>{
                                                         key: Math.random(),
                                                         __source: {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1193,
+                                                            lineNumber: 1191,
                                                             columnNumber: 23
                                                         },
                                                         __self: ("TURBOPACK compile-time value", void 0)
@@ -1848,7 +1846,7 @@ const Jobs = ()=>{
                                                             },
                                                             __source: {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 1195,
+                                                                lineNumber: 1193,
                                                                 columnNumber: 27
                                                             },
                                                             __self: ("TURBOPACK compile-time value", void 0)
@@ -1863,7 +1861,7 @@ const Jobs = ()=>{
                                                             "aria-label": "Select all"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1207,
+                                                            lineNumber: 1205,
                                                             columnNumber: 31
                                                         }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "flex items-center gap-2",
@@ -1873,7 +1871,7 @@ const Jobs = ()=>{
                                                                     children: column.render('Header')
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 1219,
+                                                                    lineNumber: 1217,
                                                                     columnNumber: 33
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1881,29 +1879,29 @@ const Jobs = ()=>{
                                                                         className: "ri-arrow-down-s-line text-[0.875rem]"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                        lineNumber: 1223,
+                                                                        lineNumber: 1221,
                                                                         columnNumber: 37
                                                                     }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                         className: "ri-arrow-up-s-line text-[0.875rem]"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                        lineNumber: 1225,
+                                                                        lineNumber: 1223,
                                                                         columnNumber: 37
                                                                     }, ("TURBOPACK compile-time value", void 0)) : ''
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 1220,
+                                                                    lineNumber: 1218,
                                                                     columnNumber: 31
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1218,
+                                                            lineNumber: 1216,
                                                             columnNumber: 31
                                                         }, ("TURBOPACK compile-time value", void 0))))))
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 1191,
+                                                lineNumber: 1189,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("tbody", {
@@ -1916,7 +1914,7 @@ const Jobs = ()=>{
                                                         key: Math.random(),
                                                         __source: {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1242,
+                                                            lineNumber: 1240,
                                                             columnNumber: 25
                                                         },
                                                         __self: ("TURBOPACK compile-time value", void 0)
@@ -1926,7 +1924,7 @@ const Jobs = ()=>{
                                                             key: Math.random(),
                                                             __source: {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 1245,
+                                                                lineNumber: 1243,
                                                                 columnNumber: 31
                                                             },
                                                             __self: ("TURBOPACK compile-time value", void 0)
@@ -1935,23 +1933,23 @@ const Jobs = ()=>{
                                                 })
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 1238,
+                                                lineNumber: 1236,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 1190,
+                                        lineNumber: 1188,
                                         columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 1189,
+                                    lineNumber: 1187,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                lineNumber: 1188,
+                                lineNumber: 1186,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1973,13 +1971,13 @@ const Jobs = ()=>{
                                                     className: "bi bi-arrow-right ms-2 font-semibold"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1261,
+                                                    lineNumber: 1259,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1259,
+                                            lineNumber: 1257,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1999,12 +1997,12 @@ const Jobs = ()=>{
                                                                 children: "Prev"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 1267,
+                                                                lineNumber: 1265,
                                                                 columnNumber: 25
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1266,
+                                                            lineNumber: 1264,
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         pageOptions.length <= 7 ? // Show all pages if 7 or fewer
@@ -2016,12 +2014,12 @@ const Jobs = ()=>{
                                                                     children: page + 1
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 1282,
+                                                                    lineNumber: 1280,
                                                                     columnNumber: 29
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, page, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 1278,
+                                                                lineNumber: 1276,
                                                                 columnNumber: 27
                                                             }, ("TURBOPACK compile-time value", void 0))) : // Show smart pagination for more pages
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -2036,12 +2034,12 @@ const Jobs = ()=>{
                                                                                 children: "1"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                lineNumber: 1296,
+                                                                                lineNumber: 1294,
                                                                                 columnNumber: 33
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 1295,
+                                                                            lineNumber: 1293,
                                                                             columnNumber: 31
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         pageIndex > 3 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -2051,12 +2049,12 @@ const Jobs = ()=>{
                                                                                 children: "..."
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                lineNumber: 1305,
+                                                                                lineNumber: 1303,
                                                                                 columnNumber: 35
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 1304,
+                                                                            lineNumber: 1302,
                                                                             columnNumber: 33
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
@@ -2080,12 +2078,12 @@ const Jobs = ()=>{
                                                                             children: pageNum + 1
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 1324,
+                                                                            lineNumber: 1322,
                                                                             columnNumber: 33
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, pageNum, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                        lineNumber: 1320,
+                                                                        lineNumber: 1318,
                                                                         columnNumber: 31
                                                                     }, ("TURBOPACK compile-time value", void 0));
                                                                 }),
@@ -2098,12 +2096,12 @@ const Jobs = ()=>{
                                                                                 children: "..."
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                lineNumber: 1337,
+                                                                                lineNumber: 1335,
                                                                                 columnNumber: 35
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 1336,
+                                                                            lineNumber: 1334,
                                                                             columnNumber: 33
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -2114,12 +2112,12 @@ const Jobs = ()=>{
                                                                                 children: pageCount
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                lineNumber: 1341,
+                                                                                lineNumber: 1339,
                                                                                 columnNumber: 33
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 1340,
+                                                                            lineNumber: 1338,
                                                                             columnNumber: 31
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
@@ -2135,39 +2133,39 @@ const Jobs = ()=>{
                                                                 children: "Next"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 1353,
+                                                                lineNumber: 1351,
                                                                 columnNumber: 25
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1352,
+                                                            lineNumber: 1350,
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1265,
+                                                    lineNumber: 1263,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 1264,
+                                                lineNumber: 1262,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1263,
+                                            lineNumber: 1261,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 1258,
+                                    lineNumber: 1256,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                lineNumber: 1257,
+                                lineNumber: 1255,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
@@ -2201,14 +2199,14 @@ const Jobs = ()=>{
                                         className: "ri-search-line text-primary text-base"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 1374,
+                                        lineNumber: 1372,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     "Search Jobs"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                lineNumber: 1373,
+                                lineNumber: 1371,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -2220,20 +2218,20 @@ const Jobs = ()=>{
                                         className: "ri-refresh-line me-1.5"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 1383,
+                                        lineNumber: 1381,
                                         columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     "Reset"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                lineNumber: 1377,
+                                lineNumber: 1375,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                        lineNumber: 1372,
+                        lineNumber: 1370,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2251,7 +2249,7 @@ const Jobs = ()=>{
                                                     className: "ri-briefcase-line text-primary text-base"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1392,
+                                                    lineNumber: 1390,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "Job Title",
@@ -2264,13 +2262,13 @@ const Jobs = ()=>{
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1394,
+                                                    lineNumber: 1392,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1391,
+                                            lineNumber: 1389,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2284,7 +2282,7 @@ const Jobs = ()=>{
                                                     onChange: (e)=>setSearchJobTitle(e.target.value)
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1397,
+                                                    lineNumber: 1395,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2301,7 +2299,7 @@ const Jobs = ()=>{
                                                                         onChange: ()=>handleMultiSelectChange('jobTitle', title)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                        lineNumber: 1412,
+                                                                        lineNumber: 1410,
                                                                         columnNumber: 27
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2309,30 +2307,30 @@ const Jobs = ()=>{
                                                                         children: title
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                        lineNumber: 1418,
+                                                                        lineNumber: 1416,
                                                                         columnNumber: 27
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, title, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 1408,
+                                                                lineNumber: 1406,
                                                                 columnNumber: 25
                                                             }, ("TURBOPACK compile-time value", void 0))) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "text-xs text-gray-500 dark:text-gray-400 text-center py-3",
                                                             children: "No job titles found"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1422,
+                                                            lineNumber: 1420,
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1405,
+                                                        lineNumber: 1403,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1404,
+                                                    lineNumber: 1402,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 filters.jobTitle.length > 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2349,35 +2347,35 @@ const Jobs = ()=>{
                                                                         className: "ri-close-line text-xs"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                        lineNumber: 1441,
+                                                                        lineNumber: 1439,
                                                                         columnNumber: 27
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 1436,
+                                                                    lineNumber: 1434,
                                                                     columnNumber: 25
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             ]
                                                         }, title, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1431,
+                                                            lineNumber: 1429,
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0)))
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1429,
+                                                    lineNumber: 1427,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1396,
+                                            lineNumber: 1394,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 1390,
+                                    lineNumber: 1388,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2390,7 +2388,7 @@ const Jobs = ()=>{
                                                     className: "ri-building-line text-success text-base"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1453,
+                                                    lineNumber: 1451,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "Company",
@@ -2403,13 +2401,13 @@ const Jobs = ()=>{
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1455,
+                                                    lineNumber: 1453,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1452,
+                                            lineNumber: 1450,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2423,7 +2421,7 @@ const Jobs = ()=>{
                                                     onChange: (e)=>setSearchCompany(e.target.value)
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1458,
+                                                    lineNumber: 1456,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2440,7 +2438,7 @@ const Jobs = ()=>{
                                                                         onChange: ()=>handleMultiSelectChange('company', company)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                        lineNumber: 1473,
+                                                                        lineNumber: 1471,
                                                                         columnNumber: 27
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2448,30 +2446,30 @@ const Jobs = ()=>{
                                                                         children: company
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                        lineNumber: 1479,
+                                                                        lineNumber: 1477,
                                                                         columnNumber: 27
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, company, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 1469,
+                                                                lineNumber: 1467,
                                                                 columnNumber: 25
                                                             }, ("TURBOPACK compile-time value", void 0))) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "text-xs text-gray-500 dark:text-gray-400 text-center py-3",
                                                             children: "No companies found"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1483,
+                                                            lineNumber: 1481,
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1466,
+                                                        lineNumber: 1464,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1465,
+                                                    lineNumber: 1463,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 filters.company.length > 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2488,35 +2486,35 @@ const Jobs = ()=>{
                                                                         className: "ri-close-line text-xs"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                        lineNumber: 1502,
+                                                                        lineNumber: 1500,
                                                                         columnNumber: 27
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 1497,
+                                                                    lineNumber: 1495,
                                                                     columnNumber: 25
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             ]
                                                         }, company, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1492,
+                                                            lineNumber: 1490,
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0)))
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1490,
+                                                    lineNumber: 1488,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1457,
+                                            lineNumber: 1455,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 1451,
+                                    lineNumber: 1449,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2532,14 +2530,14 @@ const Jobs = ()=>{
                                                             className: "ri-time-line text-info text-base"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1515,
+                                                            lineNumber: 1513,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         "Experience (Years)"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1514,
+                                                    lineNumber: 1512,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2552,13 +2550,13 @@ const Jobs = ()=>{
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1518,
+                                                    lineNumber: 1516,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1513,
+                                            lineNumber: 1511,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2599,12 +2597,12 @@ const Jobs = ()=>{
                                                             children: children
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1540,
+                                                            lineNumber: 1538,
                                                             columnNumber: 23
                                                         }, void 0)
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1530,
+                                                        lineNumber: 1528,
                                                         columnNumber: 21
                                                     }, void 0),
                                                 renderThumb: ({ index, props, isDragged })=>{
@@ -2642,29 +2640,29 @@ const Jobs = ()=>{
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1578,
+                                                            lineNumber: 1576,
                                                             columnNumber: 23
                                                         }, void 0)
                                                     }, key, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1562,
+                                                        lineNumber: 1560,
                                                         columnNumber: 21
                                                     }, void 0);
                                                 }
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 1523,
+                                                lineNumber: 1521,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1522,
+                                            lineNumber: 1520,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 1512,
+                                    lineNumber: 1510,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2677,7 +2675,7 @@ const Jobs = ()=>{
                                                     className: "ri-map-pin-line text-warning text-base"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1603,
+                                                    lineNumber: 1601,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "Location",
@@ -2690,13 +2688,13 @@ const Jobs = ()=>{
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1605,
+                                                    lineNumber: 1603,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1602,
+                                            lineNumber: 1600,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2710,7 +2708,7 @@ const Jobs = ()=>{
                                                     onChange: (e)=>setSearchLocation(e.target.value)
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1608,
+                                                    lineNumber: 1606,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2727,7 +2725,7 @@ const Jobs = ()=>{
                                                                         onChange: ()=>handleMultiSelectChange('location', location)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                        lineNumber: 1623,
+                                                                        lineNumber: 1621,
                                                                         columnNumber: 27
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2735,30 +2733,30 @@ const Jobs = ()=>{
                                                                         children: location
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                        lineNumber: 1629,
+                                                                        lineNumber: 1627,
                                                                         columnNumber: 27
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, location, true, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 1619,
+                                                                lineNumber: 1617,
                                                                 columnNumber: 25
                                                             }, ("TURBOPACK compile-time value", void 0))) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "text-xs text-gray-500 dark:text-gray-400 text-center py-3",
                                                             children: "No locations found"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1633,
+                                                            lineNumber: 1631,
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1616,
+                                                        lineNumber: 1614,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1615,
+                                                    lineNumber: 1613,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 filters.location.length > 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2775,35 +2773,35 @@ const Jobs = ()=>{
                                                                         className: "ri-close-line text-xs"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                        lineNumber: 1652,
+                                                                        lineNumber: 1650,
                                                                         columnNumber: 27
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 1647,
+                                                                    lineNumber: 1645,
                                                                     columnNumber: 25
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             ]
                                                         }, location, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1642,
+                                                            lineNumber: 1640,
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0)))
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1640,
+                                                    lineNumber: 1638,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1607,
+                                            lineNumber: 1605,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 1601,
+                                    lineNumber: 1599,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2819,14 +2817,14 @@ const Jobs = ()=>{
                                                             className: "ri-money-dollar-circle-line text-danger text-base"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1665,
+                                                            lineNumber: 1663,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         "Salary Range"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1664,
+                                                    lineNumber: 1662,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2839,13 +2837,13 @@ const Jobs = ()=>{
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1668,
+                                                    lineNumber: 1666,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1663,
+                                            lineNumber: 1661,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2886,12 +2884,12 @@ const Jobs = ()=>{
                                                             children: children
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1690,
+                                                            lineNumber: 1688,
                                                             columnNumber: 23
                                                         }, void 0)
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1680,
+                                                        lineNumber: 1678,
                                                         columnNumber: 21
                                                     }, void 0),
                                                 renderThumb: ({ index, props, isDragged })=>{
@@ -2931,29 +2929,29 @@ const Jobs = ()=>{
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1729,
+                                                            lineNumber: 1727,
                                                             columnNumber: 23
                                                         }, void 0)
                                                     }, key, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1712,
+                                                        lineNumber: 1710,
                                                         columnNumber: 21
                                                     }, void 0);
                                                 }
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 1673,
+                                                lineNumber: 1671,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1672,
+                                            lineNumber: 1670,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 1662,
+                                    lineNumber: 1660,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2966,14 +2964,14 @@ const Jobs = ()=>{
                                                     className: "ri-toggle-line text-secondary text-base"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1756,
+                                                    lineNumber: 1754,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "Status"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1755,
+                                            lineNumber: 1753,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -2989,7 +2987,7 @@ const Jobs = ()=>{
                                                     children: "All Status"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1764,
+                                                    lineNumber: 1762,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -2997,7 +2995,7 @@ const Jobs = ()=>{
                                                     children: "Active"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1765,
+                                                    lineNumber: 1763,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -3005,19 +3003,19 @@ const Jobs = ()=>{
                                                     children: "Inactive"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1766,
+                                                    lineNumber: 1764,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1759,
+                                            lineNumber: 1757,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 1754,
+                                    lineNumber: 1752,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3030,14 +3028,14 @@ const Jobs = ()=>{
                                                     className: "ri-calendar-line text-info text-base"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1773,
+                                                    lineNumber: 1771,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "Posting Date"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1772,
+                                            lineNumber: 1770,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3050,13 +3048,13 @@ const Jobs = ()=>{
                                                     }))
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1776,
+                                            lineNumber: 1774,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 1771,
+                                    lineNumber: 1769,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3071,14 +3069,14 @@ const Jobs = ()=>{
                                                     className: "ri-refresh-line me-1.5"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1791,
+                                                    lineNumber: 1789,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "Reset"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1786,
+                                            lineNumber: 1784,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -3090,37 +3088,37 @@ const Jobs = ()=>{
                                                     className: "ri-close-line me-1.5"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1798,
+                                                    lineNumber: 1796,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "Close"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1793,
+                                            lineNumber: 1791,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 1785,
+                                    lineNumber: 1783,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                            lineNumber: 1388,
+                            lineNumber: 1386,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                        lineNumber: 1387,
+                        lineNumber: 1385,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                lineNumber: 1371,
+                lineNumber: 1369,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -3132,7 +3130,7 @@ const Jobs = ()=>{
                 "data-hs-overlay": "#company-info-panel"
             }, void 0, false, {
                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                lineNumber: 1806,
+                lineNumber: 1804,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3150,14 +3148,14 @@ const Jobs = ()=>{
                                         className: "ri-building-line text-primary text-base"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 1821,
+                                        lineNumber: 1819,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     companyModal?.company || 'Company Information'
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                lineNumber: 1820,
+                                lineNumber: 1818,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -3171,7 +3169,7 @@ const Jobs = ()=>{
                                         children: "Close"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 1830,
+                                        lineNumber: 1828,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
@@ -3186,24 +3184,24 @@ const Jobs = ()=>{
                                             fill: "currentColor"
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1832,
+                                            lineNumber: 1830,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 1831,
+                                        lineNumber: 1829,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                lineNumber: 1824,
+                                lineNumber: 1822,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                        lineNumber: 1819,
+                        lineNumber: 1817,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3221,14 +3219,14 @@ const Jobs = ()=>{
                                                     className: "ri-building-line text-primary text-2xl"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1842,
+                                                    lineNumber: 1840,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 companyModal.company
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1841,
+                                            lineNumber: 1839,
                                             columnNumber: 21
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3241,7 +3239,7 @@ const Jobs = ()=>{
                                                             children: "Industry"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1847,
+                                                            lineNumber: 1845,
                                                             columnNumber: 25
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3249,13 +3247,13 @@ const Jobs = ()=>{
                                                             children: companyModal.companyInfo.industry
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1848,
+                                                            lineNumber: 1846,
                                                             columnNumber: 25
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1846,
+                                                    lineNumber: 1844,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3265,7 +3263,7 @@ const Jobs = ()=>{
                                                             children: "Company Size"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1851,
+                                                            lineNumber: 1849,
                                                             columnNumber: 25
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3276,13 +3274,13 @@ const Jobs = ()=>{
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1852,
+                                                            lineNumber: 1850,
                                                             columnNumber: 25
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1850,
+                                                    lineNumber: 1848,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3292,7 +3290,7 @@ const Jobs = ()=>{
                                                             children: "Founded"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1855,
+                                                            lineNumber: 1853,
                                                             columnNumber: 25
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3300,13 +3298,13 @@ const Jobs = ()=>{
                                                             children: companyModal.companyInfo.founded
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1856,
+                                                            lineNumber: 1854,
                                                             columnNumber: 25
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1854,
+                                                    lineNumber: 1852,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3316,7 +3314,7 @@ const Jobs = ()=>{
                                                             children: "Website"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1859,
+                                                            lineNumber: 1857,
                                                             columnNumber: 25
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -3330,31 +3328,31 @@ const Jobs = ()=>{
                                                                     className: "ri-external-link-line text-sm"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 1862,
+                                                                    lineNumber: 1860,
                                                                     columnNumber: 27
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1860,
+                                                            lineNumber: 1858,
                                                             columnNumber: 25
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1858,
+                                                    lineNumber: 1856,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1845,
+                                            lineNumber: 1843,
                                             columnNumber: 21
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 1840,
+                                    lineNumber: 1838,
                                     columnNumber: 19
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 companyModal.companyInfo.description && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3367,14 +3365,14 @@ const Jobs = ()=>{
                                                     className: "ri-file-text-line text-primary"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 1872,
+                                                    lineNumber: 1870,
                                                     columnNumber: 25
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "About Company"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1871,
+                                            lineNumber: 1869,
                                             columnNumber: 23
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3382,13 +3380,13 @@ const Jobs = ()=>{
                                             children: companyModal.companyInfo.description
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 1875,
+                                            lineNumber: 1873,
                                             columnNumber: 23
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 1870,
+                                    lineNumber: 1868,
                                     columnNumber: 21
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 (()=>{
@@ -3403,7 +3401,7 @@ const Jobs = ()=>{
                                                         className: "ri-briefcase-line text-primary"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1887,
+                                                        lineNumber: 1885,
                                                         columnNumber: 27
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     "Active Job Postings (",
@@ -3412,7 +3410,7 @@ const Jobs = ()=>{
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 1886,
+                                                lineNumber: 1884,
                                                 columnNumber: 25
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3452,7 +3450,7 @@ const Jobs = ()=>{
                                                                                     children: job.jobTitle
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                    lineNumber: 1918,
+                                                                                    lineNumber: 1916,
                                                                                     columnNumber: 39
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3460,13 +3458,13 @@ const Jobs = ()=>{
                                                                                     children: urgencyBadge.label
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                    lineNumber: 1921,
+                                                                                    lineNumber: 1919,
                                                                                     columnNumber: 39
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 1917,
+                                                                            lineNumber: 1915,
                                                                             columnNumber: 37
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3479,14 +3477,14 @@ const Jobs = ()=>{
                                                                                             className: "ri-map-pin-line"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                            lineNumber: 1927,
+                                                                                            lineNumber: 1925,
                                                                                             columnNumber: 41
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         job.location
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                    lineNumber: 1926,
+                                                                                    lineNumber: 1924,
                                                                                     columnNumber: 39
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3496,14 +3494,14 @@ const Jobs = ()=>{
                                                                                             className: "ri-money-dollar-circle-line"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                            lineNumber: 1931,
+                                                                                            lineNumber: 1929,
                                                                                             columnNumber: 41
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         job.salary
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                    lineNumber: 1930,
+                                                                                    lineNumber: 1928,
                                                                                     columnNumber: 39
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3513,26 +3511,26 @@ const Jobs = ()=>{
                                                                                             className: "ri-time-line"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                            lineNumber: 1935,
+                                                                                            lineNumber: 1933,
                                                                                             columnNumber: 41
                                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                                         job.experience
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                    lineNumber: 1934,
+                                                                                    lineNumber: 1932,
                                                                                     columnNumber: 39
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 1925,
+                                                                            lineNumber: 1923,
                                                                             columnNumber: 37
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 1916,
+                                                                    lineNumber: 1914,
                                                                     columnNumber: 35
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -3559,30 +3557,30 @@ const Jobs = ()=>{
                                                                     children: "View Details"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 1940,
+                                                                    lineNumber: 1938,
                                                                     columnNumber: 35
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 1915,
+                                                            lineNumber: 1913,
                                                             columnNumber: 33
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     }, job.id, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 1894,
+                                                        lineNumber: 1892,
                                                         columnNumber: 31
                                                     }, ("TURBOPACK compile-time value", void 0));
                                                 })
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 1890,
+                                                lineNumber: 1888,
                                                 columnNumber: 25
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 1885,
+                                        lineNumber: 1883,
                                         columnNumber: 23
                                     }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "p-4 border border-gray-200 dark:border-defaultborder/10 rounded-lg text-center",
@@ -3591,7 +3589,7 @@ const Jobs = ()=>{
                                                 className: "ri-briefcase-line text-3xl text-gray-400 dark:text-gray-500 mb-2"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 1972,
+                                                lineNumber: 1970,
                                                 columnNumber: 25
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3599,38 +3597,38 @@ const Jobs = ()=>{
                                                 children: "No active job postings at the moment"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 1973,
+                                                lineNumber: 1971,
                                                 columnNumber: 25
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 1971,
+                                        lineNumber: 1969,
                                         columnNumber: 23
                                     }, ("TURBOPACK compile-time value", void 0));
                                 })()
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                            lineNumber: 1838,
+                            lineNumber: 1836,
                             columnNumber: 17
                         }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "text-center py-8 text-gray-500",
                             children: "No company information available"
                         }, void 0, false, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                            lineNumber: 1979,
+                            lineNumber: 1977,
                             columnNumber: 17
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                        lineNumber: 1836,
+                        lineNumber: 1834,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                lineNumber: 1814,
+                lineNumber: 1812,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -3642,7 +3640,7 @@ const Jobs = ()=>{
                 "data-hs-overlay": "#job-preview-panel"
             }, void 0, false, {
                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                lineNumber: 1985,
+                lineNumber: 1983,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3660,14 +3658,14 @@ const Jobs = ()=>{
                                         className: "ri-briefcase-line text-primary text-base"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 2000,
+                                        lineNumber: 1998,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     previewJob?.jobTitle || 'Job Preview'
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                lineNumber: 1999,
+                                lineNumber: 1997,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -3681,7 +3679,7 @@ const Jobs = ()=>{
                                         children: "Close"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 2009,
+                                        lineNumber: 2007,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
@@ -3696,24 +3694,24 @@ const Jobs = ()=>{
                                             fill: "currentColor"
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2011,
+                                            lineNumber: 2009,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 2010,
+                                        lineNumber: 2008,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                lineNumber: 2003,
+                                lineNumber: 2001,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                        lineNumber: 1998,
+                        lineNumber: 1996,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3729,7 +3727,7 @@ const Jobs = ()=>{
                                             children: getUrgencyBadge(previewJob.urgency || 'medium').label
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2020,
+                                            lineNumber: 2018,
                                             columnNumber: 21
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         (()=>{
@@ -3741,14 +3739,14 @@ const Jobs = ()=>{
                                                         className: `${jobTypeInfo.icon} me-1`
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 2027,
+                                                        lineNumber: 2025,
                                                         columnNumber: 27
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     jobTypeInfo.label
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 2026,
+                                                lineNumber: 2024,
                                                 columnNumber: 25
                                             }, ("TURBOPACK compile-time value", void 0));
                                         })(),
@@ -3759,14 +3757,14 @@ const Jobs = ()=>{
                                                     className: "ri-home-line me-1"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2034,
+                                                    lineNumber: 2032,
                                                     columnNumber: 25
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "Remote"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2033,
+                                            lineNumber: 2031,
                                             columnNumber: 23
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3774,7 +3772,7 @@ const Jobs = ()=>{
                                             children: getSalaryTierBadge(previewJob.salaryTier || 'medium').label
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2037,
+                                            lineNumber: 2035,
                                             columnNumber: 21
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -3786,20 +3784,20 @@ const Jobs = ()=>{
                                                     className: bookmarkedJobs.has(previewJob.id) ? 'ri-bookmark-fill me-1' : 'ri-bookmark-line me-1'
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2045,
+                                                    lineNumber: 2043,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 bookmarkedJobs.has(previewJob.id) ? 'View Notes' : 'Bookmark'
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2040,
+                                            lineNumber: 2038,
                                             columnNumber: 21
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 2019,
+                                    lineNumber: 2017,
                                     columnNumber: 19
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3812,7 +3810,7 @@ const Jobs = ()=>{
                                                     children: "Company"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2053,
+                                                    lineNumber: 2051,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3837,13 +3835,13 @@ const Jobs = ()=>{
                                                     children: previewJob.company
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2054,
+                                                    lineNumber: 2052,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2052,
+                                            lineNumber: 2050,
                                             columnNumber: 21
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3853,7 +3851,7 @@ const Jobs = ()=>{
                                                     children: "Location"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2078,
+                                                    lineNumber: 2076,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3861,13 +3859,13 @@ const Jobs = ()=>{
                                                     children: previewJob.location
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2079,
+                                                    lineNumber: 2077,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2077,
+                                            lineNumber: 2075,
                                             columnNumber: 21
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3877,7 +3875,7 @@ const Jobs = ()=>{
                                                     children: "Experience"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2082,
+                                                    lineNumber: 2080,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3885,13 +3883,13 @@ const Jobs = ()=>{
                                                     children: previewJob.experience
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2083,
+                                                    lineNumber: 2081,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2081,
+                                            lineNumber: 2079,
                                             columnNumber: 21
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3901,7 +3899,7 @@ const Jobs = ()=>{
                                                     children: "Salary"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2086,
+                                                    lineNumber: 2084,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3909,19 +3907,19 @@ const Jobs = ()=>{
                                                     children: previewJob.salary
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2087,
+                                                    lineNumber: 2085,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2085,
+                                            lineNumber: 2083,
                                             columnNumber: 21
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 2051,
+                                    lineNumber: 2049,
                                     columnNumber: 19
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 previewJob.companyInfo && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3934,14 +3932,14 @@ const Jobs = ()=>{
                                                     className: "ri-building-line text-primary"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2095,
+                                                    lineNumber: 2093,
                                                     columnNumber: 25
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "Company Information"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2094,
+                                            lineNumber: 2092,
                                             columnNumber: 23
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3954,7 +3952,7 @@ const Jobs = ()=>{
                                                             children: "Industry"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2100,
+                                                            lineNumber: 2098,
                                                             columnNumber: 27
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3962,13 +3960,13 @@ const Jobs = ()=>{
                                                             children: previewJob.companyInfo.industry
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2101,
+                                                            lineNumber: 2099,
                                                             columnNumber: 27
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2099,
+                                                    lineNumber: 2097,
                                                     columnNumber: 25
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3978,7 +3976,7 @@ const Jobs = ()=>{
                                                             children: "Company Size"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2104,
+                                                            lineNumber: 2102,
                                                             columnNumber: 27
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3989,13 +3987,13 @@ const Jobs = ()=>{
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2105,
+                                                            lineNumber: 2103,
                                                             columnNumber: 27
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2103,
+                                                    lineNumber: 2101,
                                                     columnNumber: 25
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4005,7 +4003,7 @@ const Jobs = ()=>{
                                                             children: "Founded"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2108,
+                                                            lineNumber: 2106,
                                                             columnNumber: 27
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4013,13 +4011,13 @@ const Jobs = ()=>{
                                                             children: previewJob.companyInfo.founded
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2109,
+                                                            lineNumber: 2107,
                                                             columnNumber: 27
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2107,
+                                                    lineNumber: 2105,
                                                     columnNumber: 25
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4029,7 +4027,7 @@ const Jobs = ()=>{
                                                             children: "Website"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2112,
+                                                            lineNumber: 2110,
                                                             columnNumber: 27
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -4040,25 +4038,25 @@ const Jobs = ()=>{
                                                             children: previewJob.companyInfo.website
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2113,
+                                                            lineNumber: 2111,
                                                             columnNumber: 27
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2111,
+                                                    lineNumber: 2109,
                                                     columnNumber: 25
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2098,
+                                            lineNumber: 2096,
                                             columnNumber: 23
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 2093,
+                                    lineNumber: 2091,
                                     columnNumber: 21
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 previewJob.description && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4068,7 +4066,7 @@ const Jobs = ()=>{
                                             children: "Job Description"
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2124,
+                                            lineNumber: 2122,
                                             columnNumber: 23
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4078,13 +4076,13 @@ const Jobs = ()=>{
                                             }
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2125,
+                                            lineNumber: 2123,
                                             columnNumber: 23
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 2123,
+                                    lineNumber: 2121,
                                     columnNumber: 21
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4099,7 +4097,7 @@ const Jobs = ()=>{
                                                         children: "Posted By: "
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 2136,
+                                                        lineNumber: 2134,
                                                         columnNumber: 25
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -4107,13 +4105,13 @@ const Jobs = ()=>{
                                                         children: previewJob.postedBy
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 2137,
+                                                        lineNumber: 2135,
                                                         columnNumber: 25
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 2135,
+                                                lineNumber: 2133,
                                                 columnNumber: 23
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4123,7 +4121,7 @@ const Jobs = ()=>{
                                                         children: "Posted Date: "
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 2140,
+                                                        lineNumber: 2138,
                                                         columnNumber: 25
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -4131,24 +4129,24 @@ const Jobs = ()=>{
                                                         children: previewJob.postingDate
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 2141,
+                                                        lineNumber: 2139,
                                                         columnNumber: 25
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 2139,
+                                                lineNumber: 2137,
                                                 columnNumber: 23
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 2134,
+                                        lineNumber: 2132,
                                         columnNumber: 21
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 2133,
+                                    lineNumber: 2131,
                                     columnNumber: 19
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 previewJob && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4162,7 +4160,7 @@ const Jobs = ()=>{
                                             children: "Close"
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2149,
+                                            lineNumber: 2147,
                                             columnNumber: 23
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4171,37 +4169,37 @@ const Jobs = ()=>{
                                             children: "Apply Now"
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2157,
+                                            lineNumber: 2155,
                                             columnNumber: 23
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 2148,
+                                    lineNumber: 2146,
                                     columnNumber: 21
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                            lineNumber: 2017,
+                            lineNumber: 2015,
                             columnNumber: 17
                         }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "text-center py-8 text-gray-500",
                             children: "No job selected"
                         }, void 0, false, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                            lineNumber: 2164,
+                            lineNumber: 2162,
                             columnNumber: 19
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                        lineNumber: 2015,
+                        lineNumber: 2013,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                lineNumber: 1993,
+                lineNumber: 1991,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4213,7 +4211,7 @@ const Jobs = ()=>{
                 "data-hs-overlay": "#bookmark-notes-panel"
             }, void 0, false, {
                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                lineNumber: 2170,
+                lineNumber: 2168,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4231,14 +4229,14 @@ const Jobs = ()=>{
                                         className: "ri-bookmark-line text-primary text-base"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 2185,
+                                        lineNumber: 2183,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     getBookmarkJobDetails()?.jobTitle || 'Bookmark Notes'
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                lineNumber: 2184,
+                                lineNumber: 2182,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4252,7 +4250,7 @@ const Jobs = ()=>{
                                         children: "Close"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 2194,
+                                        lineNumber: 2192,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
@@ -4267,24 +4265,24 @@ const Jobs = ()=>{
                                             fill: "currentColor"
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2196,
+                                            lineNumber: 2194,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 2195,
+                                        lineNumber: 2193,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                lineNumber: 2188,
+                                lineNumber: 2186,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                        lineNumber: 2183,
+                        lineNumber: 2181,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4302,7 +4300,7 @@ const Jobs = ()=>{
                                                 children: jobDetails.jobTitle
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 2208,
+                                                lineNumber: 2206,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4315,14 +4313,14 @@ const Jobs = ()=>{
                                                                 className: "ri-building-line"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 2211,
+                                                                lineNumber: 2209,
                                                                 columnNumber: 25
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             jobDetails.company
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 2210,
+                                                        lineNumber: 2208,
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -4332,14 +4330,14 @@ const Jobs = ()=>{
                                                                 className: "ri-map-pin-line"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 2215,
+                                                                lineNumber: 2213,
                                                                 columnNumber: 25
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             jobDetails.location
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 2214,
+                                                        lineNumber: 2212,
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -4349,26 +4347,26 @@ const Jobs = ()=>{
                                                                 className: "ri-money-dollar-circle-line"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                lineNumber: 2219,
+                                                                lineNumber: 2217,
                                                                 columnNumber: 25
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             jobDetails.salary
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 2218,
+                                                        lineNumber: 2216,
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 2209,
+                                                lineNumber: 2207,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 2207,
+                                        lineNumber: 2205,
                                         columnNumber: 19
                                     }, ("TURBOPACK compile-time value", void 0)) : null;
                                 })(),
@@ -4382,14 +4380,14 @@ const Jobs = ()=>{
                                                     className: "ri-file-add-line text-primary"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2230,
+                                                    lineNumber: 2228,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "Add Note"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2229,
+                                            lineNumber: 2227,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4406,7 +4404,7 @@ const Jobs = ()=>{
                                                         })
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2234,
+                                                    lineNumber: 2232,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4417,7 +4415,7 @@ const Jobs = ()=>{
                                                             children: "Visibility:"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2242,
+                                                            lineNumber: 2240,
                                                             columnNumber: 21
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4438,7 +4436,7 @@ const Jobs = ()=>{
                                                                                 })
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 2245,
+                                                                            lineNumber: 2243,
                                                                             columnNumber: 25
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -4447,13 +4445,13 @@ const Jobs = ()=>{
                                                                             children: "Public"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 2253,
+                                                                            lineNumber: 2251,
                                                                             columnNumber: 25
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 2244,
+                                                                    lineNumber: 2242,
                                                                     columnNumber: 23
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4471,7 +4469,7 @@ const Jobs = ()=>{
                                                                                 })
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 2258,
+                                                                            lineNumber: 2256,
                                                                             columnNumber: 25
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -4480,25 +4478,25 @@ const Jobs = ()=>{
                                                                             children: "Private"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 2266,
+                                                                            lineNumber: 2264,
                                                                             columnNumber: 25
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 2257,
+                                                                    lineNumber: 2255,
                                                                     columnNumber: 23
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2243,
+                                                            lineNumber: 2241,
                                                             columnNumber: 21
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2241,
+                                                    lineNumber: 2239,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4511,26 +4509,26 @@ const Jobs = ()=>{
                                                             className: "ri-add-line me-1"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2278,
+                                                            lineNumber: 2276,
                                                             columnNumber: 21
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         "Add Note"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2272,
+                                                    lineNumber: 2270,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2233,
+                                            lineNumber: 2231,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 2228,
+                                    lineNumber: 2226,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4542,7 +4540,7 @@ const Jobs = ()=>{
                                                     className: "ri-file-list-line text-primary"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2287,
+                                                    lineNumber: 2285,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "Notes (",
@@ -4551,7 +4549,7 @@ const Jobs = ()=>{
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2286,
+                                            lineNumber: 2284,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4571,19 +4569,19 @@ const Jobs = ()=>{
                                                                                 className: `ri-${note.visibility === 'public' ? 'global' : 'lock'}-line me-1`
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                lineNumber: 2300,
+                                                                                lineNumber: 2298,
                                                                                 columnNumber: 31
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             note.visibility === 'public' ? 'Public' : 'Private'
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                        lineNumber: 2299,
+                                                                        lineNumber: 2297,
                                                                         columnNumber: 29
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 2298,
+                                                                    lineNumber: 2296,
                                                                     columnNumber: 27
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4596,20 +4594,20 @@ const Jobs = ()=>{
                                                                                     children: new Date(note.postedDate).toLocaleDateString()
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                    lineNumber: 2306,
+                                                                                    lineNumber: 2304,
                                                                                     columnNumber: 31
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                     children: new Date(note.postedDate).toLocaleTimeString()
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                    lineNumber: 2307,
+                                                                                    lineNumber: 2305,
                                                                                     columnNumber: 31
                                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 2305,
+                                                                            lineNumber: 2303,
                                                                             columnNumber: 29
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4621,24 +4619,24 @@ const Jobs = ()=>{
                                                                                 className: "ri-delete-bin-line"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                lineNumber: 2315,
+                                                                                lineNumber: 2313,
                                                                                 columnNumber: 31
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 2309,
+                                                                            lineNumber: 2307,
                                                                             columnNumber: 29
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 2304,
+                                                                    lineNumber: 2302,
                                                                     columnNumber: 27
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2297,
+                                                            lineNumber: 2295,
                                                             columnNumber: 25
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4646,7 +4644,7 @@ const Jobs = ()=>{
                                                             children: note.note
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2319,
+                                                            lineNumber: 2317,
                                                             columnNumber: 25
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4656,7 +4654,7 @@ const Jobs = ()=>{
                                                                     className: "ri-user-line"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 2323,
+                                                                    lineNumber: 2321,
                                                                     columnNumber: 27
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 "Posted by: ",
@@ -4665,19 +4663,19 @@ const Jobs = ()=>{
                                                                     children: note.postedBy
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 2324,
+                                                                    lineNumber: 2322,
                                                                     columnNumber: 38
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2322,
+                                                            lineNumber: 2320,
                                                             columnNumber: 25
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, note.id, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2293,
+                                                    lineNumber: 2291,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0))) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "p-8 border border-gray-200 dark:border-defaultborder/10 rounded-lg text-center bg-gray-50 dark:bg-black/20",
@@ -4686,7 +4684,7 @@ const Jobs = ()=>{
                                                         className: "ri-file-list-line text-3xl text-gray-400 dark:text-gray-500 mb-2"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 2330,
+                                                        lineNumber: 2328,
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4694,48 +4692,48 @@ const Jobs = ()=>{
                                                         children: "No notes yet. Add your first note above."
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                        lineNumber: 2331,
+                                                        lineNumber: 2329,
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 2329,
+                                                lineNumber: 2327,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2290,
+                                            lineNumber: 2288,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 2285,
+                                    lineNumber: 2283,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                            lineNumber: 2202,
+                            lineNumber: 2200,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "text-center py-8 text-gray-500",
                             children: "No job selected"
                         }, void 0, false, {
                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                            lineNumber: 2338,
+                            lineNumber: 2336,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                        lineNumber: 2200,
+                        lineNumber: 2198,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                lineNumber: 2178,
+                lineNumber: 2176,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4747,7 +4745,7 @@ const Jobs = ()=>{
                 "data-hs-overlay": "#share-job-modal"
             }, void 0, false, {
                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                lineNumber: 2344,
+                lineNumber: 2342,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4768,14 +4766,14 @@ const Jobs = ()=>{
                                                 className: "ri-share-line text-primary"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 2360,
+                                                lineNumber: 2358,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             "Share Job"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 2359,
+                                        lineNumber: 2357,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4793,7 +4791,7 @@ const Jobs = ()=>{
                                                 children: "Close"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 2373,
+                                                lineNumber: 2371,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
@@ -4808,24 +4806,24 @@ const Jobs = ()=>{
                                                     fill: "currentColor"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2375,
+                                                    lineNumber: 2373,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                lineNumber: 2374,
+                                                lineNumber: 2372,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                        lineNumber: 2363,
+                                        lineNumber: 2361,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                lineNumber: 2358,
+                                lineNumber: 2356,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4841,7 +4839,7 @@ const Jobs = ()=>{
                                                     children: shareJob.jobTitle
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2384,
+                                                    lineNumber: 2382,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4853,13 +4851,13 @@ const Jobs = ()=>{
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2385,
+                                                    lineNumber: 2383,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2383,
+                                            lineNumber: 2381,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4869,7 +4867,7 @@ const Jobs = ()=>{
                                                     children: "Public URL"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2392,
+                                                    lineNumber: 2390,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4882,7 +4880,7 @@ const Jobs = ()=>{
                                                             readOnly: true
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2396,
+                                                            lineNumber: 2394,
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4894,26 +4892,26 @@ const Jobs = ()=>{
                                                                     className: `ri-${copied ? 'check' : 'file-copy'}-line me-1`
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 2407,
+                                                                    lineNumber: 2405,
                                                                     columnNumber: 25
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 copied ? 'Copied!' : 'Copy'
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2402,
+                                                            lineNumber: 2400,
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2395,
+                                                    lineNumber: 2393,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2391,
+                                            lineNumber: 2389,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4923,7 +4921,7 @@ const Jobs = ()=>{
                                                     children: "Share via"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2415,
+                                                    lineNumber: 2413,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4938,14 +4936,14 @@ const Jobs = ()=>{
                                                                     className: "ri-whatsapp-line text-xl"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 2424,
+                                                                    lineNumber: 2422,
                                                                     columnNumber: 25
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 "WhatsApp"
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2419,
+                                                            lineNumber: 2417,
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         !showEmailInput ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4957,14 +4955,14 @@ const Jobs = ()=>{
                                                                     className: "ri-mail-line text-xl"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 2434,
+                                                                    lineNumber: 2432,
                                                                     columnNumber: 27
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 "Email"
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2429,
+                                                            lineNumber: 2427,
                                                             columnNumber: 25
                                                         }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "space-y-2",
@@ -4982,7 +4980,7 @@ const Jobs = ()=>{
                                                                     }
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 2439,
+                                                                    lineNumber: 2437,
                                                                     columnNumber: 27
                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4998,14 +4996,14 @@ const Jobs = ()=>{
                                                                                     className: "ri-send-plane-line me-1"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                                    lineNumber: 2458,
+                                                                                    lineNumber: 2456,
                                                                                     columnNumber: 31
                                                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                                                 "Send"
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 2452,
+                                                                            lineNumber: 2450,
                                                                             columnNumber: 29
                                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -5018,49 +5016,49 @@ const Jobs = ()=>{
                                                                             children: "Cancel"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                            lineNumber: 2461,
+                                                                            lineNumber: 2459,
                                                                             columnNumber: 29
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                                    lineNumber: 2451,
+                                                                    lineNumber: 2449,
                                                                     columnNumber: 27
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                            lineNumber: 2438,
+                                                            lineNumber: 2436,
                                                             columnNumber: 25
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                                    lineNumber: 2418,
+                                                    lineNumber: 2416,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                            lineNumber: 2414,
+                                            lineNumber: 2412,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 2381,
+                                    lineNumber: 2379,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "text-center py-4 text-gray-500",
                                     children: "No job selected"
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 2478,
+                                    lineNumber: 2476,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                lineNumber: 2379,
+                                lineNumber: 2377,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$dharwin_boilerplate$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5077,28 +5075,28 @@ const Jobs = ()=>{
                                     children: "Close"
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                    lineNumber: 2482,
+                                    lineNumber: 2480,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                                lineNumber: 2481,
+                                lineNumber: 2479,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                        lineNumber: 2357,
+                        lineNumber: 2355,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                    lineNumber: 2356,
+                    lineNumber: 2354,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page.tsx",
-                lineNumber: 2352,
+                lineNumber: 2350,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]

@@ -5,8 +5,10 @@ const nextConfig = {
   output: "export",
   reactStrictMode: true,
   trailingSlash: true,
-  basePath: isProd ? "/tailwind/app/dharwin-business-solutions/preview" : undefined,
-	assetPrefix : isProd ? "/tailwind/app/dharwin-business-solutions/preview" : undefined,
+  // basePath: isProd ? "/tailwind/app/dharwin-business-solutions/preview" : undefined,
+  // assetPrefix : isProd ? "/tailwind/app/dharwin-business-solutions/preview" : undefined,
+  basePath: "",
+  assetPrefix: "",
   images: {
     loader: "imgix",
     path: "/",

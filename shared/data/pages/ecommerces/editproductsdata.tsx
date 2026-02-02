@@ -1,3 +1,4 @@
+"use client"
 // Category
 interface Category {
   value: string;
@@ -122,7 +123,6 @@ export const AvailabilityData: Availability[] = [
   { value: "Out Of Stock", label: "Out Of Stock" },
 ];
 
-"use client"
 import TiptapEditor from '@/shared/data/forms/form-editors/tiptapeditor'
 
 const defaultContent = `

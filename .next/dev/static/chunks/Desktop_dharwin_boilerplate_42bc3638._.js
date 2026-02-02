@@ -1668,8 +1668,10 @@ const nextConfig = {
     output: "export",
     reactStrictMode: true,
     trailingSlash: true,
-    basePath: ("TURBOPACK compile-time falsy", 0) ? "TURBOPACK unreachable" : undefined,
-    assetPrefix: ("TURBOPACK compile-time falsy", 0) ? "TURBOPACK unreachable" : undefined,
+    // basePath: isProd ? "/tailwind/app/dharwin-business-solutions/preview" : undefined,
+    // assetPrefix : isProd ? "/tailwind/app/dharwin-business-solutions/preview" : undefined,
+    basePath: "",
+    assetPrefix: "",
     images: {
         loader: "imgix",
         path: "/"

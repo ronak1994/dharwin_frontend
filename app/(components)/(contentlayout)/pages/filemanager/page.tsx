@@ -444,8 +444,8 @@ const Filemanager = () => {
                         </div>
                         <div className="p-4 border-b border-dashed dark:border-defaultborder/10">
                             <p className="mb-1 font-semibold text-[.875rem]">Downloaded from :</p>
-                            <Link className="text-primary font-semibold break-words" href="https://themeforest.net/user/spruko/portfolio" target="_blank" scroll={false}>
-                                <u>https://themeforest.net/user/spruko/portfolio</u>
+                            <Link className="text-primary font-semibold break-words" href="google.com" target="_blank" scroll={false}>
+                                <u>Google</u>
                             </Link>
                         </div>
                         <div className="p-4">

@@ -6,6 +6,8 @@ import dynamic from 'next/dynamic';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import React, { ChangeEvent, Fragment, useEffect, useRef, useState } from 'react';
+import UserRolesTable from './user-roles-table';
+import UsersTable from './users-table';
 const Select = dynamic(() => import("react-select"), { ssr: false });
 
 const Mailsettings = () => {
@@ -36,37 +38,47 @@ const Mailsettings = () => {
     };
     return (
         <Fragment>
-            <Seo title={"Mail Settings"} />
-            <Pageheader currentpage="Mail Settings" activepage="Email" mainpage="Mail Settings" />
-            <div className='container'>
+            <div className='container w-full max-w-full mx-auto'>
                 <div className="grid grid-cols-12 gap-6 mb-[3rem]">
                     <div className="xl:col-span-12 col-span-12">
                         <div className="box">
                             <div className="box-header sm:flex block !justify-start">
                                 <nav aria-label="Tabs" className="md:flex block !justify-start whitespace-nowrap" role="tablist">
-                                    <Link href="#!" scroll={false} className="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 flex-grow  text-[0.75rem] font-medium rounded-md hover:text-primary active" id="Personal-item" data-hs-tab="#personal-info" aria-controls="#personal-info">
+                                    <Link href="#!" scroll={false} className="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 flex-grow  text-[0.75rem] font-medium rounded-md hover:text-primary active" id="user-roles-item" data-hs-tab="#user-roles" aria-controls="user-roles">
+                                        User Roles
+                                    </Link>
+                                    <Link href="#!" scroll={false} className="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="users-item" data-hs-tab="#users" aria-controls="users">
+                                        Users
+                                    </Link>
+                                    <Link href="#!" scroll={false} className="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 flex-grow  text-[0.75rem] font-medium rounded-md hover:text-primary " id="Personal-item" data-hs-tab="#personal-info" aria-controls="#personal-info">
                                         Personal Information
                                     </Link>
-                                    <Link href="#!" scroll={false} className="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="account-item" data-hs-tab="#account-settings" aria-controls="account-settings">
+                                    <Link href="#!" scroll={false} className="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary hidden" id="account-item" data-hs-tab="#account-settings" aria-controls="account-settings">
                                         Account Settings
                                     </Link>
-                                    <Link href="#!" scroll={false} className="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="email-item" data-hs-tab="#email-settings" aria-controls="email-settings">
+                                    <Link href="#!" scroll={false} className="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary hidden" id="email-item" data-hs-tab="#email-settings" aria-controls="email-settings">
                                         Email
                                     </Link>
-                                    <Link href="#!" scroll={false} className="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="labels-item" data-hs-tab="#labels" aria-controls="labels">
+                                    <Link href="#!" scroll={false} className="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary hidden" id="labels-item" data-hs-tab="#labels" aria-controls="labels">
                                         Labels
                                     </Link>
-                                    <Link href="#!" scroll={false} className="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="notifications-item" data-hs-tab="#notification-settings" aria-controls="notification-settings">
+                                    <Link href="#!" scroll={false} className="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary hidden" id="notifications-item" data-hs-tab="#notification-settings" aria-controls="notification-settings">
                                         Notifications
                                     </Link>
-                                    <Link href="#!" scroll={false} className="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary " id="security-item" data-hs-tab="#security" aria-controls="security">
+                                    <Link href="#!" scroll={false} className="m-1 block w-full hs-tab-active:bg-primary/10 hs-tab-active:text-primary cursor-pointer text-defaulttextcolor dark:text-defaulttextcolor/70 py-2 px-3 text-[0.75rem] flex-grow font-medium rounded-md hover:text-primary hidden" id="security-item" data-hs-tab="#security" aria-controls="security">
                                         Security
                                     </Link>
                                 </nav>
                             </div>
-                            <div className="box-body">
-                                <div className="tab-content">
-                                    <div className="tab-pane show active dark:border-defaultborder/10" id="personal-info" aria-labelledby="Personal-item" >
+                            <div>
+                                <div className="tab-content border-none">
+                                    <div className="tab-pane show active dark:border-defaultborder/10" id="user-roles" aria-labelledby="user-roles-item" role="tabpanel">
+                                        <UserRolesTable />
+                                    </div>
+                                    <div className="tab-pane dark:border-defaultborder/10 hidden" id="users" aria-labelledby="users-item" role="tabpanel">
+                                        <UsersTable />
+                                    </div>
+                                    <div className="tab-pane dark:border-defaultborder/10 hidden" id="personal-info" aria-labelledby="Personal-item" role="tabpanel">
                                         <div className="sm:p-4 p-0">
                                             <h6 className="font-semibold mb-4 text-[1rem]">
                                                 Photo :
@@ -141,6 +153,9 @@ const Mailsettings = () => {
                                                         defaultValue="Lorem ipsum dolor sit amet consectetur adipisicing elit. At sit impedit, officiis non minima saepe voluptates a magnam enim sequi porro veniam ea suscipit dolorum vel mollitia voluptate iste nemo!"
                                                     />
                                                 </div>
+                                                <button type="button" className="ti-btn bg-primary text-white m-1">
+                                        Save Changes
+                                    </button>
                                             </div>
                                         </div>
                                     </div>
@@ -985,16 +1000,7 @@ const Mailsettings = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div className="box-footer">
-                                <div className="ltr:float-right rtl:float-left">
-                                    <button type="button" className="ti-btn ti-btn-light m-1">
-                                        Restore Defaults
-                                    </button>
-                                    <button type="button" className="ti-btn bg-primary text-white m-1">
-                                        Save Changes
-                                    </button>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>

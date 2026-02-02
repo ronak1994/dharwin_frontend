@@ -90,7 +90,7 @@ const Mailapp = () => {
     return (
         <Fragment>
             <Seo title={"Mail App"} />
-            <Pageheader currentpage="Mail App" activepage="Email" mainpage="Mail App" />
+            
             <div className="container-fluid">
                 <div className="main-mail-container !p-2 gap-x-2 flex">
                     <div className={`mail-navigation ${isMailNavigationVisible ? '!block' : ''} border dark:border-defaultborder/10`}>
