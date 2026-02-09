@@ -1,11 +1,1 @@
-{
-  "version": 4,
-  "routes": {},
-  "dynamicRoutes": {},
-  "notFoundRoutes": [],
-  "preview": {
-    "previewModeId": "70d68b5123b93ba6161460775b776d4c",
-    "previewModeSigningKey": "1f8bf65e40001eea7cf3566e3f7fee7c4b7c22ec5826e8fee75526a8caa05268",
-    "previewModeEncryptionKey": "9770057524e4c7a6ca33edb2e09836d366b33e43901980daad110bfff6f28ff1"
-  }
-}
+{"version":4,"routes":{"/training/curriculum/modules/mod-1":{},"/training/curriculum/modules/mod-2":{},"/training/curriculum/modules/mod-3":{},"/training/curriculum/modules/mod-4":{},"/training/curriculum/modules/mod-5":{},"/training/curriculum/modules/mod-6":{}},"dynamicRoutes":{"/training/curriculum/modules/[id]":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/training/curriculum/modules/[id]","routeRegex":"^\\/training\\/curriculum\\/modules\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"692b3a8515197577c80e1d455074f486","previewModeSigningKey":"a299da7aacc0a9f33e7a7d75df062e9aa769fce6877d97ed9c10e9ddb0906a4f","previewModeEncryptionKey":"854c8570c16f0ada7ac1947c4237162d0fef44433980e48c2d0282b938e728d8"}}

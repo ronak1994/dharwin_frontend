@@ -1,12 +1,11 @@
 {
   "app": {
-    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/candidates/page": [],
-    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/interviews/page": [],
-    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/ats/jobs/page": [],
     "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/dashboards/projects/page": [],
-    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/create-role/page": [],
-    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/pages/email/mail-settings/page": [],
-    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/project-management/analytics/page": [],
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/attendance/page": [],
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/categories/page": [],
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/[id]/page": [],
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page": [],
+    "[project]/Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/page": [],
     "[project]/Desktop/dharwin_boilerplate/app/_not-found/page": [],
     "[project]/Desktop/dharwin_boilerplate/app/page": []
   },

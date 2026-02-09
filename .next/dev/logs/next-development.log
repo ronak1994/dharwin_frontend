@@ -1,11 +1,624 @@
-[00:00:01.054] Server  LOG      ✓ Ready in 794ms
-[00:00:07.739] Server  LOG      ○ Compiling / ...
-[00:00:13.005] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:14.730] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[00:45:31.799] Browser LOG     Edit user: {"id":"1","permissions":["Full Access","User Management","Role Management","Settings"],"role":"Administrator","userName":"John Doe"}
-[00:45:34.304] Browser LOG     Edit user: {"id":"2","permissions":["View Reports","User Management","Edit Content"],"role":"Manager","userName":"Jane Smith"}
-[00:57:29.623] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:57:29.901] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[00:57:49.151] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:57:49.394] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[01:02:28.637] Browser LOG     Edit role: {"id":"2","permissions":["View Reports","User Management","Edit Content"],"roleType":"Manager"}
+[00:00:01.975] Server  LOG      ✓ Ready in 1736ms
+[00:00:11.157] Server  LOG      ○ Compiling / ...
+[00:00:15.315] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:16.242] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:13:20.721] Browser ERROR   unhandledRejection: TypeError: Cannot read properties of undefined (reading 'getAttribute')
+[00:13:20.722] Browser ERROR   unhandledRejection: TypeError: Cannot read properties of undefined (reading 'getAttribute')
+[00:14:11.853] Server  LOG      ✓ Compiled in 3.1s
+[00:16:34.688] Server  LOG      ✓ Compiled in 4.3s
+[00:16:42.105] Server  LOG      ✓ Compiled in 3.7s
+[00:18:44.928] Server  LOG      ✓ Compiled in 4.1s
+[00:18:49.724] Server  LOG      ✓ Compiled in 4s
+[00:18:49.826] Browser ERROR   uncaughtError: ReferenceError: selectedMentors is not defined
+[00:18:58.856] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:18:58.865] Server  LOG      ✓ Compiled in 3.4s
+[00:18:59.297] Browser ERROR   unhandledRejection: TypeError: Cannot read properties of undefined (reading 'getAttribute')
+[00:18:59.297] Browser ERROR   unhandledRejection: TypeError: Cannot read properties of undefined (reading 'getAttribute')
+[00:18:59.462] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:59.646] Browser ERROR   unhandledRejection: TypeError: Cannot read properties of undefined (reading 'getAttribute')
+[00:18:59.646] Browser ERROR   unhandledRejection: TypeError: Cannot read properties of undefined (reading 'getAttribute')
+[00:18:59.646] Browser ERROR   unhandledRejection: TypeError: Cannot read properties of undefined (reading 'getAttribute')
+[00:18:59.646] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'getAttribute')
+[00:20:42.703] Server  LOG      ✓ Compiled in 3.7s
+[00:20:48.665] Server  LOG      ✓ Compiled in 3.5s
+[00:21:03.711] Server  LOG      ✓ Compiled in 4s
+[00:30:46.001] Server  LOG      ✓ Compiled in 3.7s
+[00:30:55.976] Server  LOG      ✓ Compiled in 3.8s
+[00:31:08.844] Server  LOG      ✓ Compiled in 3.6s
+[00:31:41.446] Server  LOG      ✓ Compiled in 4.6s
+[00:31:41.966] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:42.189] Browser ERROR   unhandledRejection: TypeError: Cannot read properties of undefined (reading 'getAttribute')
+[00:31:42.189] Browser ERROR   unhandledRejection: TypeError: Cannot read properties of undefined (reading 'getAttribute')
+[00:31:42.189] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'getAttribute')
+[00:32:00.853] Server  LOG      ✓ Compiled in 4.1s
+[00:33:11.252] Browser WARN    [tiptap warn]: Duplicate extension names found: ['link', 'underline']. This can lead to issues.
+[10:57:29.894] Server  LOG      ✓ Compiled in 4.4s
+[10:57:44.072] Server  LOG      ✓ Compiled in 3.8s
+[24:00:35.203] Browser WARN    [tiptap warn]: Duplicate extension names found: ['link', 'underline']. This can lead to issues.
+[24:17:45.973] Server  LOG      ✓ Compiled in 3.6s
+[24:17:52.065] Server  LOG      ✓ Compiled in 4s
+[24:18:14.907] Server  ERROR    ⨯ ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx:1148:31
+Module not found: Can't resolve 'xlsx'
+  1146 |                             reader.onload = () => {
+  1147 |                               const arr = new Uint8Array(reader.result as ArrayBuffer)
+> 1148 |                               import('xlsx').then((XLSX) => {
+       |                               ^^^^^^^^^^^^^^
+  1149 |                                 const wb = XLSX.read(arr, { type: 'array' })
+  1150 |                                 const first = wb.SheetNames[0]
+  1151 |                                 const sheet = wb.Sheets[first]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component Browser]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component SSR]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[24:18:14.913] Server  ERROR    ⨯ ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx:1148:31
+Module not found: Can't resolve 'xlsx'
+  1146 |                             reader.onload = () => {
+  1147 |                               const arr = new Uint8Array(reader.result as ArrayBuffer)
+> 1148 |                               import('xlsx').then((XLSX) => {
+       |                               ^^^^^^^^^^^^^^
+  1149 |                                 const wb = XLSX.read(arr, { type: 'array' })
+  1150 |                                 const first = wb.SheetNames[0]
+  1151 |                                 const sheet = wb.Sheets[first]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component Browser]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component SSR]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[24:18:14.927] Server  ERROR    ⨯ ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx:1148:31
+Module not found: Can't resolve 'xlsx'
+  1146 |                             reader.onload = () => {
+  1147 |                               const arr = new Uint8Array(reader.result as ArrayBuffer)
+> 1148 |                               import('xlsx').then((XLSX) => {
+       |                               ^^^^^^^^^^^^^^
+  1149 |                                 const wb = XLSX.read(arr, { type: 'array' })
+  1150 |                                 const first = wb.SheetNames[0]
+  1151 |                                 const sheet = wb.Sheets[first]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component Browser]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component SSR]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[24:18:14.936] Server  ERROR    ⨯ ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx:1148:31
+Module not found: Can't resolve 'xlsx'
+  1146 |                             reader.onload = () => {
+  1147 |                               const arr = new Uint8Array(reader.result as ArrayBuffer)
+> 1148 |                               import('xlsx').then((XLSX) => {
+       |                               ^^^^^^^^^^^^^^
+  1149 |                                 const wb = XLSX.read(arr, { type: 'array' })
+  1150 |                                 const first = wb.SheetNames[0]
+  1151 |                                 const sheet = wb.Sheets[first]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component Browser]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component SSR]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[24:18:14.941] Server  ERROR    ⨯ ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx:1148:31
+Module not found: Can't resolve 'xlsx'
+  1146 |                             reader.onload = () => {
+  1147 |                               const arr = new Uint8Array(reader.result as ArrayBuffer)
+> 1148 |                               import('xlsx').then((XLSX) => {
+       |                               ^^^^^^^^^^^^^^
+  1149 |                                 const wb = XLSX.read(arr, { type: 'array' })
+  1150 |                                 const first = wb.SheetNames[0]
+  1151 |                                 const sheet = wb.Sheets[first]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component Browser]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component SSR]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[24:18:14.946] Server  ERROR    ⨯ ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx:1148:31
+Module not found: Can't resolve 'xlsx'
+  1146 |                             reader.onload = () => {
+  1147 |                               const arr = new Uint8Array(reader.result as ArrayBuffer)
+> 1148 |                               import('xlsx').then((XLSX) => {
+       |                               ^^^^^^^^^^^^^^
+  1149 |                                 const wb = XLSX.read(arr, { type: 'array' })
+  1150 |                                 const first = wb.SheetNames[0]
+  1151 |                                 const sheet = wb.Sheets[first]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component Browser]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component SSR]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[24:18:14.957] Server  ERROR    ⨯ ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx:1148:31
+Module not found: Can't resolve 'xlsx'
+  1146 |                             reader.onload = () => {
+  1147 |                               const arr = new Uint8Array(reader.result as ArrayBuffer)
+> 1148 |                               import('xlsx').then((XLSX) => {
+       |                               ^^^^^^^^^^^^^^
+  1149 |                                 const wb = XLSX.read(arr, { type: 'array' })
+  1150 |                                 const first = wb.SheetNames[0]
+  1151 |                                 const sheet = wb.Sheets[first]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component Browser]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component SSR]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[24:18:14.962] Server  ERROR    ⨯ ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx:1148:31
+Module not found: Can't resolve 'xlsx'
+  1146 |                             reader.onload = () => {
+  1147 |                               const arr = new Uint8Array(reader.result as ArrayBuffer)
+> 1148 |                               import('xlsx').then((XLSX) => {
+       |                               ^^^^^^^^^^^^^^
+  1149 |                                 const wb = XLSX.read(arr, { type: 'array' })
+  1150 |                                 const first = wb.SheetNames[0]
+  1151 |                                 const sheet = wb.Sheets[first]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component Browser]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component SSR]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[24:18:14.968] Server  ERROR    ⨯ ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx:1148:31
+Module not found: Can't resolve 'xlsx'
+  1146 |                             reader.onload = () => {
+  1147 |                               const arr = new Uint8Array(reader.result as ArrayBuffer)
+> 1148 |                               import('xlsx').then((XLSX) => {
+       |                               ^^^^^^^^^^^^^^
+  1149 |                                 const wb = XLSX.read(arr, { type: 'array' })
+  1150 |                                 const first = wb.SheetNames[0]
+  1151 |                                 const sheet = wb.Sheets[first]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component Browser]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component SSR]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[24:18:14.972] Server  ERROR    ⨯ ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx:1148:31
+Module not found: Can't resolve 'xlsx'
+  1146 |                             reader.onload = () => {
+  1147 |                               const arr = new Uint8Array(reader.result as ArrayBuffer)
+> 1148 |                               import('xlsx').then((XLSX) => {
+       |                               ^^^^^^^^^^^^^^
+  1149 |                                 const wb = XLSX.read(arr, { type: 'array' })
+  1150 |                                 const first = wb.SheetNames[0]
+  1151 |                                 const sheet = wb.Sheets[first]
+
+
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component Browser]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component SSR]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[24:18:14.977] Server  LOG      ✓ Compiled in 4.1s
+[24:18:15.092] Browser ERROR   ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx:1148:31
+Module not found: Can't resolve 'xlsx'
+  1146 |                             reader.onload = () => {
+  1147 |                               const arr = new Uint8Array(reader.result as ArrayBuffer)
+> 1148 |                               import('xlsx').then((XLSX) => {
+       |                               ^^^^^^^^^^^^^^
+  1149 |                                 const wb = XLSX.read(arr, { type: 'array' })
+  1150 |                                 const first = wb.SheetNames[0]
+  1151 |                                 const sheet = wb.Sheets[first]
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component Browser]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Client Component SSR]
+    ./Desktop/dharwin_boilerplate/app/(components)/(contentlayout)/training/curriculum/modules/create/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[24:18:26.153] Server  LOG      ✓ Compiled in 4.3s
+[24:18:32.397] Server  LOG      ✓ Compiled in 3.6s
+[24:18:36.521] Server  LOG      ✓ Compiled in 3.6s
+[24:18:42.471] Server  LOG      ✓ Compiled in 3.6s
+[24:19:10.797] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[24:19:24.034] Browser ERROR   unhandledRejection: TypeError: Cannot read properties of undefined (reading 'getAttribute')
+[24:19:24.034] Browser ERROR   unhandledRejection: TypeError: Cannot read properties of undefined (reading 'getAttribute')
+[24:30:16.780] Server  LOG      ✓ Compiled in 0ms
+[24:30:35.976] Server  LOG      ✓ Compiled in 3.5s
+[24:30:46.394] Server  LOG      ✓ Compiled in 3.9s
+[24:31:24.208] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[24:31:25.170] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[24:31:25.591] Browser ERROR   uncaughtError: Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[24:31:31.297] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[24:31:31.376] Browser ERROR   uncaughtError: Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[24:31:33.303] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[24:31:34.420] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[24:31:37.360] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[24:31:37.600] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[24:31:37.673] Browser ERROR   uncaughtError: Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[24:33:04.653] Server  LOG      ✓ Compiled in 3.7s
+[24:33:05.286] Server  WARN    Error: Route "/training/curriculum/modules/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[24:33:05.713] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[24:33:05.878] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/training/..." notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/training/..." tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} ...>
+                <SegmentViewNode type="layout" pagePath="/Desktop/d...">
+                  <SegmentTrieNode>
+                  <script>
+                  <script>
+                  <ClientSegmentRoot Component={{...}} slots={{...}} serverProvidedParams={{params:{}, ...}}>
+                    <Connect(Layout) params={Promise}>
+                      <Layout params={Promise} local_varaiable={{lang:"en", ...}} ThemeChanger={function} ref={undefined}>
+                        <html suppressHydrationWarning={true} dir="ltr" className="light" data-header-styles="light" ...>
+                          <head>
+                          <body
+                            className=""
+-                           cz-shortcut-listen="true"
+                          >
+              ...
+
+[24:33:22.682] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[24:33:25.016] Server  WARN    Error: Route "/training/curriculum/modules/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[33:55:41.415] Server  WARN    Error: Route "/training/curriculum/modules/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[33:55:42.122] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[47:29:53.101] Server  LOG      ○ Compiling /_not-found/page ...
+[47:30:01.053] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[47:30:01.165] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <RenderFromTemplateContext>
+      <ScrollAndFocusHandler segmentPath={[...]}>
+        <InnerScrollAndFocusHandler segmentPath={[...]} focusAndScrollRef={{apply:false, ...}}>
+          <ErrorBoundary errorComponent={undefined} errorStyles={undefined} errorScripts={undefined}>
+            <LoadingBoundary name="/_not-found/" loading={null}>
+              <HTTPAccessFallbackBoundary notFound={undefined} forbidden={undefined} unauthorized={undefined}>
+                <RedirectBoundary>
+                  <RedirectErrorBoundary router={{...}}>
+                    <InnerLayoutRouter url="/training/..." tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} ...>
+                      <SegmentViewNode type="page" pagePath="/Desktop/d...">
+                        <SegmentTrieNode>
+                        <NotFound>
+                          <html>
+                            <body
+-                             cz-shortcut-listen="true"
+                            >
+                      ...
+                    ...
+          ...
+    ...
+
+[47:32:11.567] Server  LOG      ○ Compiling /training/curriculum/modules/[id] ...
+[47:32:12.895] Server  LOG      ✓ Compiled in 20ms
+[47:32:13.549] Server  ERROR    ⨯ Failed to generate static paths for /training/curriculum/modules/[id]:
+[47:32:13.560] Server  ERROR   Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:13.560] Server  ERROR    ⨯ Failed to generate static paths for /training/curriculum/modules/[id]:
+[47:32:13.569] Server  ERROR   Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:13.569] Server  ERROR    ⨯ Failed to generate static paths for /training/curriculum/modules/[id]:
+[47:32:13.580] Server  ERROR   Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:13.581] Server  ERROR    ⨯ Failed to generate static paths for /training/curriculum/modules/[id]:
+[47:32:13.592] Server  ERROR   Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:13.592] Server  ERROR    ⨯ Failed to generate static paths for /training/curriculum/modules/[id]:
+[47:32:13.601] Server  ERROR   Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:13.601] Server  ERROR    ⨯ Failed to generate static paths for /training/curriculum/modules/[id]:
+[47:32:13.606] Server  ERROR   Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:13.606] Server  ERROR    ⨯ Failed to generate static paths for /training/curriculum/modules/[id]:
+[47:32:13.635] Server  ERROR   Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:13.636] Server  ERROR    ⨯ Failed to generate static paths for /training/curriculum/modules/[id]:
+[47:32:13.638] Server  ERROR   Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:13.638] Server  ERROR    ⨯ Failed to generate static paths for /training/curriculum/modules/[id]:
+[47:32:13.642] Server  ERROR   Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:13.643] Server  ERROR    ⨯ Failed to generate static paths for /training/curriculum/modules/[id]:
+[47:32:13.646] Server  ERROR   Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:13.646] Server  ERROR    ⨯ Failed to generate static paths for /training/curriculum/modules/[id]:
+[47:32:13.650] Server  ERROR   Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:13.650] Server  ERROR    ⨯ Failed to generate static paths for /training/curriculum/modules/[id]:
+[47:32:13.653] Server  ERROR   Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:13.654] Server  ERROR    ⨯ Failed to generate static paths for /training/curriculum/modules/[id]:
+[47:32:13.656] Server  ERROR   Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:13.657] Server  ERROR    ⨯ Failed to generate static paths for /training/curriculum/modules/[id]:
+[47:32:13.659] Server  ERROR   Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:14.032] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:17.458] Server  LOG      ✓ Compiled in 3.6s
+[47:32:17.699] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:17.954] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:18.193] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:18.421] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:18.656] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:18.887] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:19.124] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:19.352] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:19.607] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:19.840] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:20.072] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:20.304] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:20.532] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:20.770] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:20.996] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:21.235] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:21.725] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:21.970] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:22.199] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:22.473] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:22.717] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:22.946] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:23.175] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:23.402] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:23.629] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:23.883] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:24.116] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:24.349] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:24.576] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:24.820] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:25.057] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:25.286] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:25.519] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:25.742] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:25.966] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:26.188] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:26.414] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:26.750] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:26.975] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:27.204] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:27.435] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:27.663] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:27.892] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:28.117] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:28.344] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:28.570] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:28.806] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:29.030] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:29.260] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:29.495] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:29.820] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:30.062] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:30.294] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:30.525] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:30.766] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:31.006] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:31.250] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:31.492] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:31.736] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:31.998] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:32.256] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:32.496] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:32.891] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:33.132] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:33.375] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:33.619] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:33.864] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:34.098] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:34.328] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:34.581] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:34.812] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:35.043] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:35.280] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:35.516] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:35.777] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:36.035] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:36.273] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:36.515] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:36.772] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:37.010] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:37.253] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:37.488] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:37.796] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:38.049] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:38.292] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:38.550] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:38.787] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:39.024] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:39.256] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:39.490] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:39.726] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:40.070] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:40.306] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:40.534] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:40.770] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:41.051] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:41.356] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:41.610] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:41.901] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:42.171] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:42.409] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:42.710] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:42.954] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:43.192] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:43.509] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:43.848] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:44.096] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:44.342] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:44.592] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:44.834] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:45.070] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:45.313] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:45.549] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:45.786] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:46.030] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:46.268] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:46.507] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:46.738] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:46.977] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:47.208] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:47.452] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:47.729] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:48.041] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:48.277] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:48.517] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:48.754] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:48.994] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:49.230] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:49.468] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:49.701] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:49.931] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:50.167] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:50.406] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:50.649] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:50.887] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:51.128] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:51.498] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:51.869] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:52.112] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:52.345] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:52.581] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:52.815] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:53.055] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:53.286] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:53.561] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:53.804] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:54.052] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:54.289] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:54.537] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:54.775] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:55.007] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:55.240] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:55.467] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:55.714] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:55.971] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:56.607] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:32:56.776] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[47:32:56.918] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/training/..." notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/training/..." tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} ...>
+                <SegmentViewNode type="layout" pagePath="/Desktop/d...">
+                  <SegmentTrieNode>
+                  <script>
+                  <script>
+                  <ClientSegmentRoot Component={{...}} slots={{...}} serverProvidedParams={{params:{}, ...}}>
+                    <Connect(Layout) params={Promise}>
+                      <Layout params={Promise} local_varaiable={{lang:"en", ...}} ThemeChanger={function} ref={undefined}>
+                        <html suppressHydrationWarning={true} dir="ltr" className="light" data-header-styles="light" ...>
+                          <head>
+                          <body
+                            className=""
+-                           cz-shortcut-listen="true"
+                          >
+              ...
+
+[47:32:58.465] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[47:33:00.982] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:33:01.226] Server  ERROR    ⨯ Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
+[47:33:01.317] Browser ERROR   uncaughtError: Error: Page "/(components)/(contentlayout)/training/curriculum/modules/[id]/page" is missing exported function "generateStaticParams()", which is required with "output: export" config.
